@@ -18,3 +18,4 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 
 ![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=giswqs&show_icons=true)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=giswqs&langs_count=3&hide=javascript,go,html,css,tex)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hujinghaoabcd)](https://github.com/anuraghazra/github-readme-stats)
