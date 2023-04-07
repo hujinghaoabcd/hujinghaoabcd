@@ -1,3 +1,4 @@
+# [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
 ## Introduction - Jinghao Hu 
 
 I am a PhD student at the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/). My research interests include geographic information science (GIS) and environmental modelling. I am mainly engaged in research related to road traffic, air pollution and geospatial big data. I mainly conduct mobile GIS and cloud GIS system development. I am a strong supporter of open source GIS, and more information about my research can be found on my personal website and research blog.
