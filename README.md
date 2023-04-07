@@ -16,7 +16,7 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 - **Google Earth Engine:** [Awesome-GEE](https://github.com/giswqs/Awesome-GEE) | [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) | [qgis-earthengine-examples](https://github.com/giswqs/qgis-earthengine-examples) | [earthengine-apps](https://github.com/giswqs/earthengine-apps)
 
 
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=giswqs&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hujinghaoabcd&show_icons=true)
+<!-- ![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=giswqs&show_icons=true) -->
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=giswqs&langs_count=3&hide=javascript,go,html,css,tex)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hujinghaoabcd)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hujinghaoabcd&show_icons=true&theme=transparent)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hujinghaoabcd)](https://github.com/anuraghazra/github-readme-stats) -->
