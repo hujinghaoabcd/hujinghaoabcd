@@ -29,14 +29,7 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_progress=true&hide=R,css,Tex,scss,C&langs_count=4)
 
-// html构建一个一行两列的表格 隐藏表格边线
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=hujinghaoabcd&show_icons=true&theme=radical" alt="hujinghaoabcd's github stats"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hujinghaoabcd&layout=compact&theme=radical" alt="hujinghaoabcd's github top languages"/>
-    </td>
-  </tr>
-</table>
+<!-- // 构建GitHub stats 和Top Langs 在一行 -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hujinghaoabcd&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_progress=true&hide=R,css,Tex,scss,C&langs_count=4)
+
+
