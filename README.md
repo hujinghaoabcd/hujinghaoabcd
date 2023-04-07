@@ -1,13 +1,13 @@
 # [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
 
-<h1 align='center'> Hi!👋 <i>I'm Jinghao Hu!</i></h1>
+<h1 align='center'> 👨‍🎓 <i>Hi! I'm Jinghao Hu</i></h1>
 
 
 <!-- <h2 align='center'><i>I'm Jinghao Hu!</i></h2> -->
 
 <!-- ## Introduction - Jinghao Hu  -->
 
-I am a PhD student 👨‍🎓 at the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/). My research interests include geographic information science (GIS) 🌍 and environmental modelling 🧰. I am mainly engaged in research related to road traffic, air pollution and geospatial big data. I mainly conduct mobile GIS and cloud GIS system development. I am a strong supporter of open source GIS, and more information about my research can be found on my personal website and research blog 💻.
+I am a PhD student at the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/). My research interests include geographic information science (GIS) and environmental modelling. I am mainly engaged in research related to road traffic, air pollution and geospatial big data. I mainly conduct mobile GIS and cloud GIS system development. I am a strong supporter of open source GIS, and more information about my research can be found on my personal website and research blog .
 
 English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/README_CN.md)
 
