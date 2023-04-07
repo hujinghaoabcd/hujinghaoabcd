@@ -1,7 +1,14 @@
-<!-- # [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com) -->
-#  ![](https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304080055433.png)
+# [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
+<!-- #  ![](https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304080055433.png) -->
 
 <h1 align='center'> 👨‍🎓 <i>Hi! I'm Jinghao Hu</i></h1>
+<p align="center">
+<a href=""><img src="https://img.shields.io/badge/My-Blog-yellow.svg" /></a>
+<a href=""><img src="https://img.shields.io/badge/My-Linkedin-green.svg" /></a>
+<a href=""><img src="https://img.shields.io/badge/Donate-Buy me a coffee-red.svg" /></a>
+<a href="http://opensource.org/licenses/MIT"><img src="https://visitor-badge.laobi.icu/badge?page_id=hujinghaoabcd.hujinghaoabcd" /></a>
+</p>
+
 
 
 <!-- <h2 align='center'><i>I'm Jinghao Hu!</i></h2> -->
