@@ -1,7 +1,8 @@
 <!-- [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com) -->
 <!-- #  ![](https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304080055433.png) -->
 <!-- ![](https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304080228400.png) -->
-![](https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304080231585.png)
+![](https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304080529901.gif)
+<!-- ![](https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304080231585.png) -->
 <h1 align='center'> 👨‍🎓 <i>Hi! I'm Jinghao Hu</i></h1>
 <p align="center">
 <a href=""><img src="https://img.shields.io/badge/My-Blog-yellow.svg" /></a>
