@@ -1,6 +1,6 @@
 # [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
 
-<h1 align='center'> Hi!👋 <i>I'm Jinghao Hu!</i></h1>
+<h1 align='center'> Hi!👋 <i>I'm Jinghao Hu! :cn:</i></h1>
 
 
 <!-- <h2 align='center'><i>I'm Jinghao Hu!</i></h2> -->
