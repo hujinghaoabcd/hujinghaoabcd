@@ -85,4 +85,14 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 
 
 
+<p align='center'>
+<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
+ <p/>
+<div align="center">
+	<br>
+	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
+		<img src="follower.svg" width="800" height="140">
+	</a>
+</div>
+
  To be continued....
