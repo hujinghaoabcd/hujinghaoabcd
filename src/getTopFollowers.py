@@ -105,7 +105,7 @@ query {{
 '''
 
     html += "  </tr>\n</table>"
-    print('sssssssss', readmePath)
+    print('sssssssss', html)
     with open(readmePath, "r") as readme:
         content = readme.read()
 
