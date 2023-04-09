@@ -108,6 +108,7 @@ query {{
     print('sssssssss', html)
     with open(readmePath, "r") as readme:
         content = readme.read()
+        print('content', content)
 
     newContent = re.sub(
         r"(?<=<!\-\-START_SECTION:top\-followers\-\->)[\s\S]*(?=<!\-\-END_SECTION:top\-followers\-\->)", f"\n{html}\n", content)

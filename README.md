@@ -240,5 +240,8 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 
 ### :sparkles: [My followers](src/getTopFollowers.py)
 
+<!--START_SECTION:top-followers-->
+
+<!--END_SECTION:top-followers-->
 
  To be continued....
