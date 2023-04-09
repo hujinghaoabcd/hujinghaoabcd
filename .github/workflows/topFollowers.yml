@@ -30,6 +30,11 @@ jobs:
       - name: Pull changes
         run: git pull -r
       - name: Push changes
-        uses: ad-m/github-push-action@main
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+            git config user.name "GitHub Action"
+            git config user.email "action@github.com"
+            git add .
+            git commit -m "Auto-update README.md"
+            git push
+          fi
