@@ -12,21 +12,21 @@
 <a href="http://opensource.org/licenses/MIT"><img src="https://visitor-badge.laobi.icu/badge?page_id=hujinghaoabcd.hujinghaoabcd" /></a>
 </p>
 
-// 添加一个一行两列的表格，无边框
+
 <table border="0">
 <tr>
-<td width="70%">
+<td width="80%">
 
 I am a PhD student at the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/). My research interests include geographic information science (GIS) and environmental modelling. I am mainly engaged in research related to road traffic, air pollution and geospatial big data. I mainly conduct mobile GIS and cloud GIS system development. I am a strong supporter of open source GIS, and more information about my research can be found on my personal website and research blog .
 </td>
 <td width="30%">
-<img align='right' src='https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304091542717.gif' width='200'>
+<img align='right' src='https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304091542717.gif' width='150'>
 </td>
 </tr>
 </table>
 
 
-
+<!-- 
 <img align='right' src='https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304091542717.gif' width='200'>
 
 I am a PhD student at the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/). My research interests include geographic information science (GIS) and environmental modelling. I am mainly engaged in research related to road traffic, air pollution and geospatial big data. I mainly conduct mobile GIS and cloud GIS system development. I am a strong supporter of open source GIS, and more information about my research can be found on my personal website and research blog .
@@ -34,7 +34,8 @@ I am a PhD student at the [University of Chinese Academy of Sciences](https://ww
 <div align='left'>
 
 English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/README_CN.md)
-</div>
+</div> -->
+
 
 
 
