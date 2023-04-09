@@ -344,15 +344,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/Cocytus-kyon">Tianyu He</a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Alliekaca">
-        <img src="https://avatars2.githubusercontent.com/u/41766223" width="100px;" alt="Alliekaca"/>
-      </a>
-      <br />
-      <a href="https://github.com/Alliekaca">Alliekaca</a>
-    </td>
-  </tr>
 </table>
 <!--END_SECTION:top-followers-->
 
