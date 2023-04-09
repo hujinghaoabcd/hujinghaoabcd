@@ -1,8 +1,8 @@
 <!-- [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com) -->
-<!-- #  ![](https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304080055433.png) -->
-<!-- ![](https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304080228400.png) -->
-![](https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304080529901.gif)
 <!-- ![](https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304080231585.png) -->
+
+![](https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304080529901.gif)
+
 <h1 align='center'> 👨‍🎓 <i>Hi! I'm Jinghao Hu</i></h1>
 <p align="center">
 <a href=""><img src="https://img.shields.io/badge/My-Blog-yellow.svg" /></a>
@@ -10,12 +10,6 @@
 <a href=""><img src="https://img.shields.io/badge/Donate-Buy me a coffee-red.svg" /></a>
 <a href="http://opensource.org/licenses/MIT"><img src="https://visitor-badge.laobi.icu/badge?page_id=hujinghaoabcd.hujinghaoabcd" /></a>
 </p>
-
-
-
-<!-- <h2 align='center'><i>I'm Jinghao Hu!</i></h2> -->
-
-<!-- ## Introduction - Jinghao Hu  -->
 
 I am a PhD student at the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/). My research interests include geographic information science (GIS) and environmental modelling. I am mainly engaged in research related to road traffic, air pollution and geospatial big data. I mainly conduct mobile GIS and cloud GIS system development. I am a strong supporter of open source GIS, and more information about my research can be found on my personal website and research blog .
 
@@ -28,47 +22,35 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 
 - **Javascript Packages:**  [ThreeLibre](https://github.com/hujinghaoabcd/ThreeLibre) | [GeoLay](https://github.com/hujinghaoabcd/GeoLay) | [MapLeaf](https://github.com/hujinghaoabcd/MapLeaf)
 
-<!-- - **R packages:** [whiteboxR](https://github.com/giswqs/whiteboxR) -->
-<!-- - **Python packages:** [geemap](https://github.com/giswqs/geemap) | [leafmap](https://github.com/giswqs/leafmap) | [eefolium](https://github.com/giswqs/eefolium) | [geehydro](https://github.com/giswqs/geehydro) | [lidar](https://github.com/giswqs/lidar) | [whitebox](https://github.com/giswqs/whitebox) | [whiteboxgui](https://github.com/giswqs/whiteboxgui) | [geospatial](https://github.com/giswqs/geospatial) | [pygis](https://github.com/giswqs/pygis) | [pypackage](https://github.com/giswqs/pypackage) -->
+
 - **GIS Tools:**  [PyGISFrame](https://github.com/hujinghaoabcd/PyGISFrame) | [GeomapHub](https://github.com/hujinghaoabcd/GeomapHub) | [GeoElectron](https://github.com/hujinghaoabcd/GeoElectron)
- <!-- | [Depression Analysis Toolbox](https://github.com/giswqs/Depression-Analysis-Toolbox) | [Wetland Hydrology Analyst](https://github.com/giswqs/Wetland-Hydrology-Analyst-Toolbox) -->
+
 - **Geoscience Models:**  [PyWESM](https://github.com/hujinghaoabcd/PyWESM) 
-<!-- | [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) | [qgis-earthengine-examples](https://github.com/giswqs/qgis-earthengine-examples) | [earthengine-apps](https://github.com/giswqs/earthengine-apps) -->
+
+
+- **General Tools:**  [Personal profile](https://github.com/hujinghaoabcd/hujinghaoabcd) |[UnifieReadme](https://github.com/hujinghaoabcd/UnifieReadme) 
+
+
+---
+
+### **📫** How to reach me
+
+---
+
+### **📝** Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### **📚** Latest Publications
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hujinghaoabcd&show_icons=true)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_progress=true&hide=R,css,Tex,scss,C&langs_count=4) -->
 
-<!-- // 构建GitHub stats 和Top Langs 在一行 -->
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hujinghaoabcd&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_progress=true&hide=R,css,Tex,scss,C&langs_count=4) -->
-
-<!-- ![image](http://support.supermap.com.cn:8090/iserver/iClient/forJavaScript/web/img/overview/product_overview.png)
-
-![waylon walker header](http://support.supermap.com.cn:8090/iserver/iClient/forJavaScript/web/img/overview/product_overview.png) -->
-
-<!-- ![](https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304080019589.png) -->
----
-<!-- // 添加javascript代码 -->
-<!-- <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script> -->
-<!-- <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
-<div id="map"></div>
-<script>
-    var map = L.map('map').setView([51.505, -0.09], 13);
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    }).addTo(map);
-    L.marker([51.5, -0.09]).addTo(map)
-        .bindPopup('A pretty CSS3 popup.<br> Easily customizable.')
-        .openPopup();
-</script> -->
- <!-- <iframe  
- height=850 
- width=90% 
- src="https://www.osgeo.cn/"  
- frameborder=0  
- allowfullscreen>
- </iframe> -->
  To be continued....
