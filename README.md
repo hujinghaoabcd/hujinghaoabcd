@@ -33,8 +33,10 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 
 ---
 
-### **📫** How to reach me
+### **☎️** How to reach me
 
+- QQ: 731409213
+- Email: hujinghao20@mails.ucas.ac.cn
 ---
 
 ### **📝** Latest Blog Posts
