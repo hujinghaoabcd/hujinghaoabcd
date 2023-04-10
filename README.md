@@ -316,6 +316,13 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/EdisonForMan">Edison_Shao</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Argentas">
+        <img src="https://avatars2.githubusercontent.com/u/79354087" width="100px;" alt="Argentas"/>
+      </a>
+      <br />
+      <a href="https://github.com/Argentas">Argentas</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/zzumxf">
         <img src="https://avatars2.githubusercontent.com/u/53334781" width="100px;" alt="zzumxf"/>
       </a>
@@ -335,13 +342,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       </a>
       <br />
       <a href="https://github.com/kallismile">kallismile</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/doublexx9393">
-        <img src="https://avatars2.githubusercontent.com/u/111361026" width="100px;" alt="doublexx9393"/>
-      </a>
-      <br />
-      <a href="https://github.com/doublexx9393">doublexx9393</a>
     </td>
   </tr>
 </table>
