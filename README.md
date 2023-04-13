@@ -72,7 +72,7 @@
 <img src="https://skillicons.dev/icons?i=py,react,bootstrap,sass,ts,netlify" alt="skills planning to learn logos">
 
 <img src="https://github-profile-trophy.vercel.app/?username=HyunCafe&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br>
-<img src="https://github-profile-trophy.vercel.app/?username=hujinghaoabcd&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br>
+<img src="https://github-profile-trophy.vercel.app/?username=hujinghaoabcd&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> -->
 
 <h1 align='center'> 👨‍🎓 <i>Hi! I'm Jinghao Hu</i> <img src="https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304091427639.gif" width="30px"></h1>
 <p align="center">
@@ -80,7 +80,7 @@
 <a href=""><img src="https://img.shields.io/badge/My-Linkedin-green.svg" /></a>
 <a href=""><img src="https://img.shields.io/badge/Donate-Buy me a coffee-red.svg" /></a>
 <a href="http://opensource.org/licenses/MIT"><img src="https://visitor-badge.laobi.icu/badge?page_id=hujinghaoabcd.hujinghaoabcd" /></a>
-</p> -->
+</p>
 
 <!-- 
 
