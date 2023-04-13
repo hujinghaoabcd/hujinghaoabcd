@@ -247,7 +247,7 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 <!-- BLOG-POST-LIST:END -->
 
 
-
+---
 
 ### **📊** Github Stats
 
@@ -265,9 +265,9 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 
 
 
+---
 
-
-### **📊** This week I spent my time on
+### **⏲️** This week I spent my time on
 
 <!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=d3b7b6fc-b045-420b-af3e-7d77a37bedb3&hide_title=true&hide_border=true&langs_count=3&bg_color=00000000&text_color=777) -->
 
@@ -275,8 +275,8 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 
 [![jinghao Hu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=d3b7b6fc-b045-420b-af3e-7d77a37bedb3&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=hujinghaoabcd) -->
-
-### **📊** Latest Followers
+<!-- 
+### **📊** Latest Followers -->
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=hujinghao&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
@@ -352,19 +352,13 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 </div> -->
 
 <!-- <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
+---
 
 ### :sparkles: [My followers](src/getTopFollowers.py)
 
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/sun0225SUN">
-        <img src="https://avatars2.githubusercontent.com/u/79169717" width="100px;" alt="sun0225SUN"/>
-      </a>
-      <br />
-      <a href="https://github.com/sun0225SUN">小孙同学Coding</a>
-    </td>
     <td align="center">
       <a href="https://github.com/olavoparno">
         <img src="https://avatars2.githubusercontent.com/u/7513162" width="100px;" alt="olavoparno"/>
@@ -380,18 +374,25 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/Murplugg">Murplugg</a>
     </td>
     <td align="center">
-      <a href="https://github.com/HeZhang1994">
-        <img src="https://avatars2.githubusercontent.com/u/23662544" width="100px;" alt="HeZhang1994"/>
-      </a>
-      <br />
-      <a href="https://github.com/HeZhang1994">He Zhang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/tariqazam836">
         <img src="https://avatars2.githubusercontent.com/u/73371130" width="100px;" alt="tariqazam836"/>
       </a>
       <br />
       <a href="https://github.com/tariqazam836">Tariq azam</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/aurasaura">
+        <img src="https://avatars2.githubusercontent.com/u/113074492" width="100px;" alt="aurasaura"/>
+      </a>
+      <br />
+      <a href="https://github.com/aurasaura">aurasaura</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/qiujiaping">
+        <img src="https://avatars2.githubusercontent.com/u/44864611" width="100px;" alt="qiujiaping"/>
+      </a>
+      <br />
+      <a href="https://github.com/qiujiaping">雨夜微凉</a>
     </td>
     <td align="center">
       <a href="https://github.com/apn6666">
@@ -401,35 +402,14 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/apn6666">Amir pouya Nasrollahi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/aurasaura">
-        <img src="https://avatars2.githubusercontent.com/u/113074492" width="100px;" alt="aurasaura"/>
-      </a>
-      <br />
-      <a href="https://github.com/aurasaura">aurasaura</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/qiujiaping">
-        <img src="https://avatars2.githubusercontent.com/u/44864611" width="100px;" alt="qiujiaping"/>
-      </a>
-      <br />
-      <a href="https://github.com/qiujiaping">雨夜微凉</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Argentas">
-        <img src="https://avatars2.githubusercontent.com/u/79354087" width="100px;" alt="Argentas"/>
-      </a>
-      <br />
-      <a href="https://github.com/Argentas">Argentas</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/wwyynnn">
         <img src="https://avatars2.githubusercontent.com/u/29294095" width="100px;" alt="wwyynnn"/>
       </a>
       <br />
       <a href="https://github.com/wwyynnn">W.YN</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/EdisonForMan">
         <img src="https://avatars2.githubusercontent.com/u/18521643" width="100px;" alt="EdisonForMan"/>
@@ -458,7 +438,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/kallismile">kallismile</a>
     </td>
-<<<<<<< HEAD
     <td align="center">
       <a href="https://github.com/doublexx9393">
         <img src="https://avatars2.githubusercontent.com/u/111361026" width="100px;" alt="doublexx9393"/>
@@ -480,8 +459,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/Cocytus-kyon">Tianyu He</a>
     </td>
-=======
->>>>>>> 416bd1e0111101a2eda98094a51eefc3f5850c93
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
