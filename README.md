@@ -388,6 +388,13 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/HeZhang1994">He Zhang</a>
     </td>
     <td align="center">
+      <a href="https://github.com/gy1016">
+        <img src="https://avatars2.githubusercontent.com/u/56495414" width="100px;" alt="gy1016"/>
+      </a>
+      <br />
+      <a href="https://github.com/gy1016">lamb</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/tariqazam836">
         <img src="https://avatars2.githubusercontent.com/u/73371130" width="100px;" alt="tariqazam836"/>
       </a>
@@ -401,6 +408,8 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/apn6666">Amir pouya Nasrollahi</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/aurasaura">
         <img src="https://avatars2.githubusercontent.com/u/113074492" width="100px;" alt="aurasaura"/>
@@ -408,8 +417,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/aurasaura">aurasaura</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/qiujiaping">
         <img src="https://avatars2.githubusercontent.com/u/44864611" width="100px;" alt="qiujiaping"/>
@@ -451,13 +458,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       </a>
       <br />
       <a href="https://github.com/zzumxf">zzumxf</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/wyc880622">
-        <img src="https://avatars2.githubusercontent.com/u/25219834" width="100px;" alt="wyc880622"/>
-      </a>
-      <br />
-      <a href="https://github.com/wyc880622">wyc880622</a>
     </td>
   </tr>
 </table>
