@@ -360,11 +360,25 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/jingsam">
+        <img src="https://avatars2.githubusercontent.com/u/1522494" width="100px;" alt="jingsam"/>
+      </a>
+      <br />
+      <a href="https://github.com/jingsam">jingsam</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/sun0225SUN">
         <img src="https://avatars2.githubusercontent.com/u/79169717" width="100px;" alt="sun0225SUN"/>
       </a>
       <br />
       <a href="https://github.com/sun0225SUN">小孙同学Coding</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bingqixuan">
+        <img src="https://avatars2.githubusercontent.com/u/13674130" width="100px;" alt="bingqixuan"/>
+      </a>
+      <br />
+      <a href="https://github.com/bingqixuan">溪衍</a>
     </td>
     <td align="center">
       <a href="https://github.com/olavoparno">
@@ -394,6 +408,8 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/gy1016">lamb</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/tariqazam836">
         <img src="https://avatars2.githubusercontent.com/u/73371130" width="100px;" alt="tariqazam836"/>
@@ -408,8 +424,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/apn6666">Amir pouya Nasrollahi</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/aurasaura">
         <img src="https://avatars2.githubusercontent.com/u/113074492" width="100px;" alt="aurasaura"/>
@@ -444,20 +458,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       </a>
       <br />
       <a href="https://github.com/EdisonForMan">Edison_Shao</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Cocytus-kyon">
-        <img src="https://avatars2.githubusercontent.com/u/16149853" width="100px;" alt="Cocytus-kyon"/>
-      </a>
-      <br />
-      <a href="https://github.com/Cocytus-kyon">Tianyu He</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zzumxf">
-        <img src="https://avatars2.githubusercontent.com/u/53334781" width="100px;" alt="zzumxf"/>
-      </a>
-      <br />
-      <a href="https://github.com/zzumxf">zzumxf</a>
     </td>
   </tr>
 </table>
