@@ -374,13 +374,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/sun0225SUN">小孙同学Coding</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bingqixuan">
-        <img src="https://avatars2.githubusercontent.com/u/13674130" width="100px;" alt="bingqixuan"/>
-      </a>
-      <br />
-      <a href="https://github.com/bingqixuan">溪衍</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/olavoparno">
         <img src="https://avatars2.githubusercontent.com/u/7513162" width="100px;" alt="olavoparno"/>
       </a>
@@ -408,8 +401,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/gy1016">lamb</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/tariqazam836">
         <img src="https://avatars2.githubusercontent.com/u/73371130" width="100px;" alt="tariqazam836"/>
@@ -417,6 +408,8 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/tariqazam836">Tariq azam</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/apn6666">
         <img src="https://avatars2.githubusercontent.com/u/106784714" width="100px;" alt="apn6666"/>
@@ -458,6 +451,13 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       </a>
       <br />
       <a href="https://github.com/EdisonForMan">Edison_Shao</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Cocytus-kyon">
+        <img src="https://avatars2.githubusercontent.com/u/16149853" width="100px;" alt="Cocytus-kyon"/>
+      </a>
+      <br />
+      <a href="https://github.com/Cocytus-kyon">Tianyu He</a>
     </td>
   </tr>
 </table>
