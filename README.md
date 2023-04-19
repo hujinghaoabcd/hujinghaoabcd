@@ -374,6 +374,13 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/sun0225SUN">小孙同学Coding</a>
     </td>
     <td align="center">
+      <a href="https://github.com/mikejohnson51">
+        <img src="https://avatars2.githubusercontent.com/u/30052272" width="100px;" alt="mikejohnson51"/>
+      </a>
+      <br />
+      <a href="https://github.com/mikejohnson51">MikeJohnson-NOAA</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/olavoparno">
         <img src="https://avatars2.githubusercontent.com/u/7513162" width="100px;" alt="olavoparno"/>
       </a>
@@ -387,6 +394,22 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/Murplugg">Murplugg</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/amiria703">
+        <img src="https://avatars2.githubusercontent.com/u/54179379" width="100px;" alt="amiria703"/>
+      </a>
+      <br />
+      <a href="https://github.com/amiria703">Amir Hossein Maher</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fernando-aristizabal">
+        <img src="https://avatars2.githubusercontent.com/u/16439785" width="100px;" alt="fernando-aristizabal"/>
+      </a>
+      <br />
+      <a href="https://github.com/fernando-aristizabal">Fernando Aristizabal</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/HeZhang1994">
         <img src="https://avatars2.githubusercontent.com/u/23662544" width="100px;" alt="HeZhang1994"/>
@@ -408,8 +431,13 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/tariqazam836">Tariq azam</a>
     </td>
-  </tr>
-  <tr>
+    <td align="center">
+      <a href="https://github.com/gislinker">
+        <img src="https://avatars2.githubusercontent.com/u/24687893" width="100px;" alt="gislinker"/>
+      </a>
+      <br />
+      <a href="https://github.com/gislinker">gislinker</a>
+    </td>
     <td align="center">
       <a href="https://github.com/apn6666">
         <img src="https://avatars2.githubusercontent.com/u/106784714" width="100px;" alt="apn6666"/>
@@ -430,34 +458,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       </a>
       <br />
       <a href="https://github.com/qiujiaping">雨夜微凉</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Argentas">
-        <img src="https://avatars2.githubusercontent.com/u/79354087" width="100px;" alt="Argentas"/>
-      </a>
-      <br />
-      <a href="https://github.com/Argentas">Argentas</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/wwyynnn">
-        <img src="https://avatars2.githubusercontent.com/u/29294095" width="100px;" alt="wwyynnn"/>
-      </a>
-      <br />
-      <a href="https://github.com/wwyynnn">W.YN</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/EdisonForMan">
-        <img src="https://avatars2.githubusercontent.com/u/18521643" width="100px;" alt="EdisonForMan"/>
-      </a>
-      <br />
-      <a href="https://github.com/EdisonForMan">Edison_Shao</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Cocytus-kyon">
-        <img src="https://avatars2.githubusercontent.com/u/16149853" width="100px;" alt="Cocytus-kyon"/>
-      </a>
-      <br />
-      <a href="https://github.com/Cocytus-kyon">Tianyu He</a>
     </td>
   </tr>
 </table>
