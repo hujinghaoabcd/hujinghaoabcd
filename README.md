@@ -411,11 +411,25 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/ChanJeunlam">
+        <img src="https://avatars2.githubusercontent.com/u/82876040" width="100px;" alt="ChanJeunlam"/>
+      </a>
+      <br />
+      <a href="https://github.com/ChanJeunlam">2907</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/HeZhang1994">
         <img src="https://avatars2.githubusercontent.com/u/23662544" width="100px;" alt="HeZhang1994"/>
       </a>
       <br />
       <a href="https://github.com/HeZhang1994">He Zhang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lixiao2">
+        <img src="https://avatars2.githubusercontent.com/u/8855634" width="100px;" alt="lixiao2"/>
+      </a>
+      <br />
+      <a href="https://github.com/lixiao2">lixiao2</a>
     </td>
     <td align="center">
       <a href="https://github.com/gy1016">
@@ -444,20 +458,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       </a>
       <br />
       <a href="https://github.com/apn6666">Amir pouya Nasrollahi</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/aurasaura">
-        <img src="https://avatars2.githubusercontent.com/u/113074492" width="100px;" alt="aurasaura"/>
-      </a>
-      <br />
-      <a href="https://github.com/aurasaura">aurasaura</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/qiujiaping">
-        <img src="https://avatars2.githubusercontent.com/u/44864611" width="100px;" alt="qiujiaping"/>
-      </a>
-      <br />
-      <a href="https://github.com/qiujiaping">雨夜微凉</a>
     </td>
   </tr>
 </table>
