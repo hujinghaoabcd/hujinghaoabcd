@@ -388,6 +388,13 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/olavoparno">Olavo Parno</a>
     </td>
     <td align="center">
+      <a href="https://github.com/GISerDaiShaoqing">
+        <img src="https://avatars2.githubusercontent.com/u/26642320" width="100px;" alt="GISerDaiShaoqing"/>
+      </a>
+      <br />
+      <a href="https://github.com/GISerDaiShaoqing">DaiShaoqing</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Murplugg">
         <img src="https://avatars2.githubusercontent.com/u/17575688" width="100px;" alt="Murplugg"/>
       </a>
@@ -401,6 +408,8 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/igormartins4">Igor Martins</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/amiria703">
         <img src="https://avatars2.githubusercontent.com/u/54179379" width="100px;" alt="amiria703"/>
@@ -408,8 +417,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/amiria703">Amir Hossein Maher</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/fernando-aristizabal">
         <img src="https://avatars2.githubusercontent.com/u/16439785" width="100px;" alt="fernando-aristizabal"/>
@@ -451,13 +458,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       </a>
       <br />
       <a href="https://github.com/tariqazam836">Tariq azam</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gislinker">
-        <img src="https://avatars2.githubusercontent.com/u/24687893" width="100px;" alt="gislinker"/>
-      </a>
-      <br />
-      <a href="https://github.com/gislinker">gislinker</a>
     </td>
   </tr>
 </table>
