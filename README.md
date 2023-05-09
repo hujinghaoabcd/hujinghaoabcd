@@ -439,18 +439,18 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/ChanJeunlam">2907</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lixiao2">
-        <img src="https://avatars2.githubusercontent.com/u/8855634" width="100px;" alt="lixiao2"/>
-      </a>
-      <br />
-      <a href="https://github.com/lixiao2">lixiao2</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/greydoubt">
         <img src="https://avatars2.githubusercontent.com/u/43443470" width="100px;" alt="greydoubt"/>
       </a>
       <br />
       <a href="https://github.com/greydoubt">Sean M</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lixiao2">
+        <img src="https://avatars2.githubusercontent.com/u/8855634" width="100px;" alt="lixiao2"/>
+      </a>
+      <br />
+      <a href="https://github.com/lixiao2">lixiao2</a>
     </td>
     <td align="center">
       <a href="https://github.com/gy1016">
