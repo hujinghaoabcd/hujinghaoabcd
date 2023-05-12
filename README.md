@@ -418,18 +418,18 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/amiria703">Amir Hossein Maher</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fernando-aristizabal">
-        <img src="https://avatars2.githubusercontent.com/u/16439785" width="100px;" alt="fernando-aristizabal"/>
-      </a>
-      <br />
-      <a href="https://github.com/fernando-aristizabal">Fernando Aristizabal</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/greydoubt">
         <img src="https://avatars2.githubusercontent.com/u/43443470" width="100px;" alt="greydoubt"/>
       </a>
       <br />
       <a href="https://github.com/greydoubt">Sean M</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fernando-aristizabal">
+        <img src="https://avatars2.githubusercontent.com/u/16439785" width="100px;" alt="fernando-aristizabal"/>
+      </a>
+      <br />
+      <a href="https://github.com/fernando-aristizabal">Fernando Aristizabal</a>
     </td>
     <td align="center">
       <a href="https://github.com/HeZhang1994">
