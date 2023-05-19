@@ -371,7 +371,7 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
         <img src="https://avatars2.githubusercontent.com/u/79169717" width="100px;" alt="sun0225SUN"/>
       </a>
       <br />
-      <a href="https://github.com/sun0225SUN">小孙同学Coding</a>
+      <a href="https://github.com/sun0225SUN">小孙同学</a>
     </td>
     <td align="center">
       <a href="https://github.com/mikejohnson51">
