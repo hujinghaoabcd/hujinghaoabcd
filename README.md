@@ -367,13 +367,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/jingsam">jingsam</a>
     </td>
     <td align="center">
-      <a href="https://github.com/sun0225SUN">
-        <img src="https://avatars2.githubusercontent.com/u/79169717" width="100px;" alt="sun0225SUN"/>
-      </a>
-      <br />
-      <a href="https://github.com/sun0225SUN">小孙同学</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mikejohnson51">
         <img src="https://avatars2.githubusercontent.com/u/30052272" width="100px;" alt="mikejohnson51"/>
       </a>
@@ -408,8 +401,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/greydoubt">Sean M</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/igormartins4">
         <img src="https://avatars2.githubusercontent.com/u/23300792" width="100px;" alt="igormartins4"/>
@@ -417,6 +408,8 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/igormartins4">Igor Martins</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/amiria703">
         <img src="https://avatars2.githubusercontent.com/u/54179379" width="100px;" alt="amiria703"/>
@@ -458,6 +451,13 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       </a>
       <br />
       <a href="https://github.com/gy1016">lamb</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tariqazam836">
+        <img src="https://avatars2.githubusercontent.com/u/73371130" width="100px;" alt="tariqazam836"/>
+      </a>
+      <br />
+      <a href="https://github.com/tariqazam836">Tariq azam</a>
     </td>
   </tr>
 </table>
