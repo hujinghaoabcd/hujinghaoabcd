@@ -360,6 +360,13 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/hadesinlegend">
+        <img src="https://avatars2.githubusercontent.com/u/132431504" width="100px;" alt="hadesinlegend"/>
+      </a>
+      <br />
+      <a href="https://github.com/hadesinlegend">HadesInLegend</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/jingsam">
         <img src="https://avatars2.githubusercontent.com/u/1522494" width="100px;" alt="jingsam"/>
       </a>
@@ -388,12 +395,21 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/GISerDaiShaoqing">DaiShaoqing</a>
     </td>
     <td align="center">
+      <a href="https://github.com/aregtech">
+        <img src="https://avatars2.githubusercontent.com/u/49253642" width="100px;" alt="aregtech"/>
+      </a>
+      <br />
+      <a href="https://github.com/aregtech">Aregtech</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Murplugg">
         <img src="https://avatars2.githubusercontent.com/u/17575688" width="100px;" alt="Murplugg"/>
       </a>
       <br />
       <a href="https://github.com/Murplugg">Murplugg</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/greydoubt">
         <img src="https://avatars2.githubusercontent.com/u/43443470" width="100px;" alt="greydoubt"/>
@@ -408,8 +424,13 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/igormartins4">Igor Martins</a>
     </td>
-  </tr>
-  <tr>
+    <td align="center">
+      <a href="https://github.com/businessservic">
+        <img src="https://avatars2.githubusercontent.com/u/133143298" width="100px;" alt="businessservic"/>
+      </a>
+      <br />
+      <a href="https://github.com/businessservic">businessservic</a>
+    </td>
     <td align="center">
       <a href="https://github.com/amiria703">
         <img src="https://avatars2.githubusercontent.com/u/54179379" width="100px;" alt="amiria703"/>
@@ -425,13 +446,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/fernando-aristizabal">Fernando Aristizabal</a>
     </td>
     <td align="center">
-      <a href="https://github.com/businessservic">
-        <img src="https://avatars2.githubusercontent.com/u/133143298" width="100px;" alt="businessservic"/>
-      </a>
-      <br />
-      <a href="https://github.com/businessservic">businessservic</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/HeZhang1994">
         <img src="https://avatars2.githubusercontent.com/u/23662544" width="100px;" alt="HeZhang1994"/>
       </a>
@@ -444,20 +458,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       </a>
       <br />
       <a href="https://github.com/ChanJeunlam">2907</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lixiao2">
-        <img src="https://avatars2.githubusercontent.com/u/8855634" width="100px;" alt="lixiao2"/>
-      </a>
-      <br />
-      <a href="https://github.com/lixiao2">lixiao2</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gy1016">
-        <img src="https://avatars2.githubusercontent.com/u/56495414" width="100px;" alt="gy1016"/>
-      </a>
-      <br />
-      <a href="https://github.com/gy1016">lamb</a>
     </td>
   </tr>
 </table>
