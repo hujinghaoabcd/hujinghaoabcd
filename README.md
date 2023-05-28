@@ -360,13 +360,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/hadesinlegend">
-        <img src="https://avatars2.githubusercontent.com/u/132431504" width="100px;" alt="hadesinlegend"/>
-      </a>
-      <br />
-      <a href="https://github.com/hadesinlegend">HadesInLegend</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/jingsam">
         <img src="https://avatars2.githubusercontent.com/u/1522494" width="100px;" alt="jingsam"/>
       </a>
@@ -408,8 +401,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/Murplugg">Murplugg</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/greydoubt">
         <img src="https://avatars2.githubusercontent.com/u/43443470" width="100px;" alt="greydoubt"/>
@@ -417,6 +408,8 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/greydoubt">Sean M</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/igormartins4">
         <img src="https://avatars2.githubusercontent.com/u/23300792" width="100px;" alt="igormartins4"/>
@@ -458,6 +451,13 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       </a>
       <br />
       <a href="https://github.com/ChanJeunlam">2907</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lixiao2">
+        <img src="https://avatars2.githubusercontent.com/u/8855634" width="100px;" alt="lixiao2"/>
+      </a>
+      <br />
+      <a href="https://github.com/lixiao2">lixiao2</a>
     </td>
   </tr>
 </table>
