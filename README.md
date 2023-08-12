@@ -402,14 +402,21 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/Murplugg">Murplugg</a>
     </td>
     <td align="center">
+      <a href="https://github.com/enfycius">
+        <img src="https://avatars2.githubusercontent.com/u/34566999" width="100px;" alt="enfycius"/>
+      </a>
+      <br />
+      <a href="https://github.com/enfycius">Kim JongHyeok</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/greydoubt">
         <img src="https://avatars2.githubusercontent.com/u/43443470" width="100px;" alt="greydoubt"/>
       </a>
       <br />
       <a href="https://github.com/greydoubt">Sean M</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/igormartins4">
         <img src="https://avatars2.githubusercontent.com/u/23300792" width="100px;" alt="igormartins4"/>
@@ -451,13 +458,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       </a>
       <br />
       <a href="https://github.com/lixiao2">lixiao2</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gy1016">
-        <img src="https://avatars2.githubusercontent.com/u/56495414" width="100px;" alt="gy1016"/>
-      </a>
-      <br />
-      <a href="https://github.com/gy1016">lamb</a>
     </td>
   </tr>
 </table>
