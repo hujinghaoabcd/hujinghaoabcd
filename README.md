@@ -453,11 +453,11 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/ChanJeunlam">2907</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lixiao2">
-        <img src="https://avatars2.githubusercontent.com/u/8855634" width="100px;" alt="lixiao2"/>
+      <a href="https://github.com/dearyangyu">
+        <img src="https://avatars2.githubusercontent.com/u/66211919" width="100px;" alt="dearyangyu"/>
       </a>
       <br />
-      <a href="https://github.com/lixiao2">lixiao2</a>
+      <a href="https://github.com/dearyangyu">dearyangyu</a>
     </td>
   </tr>
 </table>
