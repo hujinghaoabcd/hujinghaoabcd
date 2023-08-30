@@ -388,18 +388,18 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/olavoparno">Olavo Parno</a>
     </td>
     <td align="center">
-      <a href="https://github.com/GISerDaiShaoqing">
-        <img src="https://avatars2.githubusercontent.com/u/26642320" width="100px;" alt="GISerDaiShaoqing"/>
-      </a>
-      <br />
-      <a href="https://github.com/GISerDaiShaoqing">DaiShaoqing</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Murplugg">
         <img src="https://avatars2.githubusercontent.com/u/17575688" width="100px;" alt="Murplugg"/>
       </a>
       <br />
       <a href="https://github.com/Murplugg">Murplugg</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GISerDaiShaoqing">
+        <img src="https://avatars2.githubusercontent.com/u/26642320" width="100px;" alt="GISerDaiShaoqing"/>
+      </a>
+      <br />
+      <a href="https://github.com/GISerDaiShaoqing">DaiShaoqing</a>
     </td>
     <td align="center">
       <a href="https://github.com/enfycius">
