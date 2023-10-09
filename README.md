@@ -360,6 +360,13 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/CharlesCreativeContent">
+        <img src="https://avatars2.githubusercontent.com/u/62077627" width="100px;" alt="CharlesCreativeContent"/>
+      </a>
+      <br />
+      <a href="https://github.com/CharlesCreativeContent">Shawn Charles</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/businessservic">
         <img src="https://avatars2.githubusercontent.com/u/133143298" width="100px;" alt="businessservic"/>
       </a>
@@ -401,6 +408,8 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/GISerDaiShaoqing">DaiShaoqing</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/enfycius">
         <img src="https://avatars2.githubusercontent.com/u/34566999" width="100px;" alt="enfycius"/>
@@ -408,8 +417,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/enfycius">Kim JongHyeok</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/greydoubt">
         <img src="https://avatars2.githubusercontent.com/u/43443470" width="100px;" alt="greydoubt"/>
@@ -451,13 +458,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       </a>
       <br />
       <a href="https://github.com/ChanJeunlam">2907</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/dearyangyu">
-        <img src="https://avatars2.githubusercontent.com/u/66211919" width="100px;" alt="dearyangyu"/>
-      </a>
-      <br />
-      <a href="https://github.com/dearyangyu">dearyangyu</a>
     </td>
   </tr>
 </table>
