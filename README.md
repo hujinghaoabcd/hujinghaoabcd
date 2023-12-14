@@ -395,12 +395,21 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/Murplugg">Murplugg</a>
     </td>
     <td align="center">
+      <a href="https://github.com/aysegulyigitbi">
+        <img src="https://avatars2.githubusercontent.com/u/127193220" width="100px;" alt="aysegulyigitbi"/>
+      </a>
+      <br />
+      <a href="https://github.com/aysegulyigitbi">Aysegul Yigit</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/GISerDaiShaoqing">
         <img src="https://avatars2.githubusercontent.com/u/26642320" width="100px;" alt="GISerDaiShaoqing"/>
       </a>
       <br />
       <a href="https://github.com/GISerDaiShaoqing">DaiShaoqing</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/olavoparno">
         <img src="https://avatars2.githubusercontent.com/u/7513162" width="100px;" alt="olavoparno"/>
@@ -408,8 +417,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/olavoparno">Olavo Parno</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/enfycius">
         <img src="https://avatars2.githubusercontent.com/u/34566999" width="100px;" alt="enfycius"/>
@@ -451,13 +458,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       </a>
       <br />
       <a href="https://github.com/dearyangyu">dearyangyu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/HeZhang1994">
-        <img src="https://avatars2.githubusercontent.com/u/23662544" width="100px;" alt="HeZhang1994"/>
-      </a>
-      <br />
-      <a href="https://github.com/HeZhang1994">He Zhang</a>
     </td>
   </tr>
 </table>
