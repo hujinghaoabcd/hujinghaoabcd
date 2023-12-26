@@ -432,6 +432,13 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/greydoubt">Sean M</a>
     </td>
     <td align="center">
+      <a href="https://github.com/SathishGajendran">
+        <img src="https://avatars2.githubusercontent.com/u/11366964" width="100px;" alt="SathishGajendran"/>
+      </a>
+      <br />
+      <a href="https://github.com/SathishGajendran">Sathish Gajendran</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/amiria703">
         <img src="https://avatars2.githubusercontent.com/u/54179379" width="100px;" alt="amiria703"/>
       </a>
@@ -451,13 +458,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       </a>
       <br />
       <a href="https://github.com/fernando-aristizabal">Fernando Aristizabal</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/dearyangyu">
-        <img src="https://avatars2.githubusercontent.com/u/66211919" width="100px;" alt="dearyangyu"/>
-      </a>
-      <br />
-      <a href="https://github.com/dearyangyu">dearyangyu</a>
     </td>
   </tr>
 </table>
