@@ -429,7 +429,7 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
         <img src="https://avatars2.githubusercontent.com/u/43443470" width="100px;" alt="greydoubt"/>
       </a>
       <br />
-      <a href="https://github.com/greydoubt">Sean M</a>
+      <a href="https://github.com/greydoubt">--</a>
     </td>
     <td align="center">
       <a href="https://github.com/SathishGajendran">
