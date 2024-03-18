@@ -381,6 +381,13 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/jingsam">jingsam</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Kos-M">
+        <img src="https://avatars2.githubusercontent.com/u/46938390" width="100px;" alt="Kos-M"/>
+      </a>
+      <br />
+      <a href="https://github.com/Kos-M">Kostas</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/mikejohnson51">
         <img src="https://avatars2.githubusercontent.com/u/30052272" width="100px;" alt="mikejohnson51"/>
       </a>
@@ -401,6 +408,8 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/enfycius">Kim JongHyeok</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/GISerDaiShaoqing">
         <img src="https://avatars2.githubusercontent.com/u/26642320" width="100px;" alt="GISerDaiShaoqing"/>
@@ -408,8 +417,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/GISerDaiShaoqing">DaiShaoqing</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/olavoparno">
         <img src="https://avatars2.githubusercontent.com/u/7513162" width="100px;" alt="olavoparno"/>
@@ -451,13 +458,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       </a>
       <br />
       <a href="https://github.com/fernando-aristizabal">Fernando Aristizabal</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/dearyangyu">
-        <img src="https://avatars2.githubusercontent.com/u/66211919" width="100px;" alt="dearyangyu"/>
-      </a>
-      <br />
-      <a href="https://github.com/dearyangyu">dearyangyu</a>
     </td>
   </tr>
 </table>
