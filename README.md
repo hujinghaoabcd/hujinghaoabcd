@@ -425,18 +425,18 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/greydoubt">--</a>
     </td>
     <td align="center">
-      <a href="https://github.com/snkd">
-        <img src="https://avatars2.githubusercontent.com/u/34954109" width="100px;" alt="snkd"/>
-      </a>
-      <br />
-      <a href="https://github.com/snkd">Susant Khadka</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/SathishGajendran">
         <img src="https://avatars2.githubusercontent.com/u/11366964" width="100px;" alt="SathishGajendran"/>
       </a>
       <br />
       <a href="https://github.com/SathishGajendran">Sathish Gajendran</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/snkd">
+        <img src="https://avatars2.githubusercontent.com/u/34954109" width="100px;" alt="snkd"/>
+      </a>
+      <br />
+      <a href="https://github.com/snkd">Susant Khadka</a>
     </td>
     <td align="center">
       <a href="https://github.com/amiria703">
@@ -446,18 +446,18 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/amiria703">Amir Hossein "Amiria" Maher</a>
     </td>
     <td align="center">
-      <a href="https://github.com/igormartins4">
-        <img src="https://avatars2.githubusercontent.com/u/23300792" width="100px;" alt="igormartins4"/>
-      </a>
-      <br />
-      <a href="https://github.com/igormartins4">Igor Martins</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/dearyangyu">
         <img src="https://avatars2.githubusercontent.com/u/66211919" width="100px;" alt="dearyangyu"/>
       </a>
       <br />
       <a href="https://github.com/dearyangyu">dearyangyu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/igormartins4">
+        <img src="https://avatars2.githubusercontent.com/u/23300792" width="100px;" alt="igormartins4"/>
+      </a>
+      <br />
+      <a href="https://github.com/igormartins4">Igor Martins</a>
     </td>
   </tr>
 </table>
