@@ -425,18 +425,18 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/olavoparno">Olavo Parno</a>
     </td>
     <td align="center">
-      <a href="https://github.com/greydoubt">
-        <img src="https://avatars2.githubusercontent.com/u/43443470" width="100px;" alt="greydoubt"/>
-      </a>
-      <br />
-      <a href="https://github.com/greydoubt">--</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/snkd">
         <img src="https://avatars2.githubusercontent.com/u/34954109" width="100px;" alt="snkd"/>
       </a>
       <br />
       <a href="https://github.com/snkd">Susant Khadka</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/greydoubt">
+        <img src="https://avatars2.githubusercontent.com/u/43443470" width="100px;" alt="greydoubt"/>
+      </a>
+      <br />
+      <a href="https://github.com/greydoubt">--</a>
     </td>
     <td align="center">
       <a href="https://github.com/SathishGajendran">
