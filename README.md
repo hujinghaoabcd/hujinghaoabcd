@@ -367,6 +367,13 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/chikitai">Chikita Isaac </a>
     </td>
     <td align="center">
+      <a href="https://github.com/trinhminhtriet">
+        <img src="https://avatars2.githubusercontent.com/u/1650997" width="100px;" alt="trinhminhtriet"/>
+      </a>
+      <br />
+      <a href="https://github.com/trinhminhtriet">Triet Trinh</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/anahi-hub">
         <img src="https://avatars2.githubusercontent.com/u/172525619" width="100px;" alt="anahi-hub"/>
       </a>
@@ -401,6 +408,8 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/Murplugg">Murplugg</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/enfycius">
         <img src="https://avatars2.githubusercontent.com/u/34566999" width="100px;" alt="enfycius"/>
@@ -408,8 +417,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/enfycius">Kim JongHyeok</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/GISerDaiShaoqing">
         <img src="https://avatars2.githubusercontent.com/u/26642320" width="100px;" alt="GISerDaiShaoqing"/>
@@ -451,13 +458,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       </a>
       <br />
       <a href="https://github.com/amiria703">Amir Hossein "Amiria" Maher</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/dearyangyu">
-        <img src="https://avatars2.githubusercontent.com/u/66211919" width="100px;" alt="dearyangyu"/>
-      </a>
-      <br />
-      <a href="https://github.com/dearyangyu">dearyangyu</a>
     </td>
   </tr>
 </table>
