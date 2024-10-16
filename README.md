@@ -360,18 +360,18 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/chikitai">
-        <img src="https://avatars2.githubusercontent.com/u/153332620" width="100px;" alt="chikitai"/>
-      </a>
-      <br />
-      <a href="https://github.com/chikitai">Chikita Isaac </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/trinhminhtriet">
         <img src="https://avatars2.githubusercontent.com/u/1650997" width="100px;" alt="trinhminhtriet"/>
       </a>
       <br />
       <a href="https://github.com/trinhminhtriet">Triet Trinh</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chikitai">
+        <img src="https://avatars2.githubusercontent.com/u/153332620" width="100px;" alt="chikitai"/>
+      </a>
+      <br />
+      <a href="https://github.com/chikitai">Chikita Isaac </a>
     </td>
     <td align="center">
       <a href="https://github.com/anahi-hub">
