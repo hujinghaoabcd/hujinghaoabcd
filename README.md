@@ -74,7 +74,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=HyunCafe&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br>
 <img src="https://github-profile-trophy.vercel.app/?username=hujinghaoabcd&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> -->
 
-<h1 align='center'> 👨‍🎓[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Jinghao+Hu)](https://git.io/typing-svg) <img src="https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304091427639.gif" width="30px"></h1>
+<h1 align='center'> 👨‍🎓<img src="https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304091427639.gif" width="30px"></h1>
 <p align="center">
 <a href=""><img src="https://img.shields.io/badge/My-Blog-yellow.svg" /></a>
 <a href=""><img src="https://img.shields.io/badge/My-Linkedin-green.svg" /></a>
