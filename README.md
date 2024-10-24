@@ -74,7 +74,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=HyunCafe&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br>
 <img src="https://github-profile-trophy.vercel.app/?username=hujinghaoabcd&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> -->
 
-<h1 align='center'> 👨‍🎓<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&center=true&vCenter=true&width=335&lines=Hi!+I'm+Jinghao+Hu" alt="Typing SVG" /></a> <img src="https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304091427639.gif" width="30px"></h1>
+<h1 align='center'> 👨‍🎓<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&center=true&vCenter=true&width=335&height=30&lines=Hi!+I'm+Jinghao+Hu" alt="Typing SVG" /></a> <img src="https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304091427639.gif" width="30px"></h1>
 <p align="center">
 <a href=""><img src="https://img.shields.io/badge/My-Blog-yellow.svg" /></a>
 <a href=""><img src="https://img.shields.io/badge/My-Linkedin-green.svg" /></a>
