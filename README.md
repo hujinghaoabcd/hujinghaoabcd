@@ -367,6 +367,13 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <a href="https://github.com/trinhminhtriet">Triet Trinh</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Ninja1375">
+        <img src="https://avatars2.githubusercontent.com/u/166745758" width="100px;" alt="Ninja1375"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ninja1375">Antônio Nascimento </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/chikitai">
         <img src="https://avatars2.githubusercontent.com/u/153332620" width="100px;" alt="chikitai"/>
       </a>
@@ -401,6 +408,8 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/mikejohnson51">MikeJohnson-NOAA</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Murplugg">
         <img src="https://avatars2.githubusercontent.com/u/17575688" width="100px;" alt="Murplugg"/>
@@ -408,8 +417,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       <br />
       <a href="https://github.com/Murplugg">Murplugg</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/enfycius">
         <img src="https://avatars2.githubusercontent.com/u/34566999" width="100px;" alt="enfycius"/>
@@ -451,13 +458,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
       </a>
       <br />
       <a href="https://github.com/SathishGajendran">Sathish Gajendran</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/amiria703">
-        <img src="https://avatars2.githubusercontent.com/u/54179379" width="100px;" alt="amiria703"/>
-      </a>
-      <br />
-      <a href="https://github.com/amiria703">Amir Hossein "Amiria" Maher</a>
     </td>
   </tr>
 </table>
