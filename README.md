@@ -88,7 +88,7 @@
 <tr>
 <td width="80%">
 
-I am a PhD student at the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/). My research interests include geographic information science (GIS) and environmental modelling. I am mainly engaged in research related to road traffic, air pollution and geospatial big data. I mainly conduct mobile GIS and cloud GIS system development. I am a strong supporter of open source GIS, and more information about my research can be found on my personal website and research blog .
+I am a PhD student at the University of Chinese Academy of Sciences, with research interests in geographic information science (GIS) and environmental modeling. My work focuses primarily on road traffic, air pollution, and geospatial big data, where I develop mobile GIS and cloud GIS systems. As an advocate for open-source GIS, I share updates and insights on my research through my personal website and research blog. .
 </td>
 <td width="30%">
 <img align='right' src='https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304091542717.gif' width='150'>
