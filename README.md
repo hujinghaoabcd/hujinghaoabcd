@@ -197,6 +197,7 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
   </tbody>
 </table> -->
 
+- **User Guide:**  [WRFDoc](https://github.com/hujinghaoabcd/WRFDoc) | [AERMODDoc](https://github.com/hujinghaoabcd/AERMODDoc)
 
 
 - **Javascript Packages:**  [ThreeLibre](https://github.com/hujinghaoabcd/ThreeLibre) | [GeoLay](https://github.com/hujinghaoabcd/GeoLay) | [MapLeaf](https://github.com/hujinghaoabcd/MapLeaf)| [MapLibreFrame](https://github.com/hujinghaoabcd/MapLibreFrame)
