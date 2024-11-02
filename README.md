@@ -35,45 +35,34 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 
 ### **🗂** My Projects
 
-#### Design
-| Project Name         | Description                                  |
-|----------------------|----------------------------------------------|
-| [my_logo](https://github.com/hujinghaoabcd/my_logo) | Design and develop a logo for software or project |
-
-#### User Guide
-| Project Name         | Description                                   |
-|----------------------|----------------------------------------------|
-| [WRFDoc](https://github.com/hujinghaoabcd/WRFDoc) | User guide for the WRF model                   |
-| [AERMODDoc](https://github.com/hujinghaoabcd/AERMODDoc) | User guide for the AERMOD model               |
-
-#### Javascript Packages
-| Project Name         | Description                                   |
-|----------------------|----------------------------------------------|
-| [MapLibreLayerHub](https://github.com/hujinghaoabcd/MapLibreLayerHub) | MapLibre-based map layer management package   |
-| [ThreeLibre](https://github.com/hujinghaoabcd/ThreeLibre) | JavaScript library for 3D visualization with MapLibre |
-| [GeoLay](https://github.com/hujinghaoabcd/GeoLay) | Tool for managing geographic data              |
-| [MapLeaf](https://github.com/hujinghaoabcd/MapLeaf) | A simplified map control package               |
-| [MapLibreFrame](https://github.com/hujinghaoabcd/MapLibreFrame) | A framework based on MapLibre                  |
-
-#### GIS Tools
-| Project Name         | Description                                   |
-|----------------------|----------------------------------------------|
-| [PyGISFrame](https://github.com/hujinghaoabcd/PyGISFrame) | GIS tool framework based on Python             |
-| [GeomapHub](https://github.com/hujinghaoabcd/GeomapHub) | Application integrating various GIS functions  |
-| [GeoElectron](https://github.com/hujinghaoabcd/GeoElectron) | Tool for geographic data visualization         |
-
-#### Geoscience Models
-| Project Name         | Description                                   |
-|----------------------|----------------------------------------------|
-| [PyWESM](https://github.com/hujinghaoabcd/PyWESM) | Geoscience modeling framework                 |
-
-#### General Tools
-| Project Name         | Description                                   |
-|----------------------|----------------------------------------------|
-| [Personal profile](https://github.com/hujinghaoabcd/hujinghaoabcd) | Personal profile and showcase page           |
-| [UnifieReadme](https://github.com/hujinghaoabcd/UnifieReadme) | Tool for unifying README file formats        |
+| Category            | Project Name         | Description                                       |
+|---------------------|----------------------|---------------------------------------------------|
+| **Design**          |                      |                                                   |
+|                     | [my_logo](https://github.com/hujinghaoabcd/my_logo) | Design and develop a logo for software or project |
+| **User Guide**      |                      |                                                   |
+|                     | [WRFDoc](https://github.com/hujinghaoabcd/WRFDoc) | User guide for the WRF model                      |
+|                     | [AERMODDoc](https://github.com/hujinghaoabcd/AERMODDoc) | User guide for the AERMOD model                  |
+| **Javascript Packages** |               |                                                   |
+|                     | [MapLibreLayerHub](https://github.com/hujinghaoabcd/MapLibreLayerHub) | MapLibre-based map layer management package       |
+|                     | [ThreeLibre](https://github.com/hujinghaoabcd/ThreeLibre) | JavaScript library for 3D visualization with MapLibre |
+|                     | [GeoLay](https://github.com/hujinghaoabcd/GeoLay) | Tool for managing geographic data                 |
+|                     | [MapLeaf](https://github.com/hujinghaoabcd/MapLeaf) | A simplified map control package                  |
+|                     | [MapLibreFrame](https://github.com/hujinghaoabcd/MapLibreFrame) | A framework based on MapLibre                     |
+| **GIS Tools**       |                      |                                                   |
+|                     | [PyGISFrame](https://github.com/hujinghaoabcd/PyGISFrame) | GIS tool framework based on Python                |
+|                     | [GeomapHub](https://github.com/hujinghaoabcd/GeomapHub) | Application integrating various GIS functions     |
+|                     | [GeoElectron](https://github.com/hujinghaoabcd/GeoElectron) | Tool for geographic data visualization            |
+| **Geoscience Models** |                   |                                                   |
+|                     | [PyWESM](https://github.com/hujinghaoabcd/PyWESM) | Geoscience modeling framework                     |
+| **General Tools**   |                      |                                                   |
+|                     | [Personal profile](https://github.com/hujinghaoabcd/hujinghaoabcd) | Personal profile and showcase page               |
+|                     | [UnifieReadme](https://github.com/hujinghaoabcd/UnifieReadme) | Tool for unifying README file formats             |
 
 ---
+
+
+
+
 
 ### **☎️** How to reach me
 
