@@ -36,45 +36,33 @@
 ### **🗂** 我的项目
 
 
-#### Design
-| 项目名         | 简介                                  |
-|----------------|---------------------------------------|
-| [my_logo](https://github.com/hujinghaoabcd/my_logo) | 为软件或项目设计并开发一个 logo |
+### **🗂** My Projects
 
-#### User Guide
-| 项目名         | 简介                                   |
-|----------------|----------------------------------------|
-| [WRFDoc](https://github.com/hujinghaoabcd/WRFDoc) | WRF 模型的用户指南                   |
-| [AERMODDoc](https://github.com/hujinghaoabcd/AERMODDoc) | AERMOD 模型的用户指南               |
-
-#### Javascript Packages
-| 项目名         | 简介                                   |
-|----------------|----------------------------------------|
-| [MapLibreLayerHub](https://github.com/hujinghaoabcd/MapLibreLayerHub) | MapLibre地图图层管理工具包               |
-| [ThreeLibre](https://github.com/hujinghaoabcd/ThreeLibre) | MapLibre用于3D可视化的 JavaScript 库      |
-| [GeoLay](https://github.com/hujinghaoabcd/GeoLay) | 用于地理数据管理的工具            |
-| [MapLeaf](https://github.com/hujinghaoabcd/MapLeaf) | 一个简化地图控制的包                |
-| [MapLibreFrame](https://github.com/hujinghaoabcd/MapLibreFrame) | 基于 MapLibre 的框架             |
-
-#### GIS Tools
-| 项目名         | 简介                                   |
-|----------------|----------------------------------------|
-| [PyGISFrame](https://github.com/hujinghaoabcd/PyGISFrame) | 基于 Python 的 GIS 工具框架         |
-| [GeomapHub](https://github.com/hujinghaoabcd/GeomapHub) | 集成多种 GIS 功能的应用             |
-| [GeoElectron](https://github.com/hujinghaoabcd/GeoElectron) | 用于地理数据可视化的工具             |
-
-#### Geoscience Models
-| 项目名         | 简介                                   |
-|----------------|----------------------------------------|
-| [PyWESM](https://github.com/hujinghaoabcd/PyWESM) | 地学建模框架                       |
-
-#### General Tools
-| 项目名         | 简介                                   |
-|----------------|----------------------------------------|
-| [Personal profile](https://github.com/hujinghaoabcd/hujinghaoabcd) | 个人简介和展示页面              |
-| [UnifieReadme](https://github.com/hujinghaoabcd/UnifieReadme) | 统一 README 文件格式的工具      |
+| Category            | Project Name         | Description                                       |
+|:-------------------:|:--------------------:|:------------------------------------------------:|
+| **Design**          |                      |                                                   |
+|                     | [my_logo](https://github.com/hujinghaoabcd/my_logo) | Design and develop a logo for the software or project / 为软件或项目设计并开发一个 logo |
+| **User Guide**      |                      |                                                   |
+|                     | [WRFDoc](https://github.com/hujinghaoabcd/WRFDoc) | User guide for the WRF model / WRF 模型的用户指南  |
+|                     | [AERMODDoc](https://github.com/hujinghaoabcd/AERMODDoc) | User guide for the AERMOD model / AERMOD 模型的用户指南 |
+| **Javascript Packages** |               |                                                   |
+|                     | [MapLibreLayerHub](https://github.com/hujinghaoabcd/MapLibreLayerHub) | MapLibre-based map layer management package / MapLibre 地图图层管理工具包 |
+|                     | [ThreeLibre](https://github.com/hujinghaoabcd/ThreeLibre) | JavaScript library for 3D visualization with MapLibre / MapLibre 用于 3D 可视化的 JavaScript 库 |
+|                     | [GeoLay](https://github.com/hujinghaoabcd/GeoLay) | Tool for managing geographic data / 用于地理数据管理的工具 |
+|                     | [MapLeaf](https://github.com/hujinghaoabcd/MapLeaf) | A simplified map control package / 一个简化地图控制的包 |
+|                     | [MapLibreFrame](https://github.com/hujinghaoabcd/MapLibreFrame) | A framework based on MapLibre / 基于 MapLibre 的框架 |
+| **GIS Tools**       |                      |                                                   |
+|                     | [PyGISFrame](https://github.com/hujinghaoabcd/PyGISFrame) | GIS tool framework based on Python / 基于 Python 的 GIS 工具框架 |
+|                     | [GeomapHub](https://github.com/hujinghaoabcd/GeomapHub) | Application integrating various GIS functions / 集成多种 GIS 功能的应用 |
+|                     | [GeoElectron](https://github.com/hujinghaoabcd/GeoElectron) | Tool for geographic data visualization / 用于地理数据可视化的工具 |
+| **Geoscience Models** |                   |                                                   |
+|                     | [PyWESM](https://github.com/hujinghaoabcd/PyWESM) | Geoscience modeling framework / 地学建模框架 |
+| **General Tools**   |                      |                                                   |
+|                     | [Personal profile](https://github.com/hujinghaoabcd/hujinghaoabcd) | Personal profile and showcase page / 个人简介和展示页面 |
+|                     | [UnifieReadme](https://github.com/hujinghaoabcd/UnifieReadme) | Tool for unifying README file formats / 统一 README 文件格式的工具 |
 
 ---
+
 
 
 ### **☎️** 如何联系我
