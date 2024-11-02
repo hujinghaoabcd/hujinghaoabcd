@@ -35,14 +35,47 @@
 
 ### **🗂** 我的项目
 
-- **设计:** [my_logo](https://github.com/hujinghaoabcd/my_logo)
-- **用户指南:** [WRFDoc](https://github.com/hujinghaoabcd/WRFDoc) | [AERMODDoc](https://github.com/hujinghaoabcd/AERMODDoc)
-- **JavaScript 包:** [MapLibreLayerHub](https://github.com/hujinghaoabcd/MapLibreLayerHub) | [ThreeLibre](https://github.com/hujinghaoabcd/ThreeLibre) | [GeoLay](https://github.com/hujinghaoabcd/GeoLay) | [MapLeaf](https://github.com/hujinghaoabcd/MapLeaf) | [MapLibreFrame](https://github.com/hujinghaoabcd/MapLibreFrame)
-- **GIS 工具:** [PyGISFrame](https://github.com/hujinghaoabcd/PyGISFrame) | [GeomapHub](https://github.com/hujinghaoabcd/GeomapHub) | [GeoElectron](https://github.com/hujinghaoabcd/GeoElectron)
-- **地学模型:** [PyWESM](https://github.com/hujinghaoabcd/PyWESM)
-- **通用工具:** [个人简介](https://github.com/hujinghaoabcd/hujinghaoabcd) | [UnifieReadme](https://github.com/hujinghaoabcd/UnifieReadme)
+
+#### Design
+| 项目名         | 简介                                  |
+|----------------|---------------------------------------|
+| [my_logo](https://github.com/hujinghaoabcd/my_logo) | 为软件或项目设计并开发一个 logo |
+
+#### User Guide
+| 项目名         | 简介                                   |
+|----------------|----------------------------------------|
+| [WRFDoc](https://github.com/hujinghaoabcd/WRFDoc) | WRF 模型的用户指南                   |
+| [AERMODDoc](https://github.com/hujinghaoabcd/AERMODDoc) | AERMOD 模型的用户指南               |
+
+#### Javascript Packages
+| 项目名         | 简介                                   |
+|----------------|----------------------------------------|
+| [MapLibreLayerHub](https://github.com/hujinghaoabcd/MapLibreLayerHub) | MapLibre地图图层管理工具包               |
+| [ThreeLibre](https://github.com/hujinghaoabcd/ThreeLibre) | MapLibre用于3D可视化的 JavaScript 库      |
+| [GeoLay](https://github.com/hujinghaoabcd/GeoLay) | 用于地理数据管理的工具            |
+| [MapLeaf](https://github.com/hujinghaoabcd/MapLeaf) | 一个简化地图控制的包                |
+| [MapLibreFrame](https://github.com/hujinghaoabcd/MapLibreFrame) | 基于 MapLibre 的框架             |
+
+#### GIS Tools
+| 项目名         | 简介                                   |
+|----------------|----------------------------------------|
+| [PyGISFrame](https://github.com/hujinghaoabcd/PyGISFrame) | 基于 Python 的 GIS 工具框架         |
+| [GeomapHub](https://github.com/hujinghaoabcd/GeomapHub) | 集成多种 GIS 功能的应用             |
+| [GeoElectron](https://github.com/hujinghaoabcd/GeoElectron) | 用于地理数据可视化的工具             |
+
+#### Geoscience Models
+| 项目名         | 简介                                   |
+|----------------|----------------------------------------|
+| [PyWESM](https://github.com/hujinghaoabcd/PyWESM) | 地学建模框架                       |
+
+#### General Tools
+| 项目名         | 简介                                   |
+|----------------|----------------------------------------|
+| [Personal profile](https://github.com/hujinghaoabcd/hujinghaoabcd) | 个人简介和展示页面              |
+| [UnifieReadme](https://github.com/hujinghaoabcd/UnifieReadme) | 统一 README 文件格式的工具      |
 
 ---
+
 
 ### **☎️** 如何联系我
 
