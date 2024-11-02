@@ -38,13 +38,13 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 | Category            | Project Name         | Description                                       |
 |:-------------------:|:--------------------:|------------------------------------------------|
 | **Design**          |                      |                                                   |
-|                     | [my_logo](https://github.com/hujinghaoabcd/my_logo) | Design and develop a logo for the software or project / 为软件或项目设计并开发一个 logo |
+|                     | [my_logo](https://github.com/hujinghaoabcd/my_logo) | Design and develop a logo for the software or project / 为软件或项目设计并开发logo |
 | **User Guide**      |                      |                                                   |
 |                     | [WRFDoc](https://github.com/hujinghaoabcd/WRFDoc) | User guide for the WRF model / WRF 模型的用户指南  |
 |                     | [AERMODDoc](https://github.com/hujinghaoabcd/AERMODDoc) | User guide for the AERMOD model / AERMOD 模型的用户指南 |
 | **Javascript Packages** |               |                                                   |
 |                     | [MapLibreLayerHub](https://github.com/hujinghaoabcd/MapLibreLayerHub) | MapLibre-based map layer management package / MapLibre 地图图层管理工具包 |
-|                     | [ThreeLibre](https://github.com/hujinghaoabcd/ThreeLibre) | JavaScript library for 3D visualization with MapLibre / MapLibre 用于 3D 可视化的 JavaScript 库 |
+|                     | [ThreeLibre](https://github.com/hujinghaoabcd/ThreeLibre) | 3D visualization with MapLibre / MapLibre 用于 3D 可视化的 JavaScript 库 |
 |                     | [GeoLay](https://github.com/hujinghaoabcd/GeoLay) | Tool for managing geographic data / 用于地理数据管理的工具 |
 |                     | [MapLeaf](https://github.com/hujinghaoabcd/MapLeaf) | A simplified map control package / 一个简化地图控制的包 |
 |                     | [MapLibreFrame](https://github.com/hujinghaoabcd/MapLibreFrame) | A framework based on MapLibre / 基于 MapLibre 的框架 |
@@ -59,12 +59,6 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 |                     | [UnifieReadme](https://github.com/hujinghaoabcd/UnifieReadme) | Tool for unifying README file formats / 统一 README 文件格式的工具 |
 
 ---
-
-
-
-
-
-
 
 ### **☎️** How to reach me
 
