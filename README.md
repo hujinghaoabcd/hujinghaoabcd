@@ -197,20 +197,12 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
   </tbody>
 </table> -->
 
+- **Design:**  [my_logo](https://github.com/hujinghaoabcd/my_logo)
 - **User Guide:**  [WRFDoc](https://github.com/hujinghaoabcd/WRFDoc) | [AERMODDoc](https://github.com/hujinghaoabcd/AERMODDoc)
-
-
 - **Javascript Packages:**  [ThreeLibre](https://github.com/hujinghaoabcd/ThreeLibre) | [GeoLay](https://github.com/hujinghaoabcd/GeoLay) | [MapLeaf](https://github.com/hujinghaoabcd/MapLeaf)| [MapLibreFrame](https://github.com/hujinghaoabcd/MapLibreFrame)
-
-
-
 - **GIS Tools:**  [PyGISFrame](https://github.com/hujinghaoabcd/PyGISFrame) | [GeomapHub](https://github.com/hujinghaoabcd/GeomapHub) | [GeoElectron](https://github.com/hujinghaoabcd/GeoElectron)
-
 - **Geoscience Models:**  [PyWESM](https://github.com/hujinghaoabcd/PyWESM) 
-
-
 - **General Tools:**  [Personal profile](https://github.com/hujinghaoabcd/hujinghaoabcd) |[UnifieReadme](https://github.com/hujinghaoabcd/UnifieReadme) 
-
 
 ---
 
