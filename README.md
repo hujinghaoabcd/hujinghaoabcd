@@ -36,7 +36,7 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 ### **🗂** My Projects
 
 | Category            | Project Name         | Description                                       |
-|:-------------------:|:--------------------:|:------------------------------------------------:|
+|:-------------------:|:--------------------:|------------------------------------------------|
 | **Design**          |                      |                                                   |
 |                     | [my_logo](https://github.com/hujinghaoabcd/my_logo) | Design and develop a logo for the software or project / 为软件或项目设计并开发一个 logo |
 | **User Guide**      |                      |                                                   |
