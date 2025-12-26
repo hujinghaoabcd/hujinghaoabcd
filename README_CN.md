@@ -69,8 +69,10 @@
 使用 AI 分类、智能标签和快速搜索功能，轻松管理你的 GitHub Stars。告别混乱的收藏列表！
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hujinghaoabcd/StarHub/main/public/screenshot-01.png" alt="StarHub 截图 1" width="48%" />
-  <img src="https://raw.githubusercontent.com/hujinghaoabcd/StarHub/main/public/screenshot-02.png" alt="StarHub 截图 2" width="48%" />
+  <img src="https://raw.githubusercontent.com/hujinghaoabcd/StarHub/main/public/screenshot-01.png" alt="StarHub 截图 1" width="80%" />
+  <br />
+  
+  <img src="https://raw.githubusercontent.com/hujinghaoabcd/StarHub/main/public/screenshot-02.png" alt="StarHub 截图 2" width="80%" />
 </div>
 
 **核心功能：**

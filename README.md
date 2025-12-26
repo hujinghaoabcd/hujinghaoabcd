@@ -68,8 +68,10 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 Organize your GitHub Stars with AI-powered classification, intelligent tags, and fast search. Say goodbye to messy star lists!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hujinghaoabcd/StarHub/main/public/screenshot-01.png" alt="StarHub Screenshot 1" width="48%" />
-  <img src="https://raw.githubusercontent.com/hujinghaoabcd/StarHub/main/public/screenshot-02.png" alt="StarHub Screenshot 2" width="48%" />
+  <img src="https://raw.githubusercontent.com/hujinghaoabcd/StarHub/main/public/screenshot-01.png" alt="StarHub Screenshot 1" width="80%" />
+  <br />
+  
+  <img src="https://raw.githubusercontent.com/hujinghaoabcd/StarHub/main/public/screenshot-02.png" alt="StarHub Screenshot 2" width="80%" />
 </div>
 
 **Key Features:**
