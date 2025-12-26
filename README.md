@@ -55,8 +55,35 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 | **Geoscience Models** |                   |                                                   |
 |                     | [PyWESM](https://github.com/hujinghaoabcd/PyWESM) | Geoscience modeling framework / 地学建模框架 |
 | **General Tools**   |                      |                                                   |
+|                     | [StarHub](https://github.com/hujinghaoabcd/StarHub) ⭐ | **Latest Project** - Smart GitHub Stars manager with AI classification, intelligent tags, and fast search / **最新项目** - 智能 GitHub Stars 管理工具，支持 AI 分类、智能标签和快速搜索 |
 |                     | [Personal profile](https://github.com/hujinghaoabcd/hujinghaoabcd) | Personal profile and showcase page / 个人简介和展示页面 |
 |                     | [UnifieReadme](https://github.com/hujinghaoabcd/UnifieReadme) | Tool for unifying README file formats / 统一 README 文件格式的工具 |
+
+---
+
+### **⭐** Featured Project: StarHub
+
+**[StarHub](https://github.com/hujinghaoabcd/StarHub)** - Smart GitHub Stars Manager
+
+Organize your GitHub Stars with AI-powered classification, intelligent tags, and fast search. Say goodbye to messy star lists!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hujinghaoabcd/StarHub/main/public/screenshot-01.png" alt="StarHub Screenshot 1" width="48%" />
+  <img src="https://raw.githubusercontent.com/hujinghaoabcd/StarHub/main/public/screenshot-02.png" alt="StarHub Screenshot 2" width="48%" />
+</div>
+
+**Key Features:**
+- 🤖 **AI Classification** - Automatically categorize repositories using AI
+- 🏷️ **Smart Tags** - Intelligent tagging system for better organization
+- 🔍 **Fast Search** - Quickly find repositories with powerful search capabilities
+- 📱 **Modern UI** - Built with Vue 3 and TypeScript for a smooth experience
+- 💾 **Local Storage** - All data stored locally using IndexedDB
+- 🌐 **Bilingual Support** - Available in both English and Chinese
+
+**Tech Stack:** Vue 3, TypeScript, Element Plus, Dexie.js, IndexedDB, Marked
+
+[![StarHub](https://img.shields.io/badge/StarHub-Latest%20Project-blue?style=flat-square)](https://github.com/hujinghaoabcd/StarHub)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/hujinghaoabcd/StarHub)
 
 ---
 

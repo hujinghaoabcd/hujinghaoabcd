@@ -56,11 +56,37 @@
 | **Geoscience Models** |                   |                                                   |
 |                     | [PyWESM](https://github.com/hujinghaoabcd/PyWESM) | Geoscience modeling framework / 地学建模框架 |
 | **General Tools**   |                      |                                                   |
+|                     | [StarHub](https://github.com/hujinghaoabcd/StarHub) ⭐ | **最新项目** - 智能 GitHub Stars 管理工具，支持 AI 分类、智能标签和快速搜索 / **Latest Project** - Smart GitHub Stars manager with AI classification, intelligent tags, and fast search |
 |                     | [Personal profile](https://github.com/hujinghaoabcd/hujinghaoabcd) | Personal profile and showcase page / 个人简介和展示页面 |
 |                     | [UnifieReadme](https://github.com/hujinghaoabcd/UnifieReadme) | Tool for unifying README file formats / 统一 README 文件格式的工具 |
 
 ---
 
+### **⭐** 推荐项目：StarHub
+
+**[StarHub](https://github.com/hujinghaoabcd/StarHub)** - 智能 GitHub Stars 管理工具
+
+使用 AI 分类、智能标签和快速搜索功能，轻松管理你的 GitHub Stars。告别混乱的收藏列表！
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hujinghaoabcd/StarHub/main/public/screenshot-01.png" alt="StarHub 截图 1" width="48%" />
+  <img src="https://raw.githubusercontent.com/hujinghaoabcd/StarHub/main/public/screenshot-02.png" alt="StarHub 截图 2" width="48%" />
+</div>
+
+**核心功能：**
+- 🤖 **AI 分类** - 使用 AI 自动对仓库进行分类
+- 🏷️ **智能标签** - 智能标签系统，更好地组织仓库
+- 🔍 **快速搜索** - 强大的搜索功能，快速找到需要的仓库
+- 📱 **现代界面** - 基于 Vue 3 和 TypeScript 构建，体验流畅
+- 💾 **本地存储** - 使用 IndexedDB 本地存储所有数据
+- 🌐 **双语支持** - 支持中英文界面
+
+**技术栈：** Vue 3, TypeScript, Element Plus, Dexie.js, IndexedDB, Marked
+
+[![StarHub](https://img.shields.io/badge/StarHub-最新项目-blue?style=flat-square)](https://github.com/hujinghaoabcd/StarHub)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/hujinghaoabcd/StarHub)
+
+---
 
 ### **☎️** 如何联系我
 
