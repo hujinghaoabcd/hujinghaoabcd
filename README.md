@@ -61,6 +61,19 @@ English | [中文](https://github.com/hujinghaoabcd/hujinghaoabcd/blob/main/READ
 
 ---
 
+### **📚** Basic Tutorials Series
+
+| Tutorial Name | Description | Status |
+|:---:|:---:|:---:|
+| [sciPy Tutorial](https://github.com/hujinghaoabcd/scipy-tutorial) | Comprehensive guide to SciPy for scientific computing / 科学计算库 SciPy 的完整教程 | ![Updated 6 minutes ago](https://img.shields.io/badge/Updated-6%20minutes%20ago-brightgreen) |
+| [LinearModels Tutorial](https://github.com/hujinghaoabcd/linearmodels-tutorial) | LinearModels face recognition tool and tutorial / LinearModels 工具教程 | ![Updated 15 minutes ago](https://img.shields.io/badge/Updated-15%20minutes%20ago-brightgreen) |
+| [StatsModels Tutorial](https://github.com/hujinghaoabcd/statsmodels-tutorial) | StatsModels statistical modeling tutorial with Chinese content / StatsModels 统计建模教程 | ![Updated 1 hour ago](https://img.shields.io/badge/Updated-1%20hour%20ago-yellow) |
+| [Python Tutorial](https://github.com/hujinghaoabcd/python-tutorial) | Python beginner tutorial with Jupyter Notebook / Python 入门教程 | ![Updated 2 hours ago](https://img.shields.io/badge/Updated-2%20hours%20ago-yellow) |
+| [Pandas Tutorial](https://github.com/hujinghaoabcd/pandas-tutorial) | Comprehensive Pandas data analysis tutorial / Pandas 学习教程 | ![Updated 3 hours ago](https://img.shields.io/badge/Updated-3%20hours%20ago-yellow) |
+| [NumPy Tutorial](https://github.com/hujinghaoabcd/numpy-tutorial) | NumPy beginners guide / NumPy 入门到精通 | ![Updated 5 hours ago](https://img.shields.io/badge/Updated-5%20hours%20ago-orange) |
+
+---
+
 ### **⭐** Featured Project: StarHub
 
 **[StarHub](https://github.com/hujinghaoabcd/StarHub)** - Smart GitHub Stars Manager
