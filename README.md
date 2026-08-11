@@ -35,14 +35,55 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
 
 ## 🧭 Research & Open-source Ecosystem
 
-| Area | Projects |
-| --- | --- |
-| **GeoAI & Spatiotemporal AI** | [DH-STGCN](https://github.com/hujinghaoabcd/DH-STGCN) · [spatialshap](https://github.com/hujinghaoabcd/spatialshap) |
-| **Spatial Statistics** | [pyGWRx](https://github.com/hujinghaoabcd/pyGWRx) · [GWRForge](https://github.com/hujinghaoabcd/GWRForge) · [pyGeoHet](https://github.com/hujinghaoabcd/pyGeoHet) · [pySTARMAx](https://github.com/hujinghaoabcd/pySTARMAx) |
-| **Geospatial Analysis** | [pyKDEX](https://github.com/hujinghaoabcd/pyKDEX) · [pySurveying](https://github.com/hujinghaoabcd/pySurveying) · [soil_interpolation](https://github.com/hujinghaoabcd/soil_interpolation) |
-| **Environmental Modeling** | [AERMODKit](https://github.com/hujinghaoabcd/AERMODKit) · [WRFDoc](https://github.com/hujinghaoabcd/WRFDoc) · [AERMODDoc](https://github.com/hujinghaoabcd/AERMODDoc) |
-| **WebGIS & Applications** | [GeoPortalX](https://github.com/hujinghaoabcd/GeoPortalX) · [openlayers-webgis-platform](https://github.com/hujinghaoabcd/openlayers-webgis-platform) · [AirSimPortal](https://github.com/hujinghaoabcd/AirSimPortal) · [zhidun-crime-analysis](https://github.com/hujinghaoabcd/zhidun-crime-analysis) |
-| **Developer Tools** | [StarHub](https://github.com/hujinghaoabcd/StarHub) · [RepoForge](https://github.com/hujinghaoabcd/RepoForge) · [django-modern-admin](https://github.com/hujinghaoabcd/django-modern-admin) · [PlotLibre](https://github.com/hujinghaoabcd/PlotLibre) |
+<table>
+<tr>
+<td width="50%" valign="top">
+<strong>🧠 GeoAI &amp; Spatiotemporal AI</strong><br/><br/>
+<sub>Spatial intelligence, explainability and spatiotemporal forecasting.</sub><br/><br/>
+<a href="https://github.com/hujinghaoabcd/DH-STGCN"><code>DH-STGCN</code></a> · <a href="https://github.com/hujinghaoabcd/spatialshap"><code>spatialshap</code></a>
+</td>
+<td width="50%" valign="top">
+<strong>📐 Spatial Statistics</strong><br/><br/>
+<sub>Local modelling, spatial heterogeneity and space-time statistics.</sub><br/><br/>
+<a href="https://github.com/hujinghaoabcd/pyGWRx"><code>pyGWRx</code></a> · <a href="https://github.com/hujinghaoabcd/GWRForge"><code>GWRForge</code></a><br/>
+<a href="https://github.com/hujinghaoabcd/pyGeoHet"><code>pyGeoHet</code></a> · <a href="https://github.com/hujinghaoabcd/pySTARMAx"><code>pySTARMAx</code></a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<strong>🗺️ Geospatial Analysis</strong><br/><br/>
+<sub>Reusable tools for spatial analysis, surveying and interpolation.</sub><br/><br/>
+<a href="https://github.com/hujinghaoabcd/pyKDEX"><code>pyKDEX</code></a> · <a href="https://github.com/hujinghaoabcd/pySurveying"><code>pySurveying</code></a><br/>
+<a href="https://github.com/hujinghaoabcd/soil_interpolation"><code>soil_interpolation</code></a>
+</td>
+<td width="50%" valign="top">
+<strong>🌫️ Environmental Modeling</strong><br/><br/>
+<sub>Atmospheric modelling workflows, documentation and research tooling.</sub><br/><br/>
+<a href="https://github.com/hujinghaoabcd/AERMODKit"><code>AERMODKit</code></a> · <a href="https://github.com/hujinghaoabcd/WRFDoc"><code>WRFDoc</code></a><br/>
+<a href="https://github.com/hujinghaoabcd/AERMODDoc"><code>AERMODDoc</code></a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<strong>🌐 WebGIS &amp; Applications</strong><br/><br/>
+<sub>Modern geospatial platforms, visualization and domain applications.</sub><br/><br/>
+<a href="https://github.com/hujinghaoabcd/GeoPortalX"><code>GeoPortalX</code></a> · <a href="https://github.com/hujinghaoabcd/openlayers-webgis-platform"><code>OMap</code></a><br/>
+<a href="https://github.com/hujinghaoabcd/AirSimPortal"><code>AirSimPortal</code></a> · <a href="https://github.com/hujinghaoabcd/zhidun-crime-analysis"><code>ZhiDun</code></a>
+</td>
+<td width="50%" valign="top">
+<strong>🛠️ Developer Tools</strong><br/><br/>
+<sub>Repository standards, developer experience and reusable engineering tools.</sub><br/><br/>
+<a href="https://github.com/hujinghaoabcd/StarHub"><code>StarHub</code></a> · <a href="https://github.com/hujinghaoabcd/RepoForge"><code>RepoForge</code></a><br/>
+<a href="https://github.com/hujinghaoabcd/django-modern-admin"><code>django-modern-admin</code></a> · <a href="https://github.com/hujinghaoabcd/PlotLibre"><code>PlotLibre</code></a>
+</td>
+</tr>
+</table>
 
 ---
 
