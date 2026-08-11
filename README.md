@@ -35,30 +35,32 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
 
 ## 🧰 Languages, Frameworks, Tools & Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
-![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=flat-square)
-![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=flat-square)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<p>
+  <kbd><img src="https://cdn.simpleicons.org/python/3776AB" width="28" height="28" alt="Python" title="Python" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/r/276DC3" width="28" height="28" alt="R" title="R" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="28" height="28" alt="C++" title="C++" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="28" height="28" alt="JavaScript" title="JavaScript" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/typescript/3178C6" width="28" height="28" alt="TypeScript" title="TypeScript" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="28" height="28" alt="SQL / PostgreSQL" title="SQL / PostgreSQL" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="28" height="28" alt="PyTorch" title="PyTorch" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/numpy/013243" width="28" height="28" alt="NumPy" title="NumPy" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/pandas/150458" width="28" height="28" alt="Pandas" title="Pandas" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/geopandas/139C5A" width="28" height="28" alt="GeoPandas" title="GeoPandas" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/qgis/589632" width="28" height="28" alt="QGIS" title="QGIS" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/postgis/336791" width="28" height="28" alt="PostGIS" title="PostGIS" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/gdal/5CAE58" width="28" height="28" alt="GDAL" title="GDAL" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/maplibre/396CB2" width="28" height="28" alt="MapLibre" title="MapLibre" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/leaflet/199900" width="28" height="28" alt="Leaflet" title="Leaflet" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/openlayers/1F6B75" width="28" height="28" alt="OpenLayers" title="OpenLayers" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="28" height="28" alt="Vue" title="Vue" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/react/61DAFB" width="28" height="28" alt="React" title="React" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/django/092E20" width="28" height="28" alt="Django" title="Django" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/git/F05032" width="28" height="28" alt="Git" title="Git" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/docker/2496ED" width="28" height="28" alt="Docker" title="Docker" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/linux/FCC624" width="28" height="28" alt="Linux" title="Linux" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="28" height="28" alt="GitHub Actions" title="GitHub Actions" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="28" height="28" alt="VS Code" title="VS Code" /></kbd>
+</p>
 
 ---
 
