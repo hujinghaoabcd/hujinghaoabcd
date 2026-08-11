@@ -176,6 +176,16 @@ The goal is not only to publish models, but also to make the associated implemen
     <td align="center"><a href="https://github.com/fernando-aristizabal"><img src="https://avatars2.githubusercontent.com/u/16439785" width="64px;" alt="fernando-aristizabal"/></a><br/><sub><a href="https://github.com/fernando-aristizabal">fernando-aristizabal</a></sub></td>
     <td align="center"><a href="https://github.com/EdisonForMan"><img src="https://avatars2.githubusercontent.com/u/18521643" width="64px;" alt="EdisonForMan"/></a><br/><sub><a href="https://github.com/EdisonForMan">EdisonForMan</a></sub></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/djvelimir"><img src="https://avatars2.githubusercontent.com/u/20823832" width="64px;" alt="djvelimir"/></a><br/><sub><a href="https://github.com/djvelimir">djvelimir</a></sub></td>
+    <td align="center"><a href="https://github.com/Clarmy"><img src="https://avatars2.githubusercontent.com/u/20877876" width="64px;" alt="Clarmy"/></a><br/><sub><a href="https://github.com/Clarmy">Clarmy</a></sub></td>
+    <td align="center"><a href="https://github.com/igormartins4"><img src="https://avatars2.githubusercontent.com/u/23300792" width="64px;" alt="igormartins4"/></a><br/><sub><a href="https://github.com/igormartins4">igormartins4</a></sub></td>
+    <td align="center"><a href="https://github.com/HeZhang1994"><img src="https://avatars2.githubusercontent.com/u/23662544" width="64px;" alt="HeZhang1994"/></a><br/><sub><a href="https://github.com/HeZhang1994">HeZhang1994</a></sub></td>
+    <td align="center"><a href="https://github.com/gislinker"><img src="https://avatars2.githubusercontent.com/u/24687893" width="64px;" alt="gislinker"/></a><br/><sub><a href="https://github.com/gislinker">gislinker</a></sub></td>
+    <td align="center"><a href="https://github.com/wyc880622"><img src="https://avatars2.githubusercontent.com/u/25219834" width="64px;" alt="wyc880622"/></a><br/><sub><a href="https://github.com/wyc880622">wyc880622</a></sub></td>
+    <td align="center"><a href="https://github.com/bludnic"><img src="https://avatars2.githubusercontent.com/u/25831507" width="64px;" alt="bludnic"/></a><br/><sub><a href="https://github.com/bludnic">bludnic</a></sub></td>
+    <td align="center"><a href="https://github.com/FlaviaLopes"><img src="https://avatars2.githubusercontent.com/u/27861617" width="64px;" alt="FlaviaLopes"/></a><br/><sub><a href="https://github.com/FlaviaLopes">FlaviaLopes</a></sub></td>
+  </tr>
 </table>
 <!--END_SECTION:top-followers-->
 
