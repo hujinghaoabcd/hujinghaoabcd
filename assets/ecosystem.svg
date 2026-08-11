@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="432" viewBox="0 0 900 432" role="img" aria-label="Research and open-source ecosystem">
+<style>
+  .bg{fill:#ffffff}.card{fill:#ffffff;stroke:#d0d7de}.title{fill:#1f2328}.desc{fill:#656d76}.project{fill:#0969da}.tag{fill:#f6f8fa;stroke:#d0d7de}.tagtext{fill:#57606a}.accent1{fill:#8250df}.accent2{fill:#0969da}.accent3{fill:#1a7f37}.accent4{fill:#bf8700}.accent5{fill:#0a7b83}.accent6{fill:#cf222e}
+  text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+  @media (prefers-color-scheme:dark){
+    .bg{fill:#0d1117}.card{fill:#0d1117;stroke:#30363d}.title{fill:#e6edf3}.desc{fill:#8b949e}.project{fill:#58a6ff}.tag{fill:#161b22;stroke:#30363d}.tagtext{fill:#8b949e}
+  }
+</style>
+<rect class="bg" width="900" height="432"/>
+
+<!-- row 1 -->
+<g transform="translate(0 0)">
+  <rect class="card" x="0.5" y="0.5" width="441" height="127" rx="8"/>
+  <rect class="accent1" x="0" y="0" width="5" height="128" rx="3"/>
+  <rect class="tag" x="18" y="17" width="38" height="24" rx="12"/><text class="tagtext" x="37" y="33" font-size="11" font-weight="600" text-anchor="middle">AI</text>
+  <text class="title" x="68" y="34" font-size="17" font-weight="600">GeoAI &amp; Spatiotemporal AI</text>
+  <text class="desc" x="18" y="65" font-size="12.5">Spatial intelligence · explainability · forecasting</text>
+  <text class="project" x="18" y="99" font-size="13.5" font-weight="600">DH-STGCN · spatialshap</text>
+</g>
+<g transform="translate(458 0)">
+  <rect class="card" x="0.5" y="0.5" width="441" height="127" rx="8"/>
+  <rect class="accent2" x="0" y="0" width="5" height="128" rx="3"/>
+  <rect class="tag" x="18" y="17" width="38" height="24" rx="12"/><text class="tagtext" x="37" y="33" font-size="11" font-weight="600" text-anchor="middle">ST</text>
+  <text class="title" x="68" y="34" font-size="17" font-weight="600">Spatial Statistics</text>
+  <text class="desc" x="18" y="65" font-size="12.5">Local models · heterogeneity · space-time statistics</text>
+  <text class="project" x="18" y="96" font-size="13.5" font-weight="600">pyGWRx · GWRForge</text>
+  <text class="project" x="18" y="116" font-size="13.5" font-weight="600">pyGeoHet · pySTARMAx</text>
+</g>
+
+<!-- row 2 -->
+<g transform="translate(0 144)">
+  <rect class="card" x="0.5" y="0.5" width="441" height="127" rx="8"/>
+  <rect class="accent3" x="0" y="0" width="5" height="128" rx="3"/>
+  <rect class="tag" x="18" y="17" width="38" height="24" rx="12"/><text class="tagtext" x="37" y="33" font-size="11" font-weight="600" text-anchor="middle">GIS</text>
+  <text class="title" x="68" y="34" font-size="17" font-weight="600">Geospatial Analysis</text>
+  <text class="desc" x="18" y="65" font-size="12.5">Analysis · surveying · interpolation workflows</text>
+  <text class="project" x="18" y="96" font-size="13.5" font-weight="600">pyKDEX · pySurveying</text>
+  <text class="project" x="18" y="116" font-size="13.5" font-weight="600">soil_interpolation</text>
+</g>
+<g transform="translate(458 144)">
+  <rect class="card" x="0.5" y="0.5" width="441" height="127" rx="8"/>
+  <rect class="accent4" x="0" y="0" width="5" height="128" rx="3"/>
+  <rect class="tag" x="18" y="17" width="42" height="24" rx="12"/><text class="tagtext" x="39" y="33" font-size="11" font-weight="600" text-anchor="middle">ENV</text>
+  <text class="title" x="72" y="34" font-size="17" font-weight="600">Environmental Modeling</text>
+  <text class="desc" x="18" y="65" font-size="12.5">Atmospheric simulation · workflows · documentation</text>
+  <text class="project" x="18" y="96" font-size="13.5" font-weight="600">AERMODKit · WRFDoc</text>
+  <text class="project" x="18" y="116" font-size="13.5" font-weight="600">AERMODDoc</text>
+</g>
+
+<!-- row 3 -->
+<g transform="translate(0 288)">
+  <rect class="card" x="0.5" y="0.5" width="441" height="127" rx="8"/>
+  <rect class="accent5" x="0" y="0" width="5" height="128" rx="3"/>
+  <rect class="tag" x="18" y="17" width="42" height="24" rx="12"/><text class="tagtext" x="39" y="33" font-size="11" font-weight="600" text-anchor="middle">WEB</text>
+  <text class="title" x="72" y="34" font-size="17" font-weight="600">WebGIS &amp; Applications</text>
+  <text class="desc" x="18" y="65" font-size="12.5">Platforms · visualization · domain applications</text>
+  <text class="project" x="18" y="96" font-size="13.5" font-weight="600">GeoPortalX · OMap · AirSimPortal</text>
+  <text class="project" x="18" y="116" font-size="13.5" font-weight="600">ZhiDun</text>
+</g>
+<g transform="translate(458 288)">
+  <rect class="card" x="0.5" y="0.5" width="441" height="127" rx="8"/>
+  <rect class="accent6" x="0" y="0" width="5" height="128" rx="3"/>
+  <rect class="tag" x="18" y="17" width="42" height="24" rx="12"/><text class="tagtext" x="39" y="33" font-size="11" font-weight="600" text-anchor="middle">DEV</text>
+  <text class="title" x="72" y="34" font-size="17" font-weight="600">Developer Tools</text>
+  <text class="desc" x="18" y="65" font-size="12.5">Repository standards · DX · reusable tooling</text>
+  <text class="project" x="18" y="96" font-size="13.5" font-weight="600">StarHub · RepoForge · PlotLibre</text>
+  <text class="project" x="18" y="116" font-size="13.5" font-weight="600">django-modern-admin</text>
+</g>
+</svg>
