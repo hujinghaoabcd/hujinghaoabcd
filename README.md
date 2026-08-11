@@ -172,6 +172,117 @@ The goal is not only to publish models, but also to make the associated implemen
 
 ---
 
+### :sparkles: [My followers](src/getTopFollowers.py)
+
+<!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/eust-w">
+        <img src="https://avatars2.githubusercontent.com/u/39115651" width="100px;" alt="eust-w"/>
+      </a>
+      <br />
+      <a href="https://github.com/eust-w">longtao</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/trinhminhtriet">
+        <img src="https://avatars2.githubusercontent.com/u/1650997" width="100px;" alt="trinhminhtriet"/>
+      </a>
+      <br />
+      <a href="https://github.com/trinhminhtriet">Triet Trinh</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ninja1375">
+        <img src="https://avatars2.githubusercontent.com/u/166745758" width="100px;" alt="Ninja1375"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ninja1375">Antônio Nascimento </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chikitai">
+        <img src="https://avatars2.githubusercontent.com/u/153332620" width="100px;" alt="chikitai"/>
+      </a>
+      <br />
+      <a href="https://github.com/chikitai">Chikita Isaac </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anahi-hub">
+        <img src="https://avatars2.githubusercontent.com/u/172525619" width="100px;" alt="anahi-hub"/>
+      </a>
+      <br />
+      <a href="https://github.com/anahi-hub">anahi-hub</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/businessservic">
+        <img src="https://avatars2.githubusercontent.com/u/133143298" width="100px;" alt="businessservic"/>
+      </a>
+      <br />
+      <a href="https://github.com/businessservic">businessservic</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jingsam">
+        <img src="https://avatars2.githubusercontent.com/u/1522494" width="100px;" alt="jingsam"/>
+      </a>
+      <br />
+      <a href="https://github.com/jingsam">jingsam</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mikejohnson51">
+        <img src="https://avatars2.githubusercontent.com/u/30052272" width="100px;" alt="mikejohnson51"/>
+      </a>
+      <br />
+      <a href="https://github.com/mikejohnson51">MikeJohnson-NOAA</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Murplugg">
+        <img src="https://avatars2.githubusercontent.com/u/17575688" width="100px;" alt="Murplugg"/>
+      </a>
+      <br />
+      <a href="https://github.com/Murplugg">Murplugg</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/enfycius">
+        <img src="https://avatars2.githubusercontent.com/u/34566999" width="100px;" alt="enfycius"/>
+      </a>
+      <br />
+      <a href="https://github.com/enfycius">Kim JongHyeok</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GISerDaiShaoqing">
+        <img src="https://avatars2.githubusercontent.com/u/26642320" width="100px;" alt="GISerDaiShaoqing"/>
+      </a>
+      <br />
+      <a href="https://github.com/GISerDaiShaoqing">DaiShaoqing</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/olavoparno">
+        <img src="https://avatars2.githubusercontent.com/u/7513162" width="100px;" alt="olavoparno"/>
+      </a>
+      <br />
+      <a href="https://github.com/olavoparno">Olavo Parno</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/snkd">
+        <img src="https://avatars2.githubusercontent.com/u/34954109" width="100px;" alt="snkd"/>
+      </a>
+      <br />
+      <a href="https://github.com/snkd">Susant Khadka</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/greydoubt">
+        <img src="https://avatars2.githubusercontent.com/u/43443470" width="100px;" alt="greydoubt"/>
+      </a>
+      <br />
+      <a href="https://github.com/greydoubt">--</a>
+    </td>
+  </tr>
+</table>
+<!--END_SECTION:top-followers-->
+
+---
+
 ## 📫 Contact
 
 - **Email:** hujinghao20@mails.ucas.ac.cn
