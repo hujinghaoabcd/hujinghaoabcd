@@ -35,13 +35,72 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
 
 ## 🧭 Research & Open-source Ecosystem
 
-<a href="https://github.com/hujinghaoabcd?tab=repositories">
-  <img src="assets/ecosystem.svg" width="100%" alt="Research and open-source ecosystem" />
-</a>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <sub>Research methods · geospatial analysis · environmental modeling · WebGIS · developer tooling</sub>
-</p>
+**🧠 GeoAI & Spatiotemporal AI**
+
+<sub>Spatial intelligence, explainability & spatiotemporal learning</sub>
+
+[DH-STGCN](https://github.com/hujinghaoabcd/DH-STGCN) · [SpatialSHAP](https://github.com/hujinghaoabcd/spatialshap)
+
+</td>
+<td width="50%" valign="top">
+
+**📐 Spatial Statistics**
+
+<sub>Local modelling, spatial heterogeneity & space-time statistics</sub>
+
+[pyGWRx](https://github.com/hujinghaoabcd/pyGWRx) · [GWRForge](https://github.com/hujinghaoabcd/GWRForge)  
+[pyGeoHet](https://github.com/hujinghaoabcd/pyGeoHet) · [pySTARMAx](https://github.com/hujinghaoabcd/pySTARMAx)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🗺️ Geospatial Analysis**
+
+<sub>Spatial analysis, surveying & interpolation</sub>
+
+[pyKDEX](https://github.com/hujinghaoabcd/pyKDEX) · [pySurveying](https://github.com/hujinghaoabcd/pySurveying)  
+[Soil Interpolation](https://github.com/hujinghaoabcd/soil_interpolation)
+
+</td>
+<td width="50%" valign="top">
+
+**🌫️ Environmental Modeling**
+
+<sub>Atmospheric modelling, workflows & documentation</sub>
+
+[AERMODKit](https://github.com/hujinghaoabcd/AERMODKit) · [WRFDoc](https://github.com/hujinghaoabcd/WRFDoc) · [AERMODDoc](https://github.com/hujinghaoabcd/AERMODDoc)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌐 WebGIS & Applications**
+
+<sub>Modern geospatial platforms & domain applications</sub>
+
+[GeoPortalX](https://github.com/hujinghaoabcd/GeoPortalX) · [OMap](https://github.com/hujinghaoabcd/openlayers-webgis-platform)  
+[AirSimPortal](https://github.com/hujinghaoabcd/AirSimPortal) · [ZhiDun](https://github.com/hujinghaoabcd/zhidun-crime-analysis)
+
+</td>
+<td width="50%" valign="top">
+
+**🛠️ Developer Tools**
+
+<sub>Developer experience, project standards & reusable tooling</sub>
+
+[StarHub](https://github.com/hujinghaoabcd/StarHub) · [RepoForge](https://github.com/hujinghaoabcd/RepoForge)  
+[Django Modern Admin](https://github.com/hujinghaoabcd/django-modern-admin) · [PlotLibre](https://github.com/hujinghaoabcd/PlotLibre)
+
+</td>
+</tr>
+</table>
 
 ---
 
