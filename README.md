@@ -37,67 +37,60 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-**🧠 GeoAI & Spatiotemporal AI**
-
-<sub>Spatial intelligence, explainability & spatiotemporal learning</sub>
-
-[DH-STGCN](https://github.com/hujinghaoabcd/DH-STGCN) · [SpatialSHAP](https://github.com/hujinghaoabcd/spatialshap)
-
+<td width="38%" valign="middle">
+<strong>🧠 GeoAI &amp; Spatiotemporal AI</strong><br/>
+<sub>Spatial intelligence, explainability &amp; spatiotemporal learning</sub>
 </td>
-<td width="50%" valign="top">
-
-**📐 Spatial Statistics**
-
-<sub>Local modelling, spatial heterogeneity & space-time statistics</sub>
-
-[pyGWRx](https://github.com/hujinghaoabcd/pyGWRx) · [GWRForge](https://github.com/hujinghaoabcd/GWRForge)  
-[pyGeoHet](https://github.com/hujinghaoabcd/pyGeoHet) · [pySTARMAx](https://github.com/hujinghaoabcd/pySTARMAx)
-
+<td width="62%" align="right" valign="middle">
+<a href="https://github.com/hujinghaoabcd/DH-STGCN">DH-STGCN</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/hujinghaoabcd/spatialshap">SpatialSHAP</a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-**🗺️ Geospatial Analysis**
-
-<sub>Spatial analysis, surveying & interpolation</sub>
-
-[pyKDEX](https://github.com/hujinghaoabcd/pyKDEX) · [pySurveying](https://github.com/hujinghaoabcd/pySurveying)  
-[Soil Interpolation](https://github.com/hujinghaoabcd/soil_interpolation)
-
+<td width="38%" valign="middle">
+<strong>📐 Spatial Statistics</strong><br/>
+<sub>Local modelling, spatial heterogeneity &amp; space-time statistics</sub>
 </td>
-<td width="50%" valign="top">
-
-**🌫️ Environmental Modeling**
-
-<sub>Atmospheric modelling, workflows & documentation</sub>
-
-[AERMODKit](https://github.com/hujinghaoabcd/AERMODKit) · [WRFDoc](https://github.com/hujinghaoabcd/WRFDoc) · [AERMODDoc](https://github.com/hujinghaoabcd/AERMODDoc)
-
+<td width="62%" align="right" valign="middle">
+<a href="https://github.com/hujinghaoabcd/pyGWRx">pyGWRx</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/hujinghaoabcd/GWRForge">GWRForge</a><br/>
+<a href="https://github.com/hujinghaoabcd/pyGeoHet">pyGeoHet</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/hujinghaoabcd/pySTARMAx">pySTARMAx</a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-**🌐 WebGIS & Applications**
-
-<sub>Modern geospatial platforms & domain applications</sub>
-
-[GeoPortalX](https://github.com/hujinghaoabcd/GeoPortalX) · [OMap](https://github.com/hujinghaoabcd/openlayers-webgis-platform)  
-[AirSimPortal](https://github.com/hujinghaoabcd/AirSimPortal) · [ZhiDun](https://github.com/hujinghaoabcd/zhidun-crime-analysis)
-
+<td width="38%" valign="middle">
+<strong>🗺️ Geospatial Analysis</strong><br/>
+<sub>Spatial analysis, surveying &amp; interpolation</sub>
 </td>
-<td width="50%" valign="top">
-
-**🛠️ Developer Tools**
-
-<sub>Developer experience, project standards & reusable tooling</sub>
-
-[StarHub](https://github.com/hujinghaoabcd/StarHub) · [RepoForge](https://github.com/hujinghaoabcd/RepoForge)  
-[Django Modern Admin](https://github.com/hujinghaoabcd/django-modern-admin) · [PlotLibre](https://github.com/hujinghaoabcd/PlotLibre)
-
+<td width="62%" align="right" valign="middle">
+<a href="https://github.com/hujinghaoabcd/pyKDEX">pyKDEX</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/hujinghaoabcd/pySurveying">pySurveying</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/hujinghaoabcd/soil_interpolation">Soil Interpolation</a>
+</td>
+</tr>
+<tr>
+<td width="38%" valign="middle">
+<strong>🌫️ Environmental Modeling</strong><br/>
+<sub>Atmospheric modelling, workflows &amp; documentation</sub>
+</td>
+<td width="62%" align="right" valign="middle">
+<a href="https://github.com/hujinghaoabcd/AERMODKit">AERMODKit</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/hujinghaoabcd/WRFDoc">WRFDoc</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/hujinghaoabcd/AERMODDoc">AERMODDoc</a>
+</td>
+</tr>
+<tr>
+<td width="38%" valign="middle">
+<strong>🌐 WebGIS &amp; Applications</strong><br/>
+<sub>Modern geospatial platforms &amp; domain applications</sub>
+</td>
+<td width="62%" align="right" valign="middle">
+<a href="https://github.com/hujinghaoabcd/GeoPortalX">GeoPortalX</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/hujinghaoabcd/openlayers-webgis-platform">OMap</a><br/>
+<a href="https://github.com/hujinghaoabcd/AirSimPortal">AirSimPortal</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/hujinghaoabcd/zhidun-crime-analysis">ZhiDun</a>
+</td>
+</tr>
+<tr>
+<td width="38%" valign="middle">
+<strong>🛠️ Developer Tools</strong><br/>
+<sub>Developer experience, project standards &amp; reusable tooling</sub>
+</td>
+<td width="62%" align="right" valign="middle">
+<a href="https://github.com/hujinghaoabcd/StarHub">StarHub</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/hujinghaoabcd/RepoForge">RepoForge</a><br/>
+<a href="https://github.com/hujinghaoabcd/django-modern-admin">Django Modern Admin</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/hujinghaoabcd/PlotLibre">PlotLibre</a>
 </td>
 </tr>
 </table>
