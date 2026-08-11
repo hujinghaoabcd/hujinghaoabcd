@@ -54,7 +54,7 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
   <kbd><img src="https://cdn.simpleicons.org/pandas/150458" width="28" height="28" alt="Pandas" title="Pandas" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="28" height="28" alt="scikit-learn" title="scikit-learn" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/jupyter/F37626" width="28" height="28" alt="Jupyter" title="Jupyter" /></kbd>
-  <kbd><img src="https://cdn.simpleicons.org/matplotlib/11557C" width="28" height="28" alt="Matplotlib" title="Matplotlib" /></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="28" height="28" alt="Matplotlib" title="Matplotlib" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/plotly/3F4F75" width="28" height="28" alt="Plotly" title="Plotly" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/geopandas/139C5A" width="28" height="28" alt="GeoPandas" title="GeoPandas" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/qgis/589632" width="28" height="28" alt="QGIS" title="QGIS" /></kbd>
@@ -78,7 +78,7 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
   <kbd><img src="https://cdn.simpleicons.org/qt/41CD52" width="28" height="28" alt="Qt" title="Qt" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/sphinx/000000" width="28" height="28" alt="Sphinx" title="Sphinx" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="28" height="28" alt="GitHub Actions" title="GitHub Actions" /></kbd>
-  <kbd><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="28" height="28" alt="VS Code" title="VS Code" /></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="28" height="28" alt="VS Code" title="VS Code" /></kbd>
 </p>
 
 ---
@@ -147,106 +147,34 @@ The goal is not only to publish models, but also to make the associated implemen
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/eust-w">
-        <img src="https://avatars2.githubusercontent.com/u/39115651" width="100px;" alt="eust-w"/>
-      </a>
-      <br />
-      <a href="https://github.com/eust-w">longtao</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/trinhminhtriet">
-        <img src="https://avatars2.githubusercontent.com/u/1650997" width="100px;" alt="trinhminhtriet"/>
-      </a>
-      <br />
-      <a href="https://github.com/trinhminhtriet">Triet Trinh</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Ninja1375">
-        <img src="https://avatars2.githubusercontent.com/u/166745758" width="100px;" alt="Ninja1375"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ninja1375">Antônio Nascimento </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/chikitai">
-        <img src="https://avatars2.githubusercontent.com/u/153332620" width="100px;" alt="chikitai"/>
-      </a>
-      <br />
-      <a href="https://github.com/chikitai">Chikita Isaac </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/anahi-hub">
-        <img src="https://avatars2.githubusercontent.com/u/172525619" width="100px;" alt="anahi-hub"/>
-      </a>
-      <br />
-      <a href="https://github.com/anahi-hub">anahi-hub</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/businessservic">
-        <img src="https://avatars2.githubusercontent.com/u/133143298" width="100px;" alt="businessservic"/>
-      </a>
-      <br />
-      <a href="https://github.com/businessservic">businessservic</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jingsam">
-        <img src="https://avatars2.githubusercontent.com/u/1522494" width="100px;" alt="jingsam"/>
-      </a>
-      <br />
-      <a href="https://github.com/jingsam">jingsam</a>
-    </td>
+    <td align="center"><a href="https://github.com/eust-w"><img src="https://avatars2.githubusercontent.com/u/39115651" width="64px;" alt="eust-w"/></a><br/><sub><a href="https://github.com/eust-w">longtao</a></sub></td>
+    <td align="center"><a href="https://github.com/trinhminhtriet"><img src="https://avatars2.githubusercontent.com/u/1650997" width="64px;" alt="trinhminhtriet"/></a><br/><sub><a href="https://github.com/trinhminhtriet">Triet Trinh</a></sub></td>
+    <td align="center"><a href="https://github.com/Ninja1375"><img src="https://avatars2.githubusercontent.com/u/166745758" width="64px;" alt="Ninja1375"/></a><br/><sub><a href="https://github.com/Ninja1375">Antônio Nascimento</a></sub></td>
+    <td align="center"><a href="https://github.com/chikitai"><img src="https://avatars2.githubusercontent.com/u/153332620" width="64px;" alt="chikitai"/></a><br/><sub><a href="https://github.com/chikitai">Chikita Isaac</a></sub></td>
+    <td align="center"><a href="https://github.com/anahi-hub"><img src="https://avatars2.githubusercontent.com/u/172525619" width="64px;" alt="anahi-hub"/></a><br/><sub><a href="https://github.com/anahi-hub">anahi-hub</a></sub></td>
+    <td align="center"><a href="https://github.com/businessservic"><img src="https://avatars2.githubusercontent.com/u/133143298" width="64px;" alt="businessservic"/></a><br/><sub><a href="https://github.com/businessservic">businessservic</a></sub></td>
+    <td align="center"><a href="https://github.com/jingsam"><img src="https://avatars2.githubusercontent.com/u/1522494" width="64px;" alt="jingsam"/></a><br/><sub><a href="https://github.com/jingsam">jingsam</a></sub></td>
+    <td align="center"><a href="https://github.com/mikejohnson51"><img src="https://avatars2.githubusercontent.com/u/30052272" width="64px;" alt="mikejohnson51"/></a><br/><sub><a href="https://github.com/mikejohnson51">MikeJohnson-NOAA</a></sub></td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/mikejohnson51">
-        <img src="https://avatars2.githubusercontent.com/u/30052272" width="100px;" alt="mikejohnson51"/>
-      </a>
-      <br />
-      <a href="https://github.com/mikejohnson51">MikeJohnson-NOAA</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Murplugg">
-        <img src="https://avatars2.githubusercontent.com/u/17575688" width="100px;" alt="Murplugg"/>
-      </a>
-      <br />
-      <a href="https://github.com/Murplugg">Murplugg</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/enfycius">
-        <img src="https://avatars2.githubusercontent.com/u/34566999" width="100px;" alt="enfycius"/>
-      </a>
-      <br />
-      <a href="https://github.com/enfycius">Kim JongHyeok</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/GISerDaiShaoqing">
-        <img src="https://avatars2.githubusercontent.com/u/26642320" width="100px;" alt="GISerDaiShaoqing"/>
-      </a>
-      <br />
-      <a href="https://github.com/GISerDaiShaoqing">DaiShaoqing</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/olavoparno">
-        <img src="https://avatars2.githubusercontent.com/u/7513162" width="100px;" alt="olavoparno"/>
-      </a>
-      <br />
-      <a href="https://github.com/olavoparno">Olavo Parno</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/snkd">
-        <img src="https://avatars2.githubusercontent.com/u/34954109" width="100px;" alt="snkd"/>
-      </a>
-      <br />
-      <a href="https://github.com/snkd">Susant Khadka</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/greydoubt">
-        <img src="https://avatars2.githubusercontent.com/u/43443470" width="100px;" alt="greydoubt"/>
-      </a>
-      <br />
-      <a href="https://github.com/greydoubt">--</a>
-    </td>
+    <td align="center"><a href="https://github.com/Murplugg"><img src="https://avatars2.githubusercontent.com/u/17575688" width="64px;" alt="Murplugg"/></a><br/><sub><a href="https://github.com/Murplugg">Murplugg</a></sub></td>
+    <td align="center"><a href="https://github.com/enfycius"><img src="https://avatars2.githubusercontent.com/u/34566999" width="64px;" alt="enfycius"/></a><br/><sub><a href="https://github.com/enfycius">Kim JongHyeok</a></sub></td>
+    <td align="center"><a href="https://github.com/GISerDaiShaoqing"><img src="https://avatars2.githubusercontent.com/u/26642320" width="64px;" alt="GISerDaiShaoqing"/></a><br/><sub><a href="https://github.com/GISerDaiShaoqing">DaiShaoqing</a></sub></td>
+    <td align="center"><a href="https://github.com/olavoparno"><img src="https://avatars2.githubusercontent.com/u/7513162" width="64px;" alt="olavoparno"/></a><br/><sub><a href="https://github.com/olavoparno">Olavo Parno</a></sub></td>
+    <td align="center"><a href="https://github.com/snkd"><img src="https://avatars2.githubusercontent.com/u/34954109" width="64px;" alt="snkd"/></a><br/><sub><a href="https://github.com/snkd">Susant Khadka</a></sub></td>
+    <td align="center"><a href="https://github.com/greydoubt"><img src="https://avatars2.githubusercontent.com/u/43443470" width="64px;" alt="greydoubt"/></a><br/><sub><a href="https://github.com/greydoubt">--</a></sub></td>
+    <td align="center"><a href="https://github.com/sebjameswml"><img src="https://avatars2.githubusercontent.com/u/130308" width="64px;" alt="sebjameswml"/></a><br/><sub><a href="https://github.com/sebjameswml">sebjameswml</a></sub></td>
+    <td align="center"><a href="https://github.com/jramoncarias"><img src="https://avatars2.githubusercontent.com/u/1390100" width="64px;" alt="jramoncarias"/></a><br/><sub><a href="https://github.com/jramoncarias">jramoncarias</a></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/nickdoth"><img src="https://avatars2.githubusercontent.com/u/3087244" width="64px;" alt="nickdoth"/></a><br/><sub><a href="https://github.com/nickdoth">nickdoth</a></sub></td>
+    <td align="center"><a href="https://github.com/poppingtonic"><img src="https://avatars2.githubusercontent.com/u/5781617" width="64px;" alt="poppingtonic"/></a><br/><sub><a href="https://github.com/poppingtonic">poppingtonic</a></sub></td>
+    <td align="center"><a href="https://github.com/lixiao2"><img src="https://avatars2.githubusercontent.com/u/8855634" width="64px;" alt="lixiao2"/></a><br/><sub><a href="https://github.com/lixiao2">lixiao2</a></sub></td>
+    <td align="center"><a href="https://github.com/SathishGajendran"><img src="https://avatars2.githubusercontent.com/u/11366964" width="64px;" alt="SathishGajendran"/></a><br/><sub><a href="https://github.com/SathishGajendran">SathishGajendran</a></sub></td>
+    <td align="center"><a href="https://github.com/iamsaswata"><img src="https://avatars2.githubusercontent.com/u/15724605" width="64px;" alt="iamsaswata"/></a><br/><sub><a href="https://github.com/iamsaswata">iamsaswata</a></sub></td>
+    <td align="center"><a href="https://github.com/Cocytus-kyon"><img src="https://avatars2.githubusercontent.com/u/16149853" width="64px;" alt="Cocytus-kyon"/></a><br/><sub><a href="https://github.com/Cocytus-kyon">Cocytus-kyon</a></sub></td>
+    <td align="center"><a href="https://github.com/fernando-aristizabal"><img src="https://avatars2.githubusercontent.com/u/16439785" width="64px;" alt="fernando-aristizabal"/></a><br/><sub><a href="https://github.com/fernando-aristizabal">fernando-aristizabal</a></sub></td>
+    <td align="center"><a href="https://github.com/EdisonForMan"><img src="https://avatars2.githubusercontent.com/u/18521643" width="64px;" alt="EdisonForMan"/></a><br/><sub><a href="https://github.com/EdisonForMan">EdisonForMan</a></sub></td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
