@@ -38,7 +38,7 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
 | Area | Projects |
 | --- | --- |
 | **GeoAI & Spatiotemporal AI** | [DH-STGCN](https://github.com/hujinghaoabcd/DH-STGCN) · [spatialshap](https://github.com/hujinghaoabcd/spatialshap) |
-| **Spatial Statistics** | [GWRForge](https://github.com/hujinghaoabcd/GWRForge) · [pyGeoHet](https://github.com/hujinghaoabcd/pyGeoHet) · [pySTARMAx](https://github.com/hujinghaoabcd/pySTARMAx) |
+| **Spatial Statistics** | [pyGWRx](https://github.com/hujinghaoabcd/pyGWRx) · [GWRForge](https://github.com/hujinghaoabcd/GWRForge) · [pyGeoHet](https://github.com/hujinghaoabcd/pyGeoHet) · [pySTARMAx](https://github.com/hujinghaoabcd/pySTARMAx) |
 | **Geospatial Analysis** | [pyKDEX](https://github.com/hujinghaoabcd/pyKDEX) · [pySurveying](https://github.com/hujinghaoabcd/pySurveying) · [soil_interpolation](https://github.com/hujinghaoabcd/soil_interpolation) |
 | **Environmental Modeling** | [AERMODKit](https://github.com/hujinghaoabcd/AERMODKit) · [WRFDoc](https://github.com/hujinghaoabcd/WRFDoc) · [AERMODDoc](https://github.com/hujinghaoabcd/AERMODDoc) |
 | **WebGIS & Applications** | [GeoPortalX](https://github.com/hujinghaoabcd/GeoPortalX) · [openlayers-webgis-platform](https://github.com/hujinghaoabcd/openlayers-webgis-platform) · [AirSimPortal](https://github.com/hujinghaoabcd/AirSimPortal) · [zhidun-crime-analysis](https://github.com/hujinghaoabcd/zhidun-crime-analysis) |
@@ -52,7 +52,7 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
   <a href="https://github.com/hujinghaoabcd/DH-STGCN"><img src="assets/pinned/dh-stgcn.svg" width="49%" alt="DH-STGCN" /></a>
   <a href="https://github.com/hujinghaoabcd/pyKDEX"><img src="assets/pinned/pykdex.svg" width="49%" alt="pyKDEX" /></a>
   <br/>
-  <a href="https://github.com/hujinghaoabcd/GWRForge"><img src="assets/pinned/gwrforge.svg" width="49%" alt="GWRForge" /></a>
+  <a href="https://github.com/hujinghaoabcd/pyGWRx"><img src="assets/pinned/pygwrx.svg" width="49%" alt="pyGWRx" /></a>
   <a href="https://github.com/hujinghaoabcd/StarHub"><img src="assets/pinned/starhub.svg" width="49%" alt="StarHub" /></a>
   <br/>
   <a href="https://github.com/hujinghaoabcd/AERMODKit"><img src="assets/pinned/aermodkit.svg" width="49%" alt="AERMODKit" /></a>
