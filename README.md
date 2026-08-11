@@ -42,9 +42,20 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
   <kbd><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="28" height="28" alt="JavaScript" title="JavaScript" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/typescript/3178C6" width="28" height="28" alt="TypeScript" title="TypeScript" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="28" height="28" alt="SQL / PostgreSQL" title="SQL / PostgreSQL" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="28" height="28" alt="Bash" title="Bash" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/powershell/5391FE" width="28" height="28" alt="PowerShell" title="PowerShell" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/html5/E34F26" width="28" height="28" alt="HTML5" title="HTML5" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/css/663399" width="28" height="28" alt="CSS" title="CSS" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/markdown/000000" width="28" height="28" alt="Markdown" title="Markdown" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/latex/008080" width="28" height="28" alt="LaTeX" title="LaTeX" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="28" height="28" alt="PyTorch" title="PyTorch" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/numpy/013243" width="28" height="28" alt="NumPy" title="NumPy" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="28" height="28" alt="SciPy" title="SciPy" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/pandas/150458" width="28" height="28" alt="Pandas" title="Pandas" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="28" height="28" alt="scikit-learn" title="scikit-learn" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/jupyter/F37626" width="28" height="28" alt="Jupyter" title="Jupyter" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/matplotlib/11557C" width="28" height="28" alt="Matplotlib" title="Matplotlib" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/plotly/3F4F75" width="28" height="28" alt="Plotly" title="Plotly" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/geopandas/139C5A" width="28" height="28" alt="GeoPandas" title="GeoPandas" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/qgis/589632" width="28" height="28" alt="QGIS" title="QGIS" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/postgis/336791" width="28" height="28" alt="PostGIS" title="PostGIS" /></kbd>
@@ -55,9 +66,17 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
   <kbd><img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="28" height="28" alt="Vue" title="Vue" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/react/61DAFB" width="28" height="28" alt="React" title="React" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/django/092E20" width="28" height="28" alt="Django" title="Django" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="28" height="28" alt="Node.js" title="Node.js" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/vite/646CFF" width="28" height="28" alt="Vite" title="Vite" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/pnpm/F69220" width="28" height="28" alt="pnpm" title="pnpm" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/sqlite/003B57" width="28" height="28" alt="SQLite" title="SQLite" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/git/F05032" width="28" height="28" alt="Git" title="Git" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/github/181717" width="28" height="28" alt="GitHub" title="GitHub" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/docker/2496ED" width="28" height="28" alt="Docker" title="Docker" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/linux/FCC624" width="28" height="28" alt="Linux" title="Linux" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/cmake/064F8C" width="28" height="28" alt="CMake" title="CMake" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/qt/41CD52" width="28" height="28" alt="Qt" title="Qt" /></kbd>
+  <kbd><img src="https://cdn.simpleicons.org/sphinx/000000" width="28" height="28" alt="Sphinx" title="Sphinx" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="28" height="28" alt="GitHub Actions" title="GitHub Actions" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="28" height="28" alt="VS Code" title="VS Code" /></kbd>
 </p>
