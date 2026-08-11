@@ -48,68 +48,50 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [DH-STGCN](https://github.com/hujinghaoabcd/DH-STGCN)
-
-Research implementation for hierarchical spatiotemporal graph learning and traffic-flow forecasting.
-
-`PyTorch` `Spatiotemporal GNN` `Traffic Forecasting`
-
-</td>
-<td width="50%" valign="top">
-
-### 🗺️ [pyKDEX](https://github.com/hujinghaoabcd/pyKDEX)
-
-A Python project for modern spatial and network kernel-density analysis workflows.
-
-`Python` `GIS` `Spatial Analysis`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📐 [GWRForge](https://github.com/hujinghaoabcd/GWRForge)
-
-Experimental and research-oriented tooling around geographically weighted modeling.
-
-`Spatial Statistics` `GWR` `Research Software`
-
-</td>
-<td width="50%" valign="top">
-
-### ⭐ [StarHub](https://github.com/hujinghaoabcd/StarHub)
-
-A modern GitHub Stars manager for classification, tagging, organization, and fast retrieval.
-
-`Vue` `TypeScript` `Knowledge Management`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌫️ [AERMODKit](https://github.com/hujinghaoabcd/AERMODKit)
-
-Utilities and workflows supporting atmospheric-dispersion modeling and research automation.
-
-`AERMOD` `Environmental Modeling` `Python`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ [RepoForge](https://github.com/hujinghaoabcd/RepoForge)
-
-Reusable tooling and conventions for building better structured research and software repositories.
-
-`Project Templates` `Documentation` `Developer Tools`
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/hujinghaoabcd/DH-STGCN">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=DH-STGCN&theme=github_dark_dimmed&hide_border=false&description_lines_count=2" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=DH-STGCN&theme=default&hide_border=false&description_lines_count=2" />
+      <img width="49%" alt="DH-STGCN" src="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=DH-STGCN&description_lines_count=2" />
+    </picture>
+  </a>
+  <a href="https://github.com/hujinghaoabcd/pyKDEX">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=pyKDEX&theme=github_dark_dimmed&hide_border=false&description_lines_count=2" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=pyKDEX&theme=default&hide_border=false&description_lines_count=2" />
+      <img width="49%" alt="pyKDEX" src="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=pyKDEX&description_lines_count=2" />
+    </picture>
+  </a>
+  <a href="https://github.com/hujinghaoabcd/GWRForge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=GWRForge&theme=github_dark_dimmed&hide_border=false&description_lines_count=2" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=GWRForge&theme=default&hide_border=false&description_lines_count=2" />
+      <img width="49%" alt="GWRForge" src="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=GWRForge&description_lines_count=2" />
+    </picture>
+  </a>
+  <a href="https://github.com/hujinghaoabcd/StarHub">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=StarHub&theme=github_dark_dimmed&hide_border=false&description_lines_count=2" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=StarHub&theme=default&hide_border=false&description_lines_count=2" />
+      <img width="49%" alt="StarHub" src="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=StarHub&description_lines_count=2" />
+    </picture>
+  </a>
+  <a href="https://github.com/hujinghaoabcd/AERMODKit">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=AERMODKit&theme=github_dark_dimmed&hide_border=false&description_lines_count=2" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=AERMODKit&theme=default&hide_border=false&description_lines_count=2" />
+      <img width="49%" alt="AERMODKit" src="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=AERMODKit&description_lines_count=2" />
+    </picture>
+  </a>
+  <a href="https://github.com/hujinghaoabcd/RepoForge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=RepoForge&theme=github_dark_dimmed&hide_border=false&description_lines_count=2" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=RepoForge&theme=default&hide_border=false&description_lines_count=2" />
+      <img width="49%" alt="RepoForge" src="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=RepoForge&description_lines_count=2" />
+    </picture>
+  </a>
+</p>
 
 ---
 
