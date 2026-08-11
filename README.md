@@ -49,14 +49,26 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
 ## 🚀 Featured Projects
 
 <p align="center">
+  <a href="https://github.com/hujinghaoabcd/spatialshap"><img src="assets/pinned/spatialshap.svg" width="49%" alt="spatialshap" /></a>
   <a href="https://github.com/hujinghaoabcd/DH-STGCN"><img src="assets/pinned/dh-stgcn.svg" width="49%" alt="DH-STGCN" /></a>
-  <a href="https://github.com/hujinghaoabcd/pyKDEX"><img src="assets/pinned/pykdex.svg" width="49%" alt="pyKDEX" /></a>
   <br/>
-  <a href="https://github.com/hujinghaoabcd/pyGWRx"><img src="assets/pinned/pygwrx.svg" width="49%" alt="pyGWRx" /></a>
+  <a href="https://github.com/hujinghaoabcd/pyGeoHet"><img src="assets/pinned/pygeohet.svg" width="49%" alt="pyGeoHet" /></a>
+  <a href="https://github.com/hujinghaoabcd/pySTARMAx"><img src="assets/pinned/pystarmax.svg" width="49%" alt="pySTARMAx" /></a>
+  <br/>
+  <a href="https://github.com/hujinghaoabcd/pyKDEX"><img src="assets/pinned/pykdex.svg" width="49%" alt="pyKDEX" /></a>
+  <a href="https://github.com/hujinghaoabcd/pySurveying"><img src="assets/pinned/pysurveying.svg" width="49%" alt="pySurveying" /></a>
+  <br/>
+  <a href="https://github.com/hujinghaoabcd/soil_interpolation"><img src="assets/pinned/soil-interpolation.svg" width="49%" alt="soil_interpolation" /></a>
+  <a href="https://github.com/hujinghaoabcd/GeoPortalX"><img src="assets/pinned/geoportalx.svg" width="49%" alt="GeoPortalX" /></a>
+  <br/>
+  <a href="https://github.com/hujinghaoabcd/openlayers-webgis-platform"><img src="assets/pinned/openlayers-webgis-platform.svg" width="49%" alt="openlayers-webgis-platform" /></a>
+  <a href="https://github.com/hujinghaoabcd/AirSimPortal"><img src="assets/pinned/airsimportal.svg" width="49%" alt="AirSimPortal" /></a>
+  <br/>
+  <a href="https://github.com/hujinghaoabcd/zhidun-crime-analysis"><img src="assets/pinned/zhidun-crime-analysis.svg" width="49%" alt="zhidun-crime-analysis" /></a>
   <a href="https://github.com/hujinghaoabcd/StarHub"><img src="assets/pinned/starhub.svg" width="49%" alt="StarHub" /></a>
   <br/>
-  <a href="https://github.com/hujinghaoabcd/AERMODKit"><img src="assets/pinned/aermodkit.svg" width="49%" alt="AERMODKit" /></a>
   <a href="https://github.com/hujinghaoabcd/RepoForge"><img src="assets/pinned/repoforge.svg" width="49%" alt="RepoForge" /></a>
+  <a href="https://github.com/hujinghaoabcd/PlotLibre"><img src="assets/pinned/plotlibre.svg" width="49%" alt="PlotLibre" /></a>
 </p>
 
 ---
