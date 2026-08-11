@@ -64,8 +64,6 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
 
 ## 🧭 Research & Open-source Ecosystem
 
-<p align="center"><sub>Research methods · geospatial analysis · environmental modeling · WebGIS · developer tooling</sub></p>
-
 | Area | Projects |
 | --- | --- |
 | 🧠 **GeoAI & Spatiotemporal AI** | [DH-STGCN](https://github.com/hujinghaoabcd/DH-STGCN) · [spatialshap](https://github.com/hujinghaoabcd/spatialshap) |
@@ -239,7 +237,3 @@ The goal is not only to publish models, but also to make the associated implemen
 - **Email:** hujinghao20@mails.ucas.ac.cn
 - **GitHub:** [@hujinghaoabcd](https://github.com/hujinghaoabcd)
 - **Academic Homepage:** [academic-homepage](https://github.com/hujinghaoabcd/academic-homepage)
-
-<p align="center">
-  <sub>Research with geography. Build with code. Share through open source.</sub>
-</p>
