@@ -49,48 +49,14 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/hujinghaoabcd/DH-STGCN">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=DH-STGCN&theme=github_dark_dimmed&hide_border=false&description_lines_count=2" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=DH-STGCN&theme=default&hide_border=false&description_lines_count=2" />
-      <img width="49%" alt="DH-STGCN" src="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=DH-STGCN&description_lines_count=2" />
-    </picture>
-  </a>
-  <a href="https://github.com/hujinghaoabcd/pyKDEX">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=pyKDEX&theme=github_dark_dimmed&hide_border=false&description_lines_count=2" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=pyKDEX&theme=default&hide_border=false&description_lines_count=2" />
-      <img width="49%" alt="pyKDEX" src="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=pyKDEX&description_lines_count=2" />
-    </picture>
-  </a>
-  <a href="https://github.com/hujinghaoabcd/GWRForge">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=GWRForge&theme=github_dark_dimmed&hide_border=false&description_lines_count=2" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=GWRForge&theme=default&hide_border=false&description_lines_count=2" />
-      <img width="49%" alt="GWRForge" src="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=GWRForge&description_lines_count=2" />
-    </picture>
-  </a>
-  <a href="https://github.com/hujinghaoabcd/StarHub">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=StarHub&theme=github_dark_dimmed&hide_border=false&description_lines_count=2" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=StarHub&theme=default&hide_border=false&description_lines_count=2" />
-      <img width="49%" alt="StarHub" src="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=StarHub&description_lines_count=2" />
-    </picture>
-  </a>
-  <a href="https://github.com/hujinghaoabcd/AERMODKit">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=AERMODKit&theme=github_dark_dimmed&hide_border=false&description_lines_count=2" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=AERMODKit&theme=default&hide_border=false&description_lines_count=2" />
-      <img width="49%" alt="AERMODKit" src="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=AERMODKit&description_lines_count=2" />
-    </picture>
-  </a>
-  <a href="https://github.com/hujinghaoabcd/RepoForge">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=RepoForge&theme=github_dark_dimmed&hide_border=false&description_lines_count=2" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=RepoForge&theme=default&hide_border=false&description_lines_count=2" />
-      <img width="49%" alt="RepoForge" src="https://github-readme-stats.vercel.app/api/pin/?username=hujinghaoabcd&repo=RepoForge&description_lines_count=2" />
-    </picture>
-  </a>
+  <a href="https://github.com/hujinghaoabcd/DH-STGCN"><img src="assets/pinned/dh-stgcn.svg" width="49%" alt="DH-STGCN" /></a>
+  <a href="https://github.com/hujinghaoabcd/pyKDEX"><img src="assets/pinned/pykdex.svg" width="49%" alt="pyKDEX" /></a>
+  <br/>
+  <a href="https://github.com/hujinghaoabcd/GWRForge"><img src="assets/pinned/gwrforge.svg" width="49%" alt="GWRForge" /></a>
+  <a href="https://github.com/hujinghaoabcd/StarHub"><img src="assets/pinned/starhub.svg" width="49%" alt="StarHub" /></a>
+  <br/>
+  <a href="https://github.com/hujinghaoabcd/AERMODKit"><img src="assets/pinned/aermodkit.svg" width="49%" alt="AERMODKit" /></a>
+  <a href="https://github.com/hujinghaoabcd/RepoForge"><img src="assets/pinned/repoforge.svg" width="49%" alt="RepoForge" /></a>
 </p>
 
 ---
