@@ -35,55 +35,13 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
 
 ## 🧭 Research & Open-source Ecosystem
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<strong>🧠 GeoAI &amp; Spatiotemporal AI</strong><br/><br/>
-<sub>Spatial intelligence, explainability and spatiotemporal forecasting.</sub><br/><br/>
-<a href="https://github.com/hujinghaoabcd/DH-STGCN"><code>DH-STGCN</code></a> · <a href="https://github.com/hujinghaoabcd/spatialshap"><code>spatialshap</code></a>
-</td>
-<td width="50%" valign="top">
-<strong>📐 Spatial Statistics</strong><br/><br/>
-<sub>Local modelling, spatial heterogeneity and space-time statistics.</sub><br/><br/>
-<a href="https://github.com/hujinghaoabcd/pyGWRx"><code>pyGWRx</code></a> · <a href="https://github.com/hujinghaoabcd/GWRForge"><code>GWRForge</code></a><br/>
-<a href="https://github.com/hujinghaoabcd/pyGeoHet"><code>pyGeoHet</code></a> · <a href="https://github.com/hujinghaoabcd/pySTARMAx"><code>pySTARMAx</code></a>
-</td>
-</tr>
-</table>
+<a href="https://github.com/hujinghaoabcd?tab=repositories">
+  <img src="assets/ecosystem.svg" width="100%" alt="Research and open-source ecosystem" />
+</a>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<strong>🗺️ Geospatial Analysis</strong><br/><br/>
-<sub>Reusable tools for spatial analysis, surveying and interpolation.</sub><br/><br/>
-<a href="https://github.com/hujinghaoabcd/pyKDEX"><code>pyKDEX</code></a> · <a href="https://github.com/hujinghaoabcd/pySurveying"><code>pySurveying</code></a><br/>
-<a href="https://github.com/hujinghaoabcd/soil_interpolation"><code>soil_interpolation</code></a>
-</td>
-<td width="50%" valign="top">
-<strong>🌫️ Environmental Modeling</strong><br/><br/>
-<sub>Atmospheric modelling workflows, documentation and research tooling.</sub><br/><br/>
-<a href="https://github.com/hujinghaoabcd/AERMODKit"><code>AERMODKit</code></a> · <a href="https://github.com/hujinghaoabcd/WRFDoc"><code>WRFDoc</code></a><br/>
-<a href="https://github.com/hujinghaoabcd/AERMODDoc"><code>AERMODDoc</code></a>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<strong>🌐 WebGIS &amp; Applications</strong><br/><br/>
-<sub>Modern geospatial platforms, visualization and domain applications.</sub><br/><br/>
-<a href="https://github.com/hujinghaoabcd/GeoPortalX"><code>GeoPortalX</code></a> · <a href="https://github.com/hujinghaoabcd/openlayers-webgis-platform"><code>OMap</code></a><br/>
-<a href="https://github.com/hujinghaoabcd/AirSimPortal"><code>AirSimPortal</code></a> · <a href="https://github.com/hujinghaoabcd/zhidun-crime-analysis"><code>ZhiDun</code></a>
-</td>
-<td width="50%" valign="top">
-<strong>🛠️ Developer Tools</strong><br/><br/>
-<sub>Repository standards, developer experience and reusable engineering tools.</sub><br/><br/>
-<a href="https://github.com/hujinghaoabcd/StarHub"><code>StarHub</code></a> · <a href="https://github.com/hujinghaoabcd/RepoForge"><code>RepoForge</code></a><br/>
-<a href="https://github.com/hujinghaoabcd/django-modern-admin"><code>django-modern-admin</code></a> · <a href="https://github.com/hujinghaoabcd/PlotLibre"><code>PlotLibre</code></a>
-</td>
-</tr>
-</table>
+<p align="center">
+  <sub>Research methods · geospatial analysis · environmental modeling · WebGIS · developer tooling</sub>
+</p>
 
 ---
 
