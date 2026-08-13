@@ -12,14 +12,15 @@
 </p>
 
 <p align="center">
+  <a href="README.md"><img src="https://img.shields.io/badge/English-0969DA?style=flat-square&logo=readme&logoColor=white" alt="English" /></a>
+  <a href="README_CN.md"><img src="https://img.shields.io/badge/中文-6E7781?style=flat-square&logo=readme&logoColor=white" alt="中文" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/hujinghaoabcd"><img src="https://img.shields.io/badge/GitHub-hujinghaoabcd-181717?style=flat-square&logo=github" /></a>
   <a href="mailto:hujinghao20@mails.ucas.ac.cn"><img src="https://img.shields.io/badge/Email-UCAS-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/hujinghaoabcd/academic-homepage"><img src="https://img.shields.io/badge/Academic-Homepage-2F80ED?style=flat-square" /></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hujinghaoabcd.hujinghaoabcd" />
-</p>
-
-<p align="center">
-  <a href="README.md">English</a> · <a href="README_CN.md">中文</a>
 </p>
 
 ---
