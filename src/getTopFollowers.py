@@ -2,9 +2,25 @@ import requests
 import json
 import sys
 import re
+import os
+
+
+def update_readme(path, html):
+    with open(path, "r", encoding="utf-8") as readme:
+        content = readme.read()
+
+    new_content = re.sub(
+        r"(?<=<!\-\-START_SECTION:top\-followers\-\->)[\s\S]*(?=<!\-\-END_SECTION:top\-followers\-\->)",
+        f"\n{html}\n",
+        content,
+    )
+
+    with open(path, "w", encoding="utf-8") as readme:
+        readme.write(new_content)
+
 
 if __name__ == "__main__":
-    assert(len(sys.argv) == 4)
+    assert len(sys.argv) == 4
     handle = sys.argv[1]
     token = sys.argv[2]
     readmePath = sys.argv[3]
@@ -55,29 +71,28 @@ query {{
 }}
 '''
         response = requests.post(
-            f"https://api.github.com/graphql", json.dumps({"query": query}), headers=headers)
+            "https://api.github.com/graphql",
+            json.dumps({"query": query}),
+            headers=headers,
+        )
         if not response.ok or "data" not in response.json():
             print(query)
             print(response.status_code)
             print(response.text)
             exit(1)
+
         res = response.json()["data"]["user"]["followers"]
         for follower in res["nodes"]:
-            following = follower["following"]["totalCount"]
-            repoCount = follower["repositories"]["totalCount"]
+            repo_count = follower["repositories"]["totalCount"]
             login = follower["login"]
             name = follower["name"]
-            id = follower["databaseId"]
-            followerNumber = follower["followers"]["totalCount"]
-            thirdStars = follower["repositories"]["nodes"][2]["stargazerCount"] if repoCount >= 3 else 0
-            contributionCount = follower["contributionsCollection"]["contributionCalendar"]["totalContributions"]
-            # if following > thirdStars * 50 + repoCount * 5 + followerNumber or contributionCount < 5:
-            #     print(
-            #         f"Skipped{'*' if followerNumber > 300 else ''}: https://github.com/{login} with {followerNumber} followers and {following} following")
-            #     continue
+            user_id = follower["databaseId"]
+            follower_number = follower["followers"]["totalCount"]
             followers.append(
-                (followerNumber, login, id, name if name else login))
+                (follower_number, login, user_id, name if name else login)
+            )
             print(followers[-1])
+
         sys.stdout.flush()
         if not res["pageInfo"]["hasNextPage"]:
             break
@@ -89,7 +104,7 @@ query {{
 
     for i in range(min(len(followers), 32)):
         login = followers[i][1]
-        id = followers[i][2]
+        user_id = followers[i][2]
         name = followers[i][3]
         if i % 8 == 0:
             if i != 0:
@@ -97,7 +112,7 @@ query {{
             html += "  <tr>\n"
         html += f'''    <td align="center">
       <a href="https://github.com/{login}">
-        <img src="https://avatars2.githubusercontent.com/u/{id}" width="64px;" alt="{login}"/>
+        <img src="https://avatars2.githubusercontent.com/u/{user_id}" width="64px;" alt="{login}"/>
       </a>
       <br />
       <sub><a href="https://github.com/{login}">{name}</a></sub>
@@ -105,13 +120,13 @@ query {{
 '''
 
     html += "  </tr>\n</table>"
-    print('sssssssss', html)
-    with open(readmePath, "r") as readme:
-        content = readme.read()
-        print('content', content)
 
-    newContent = re.sub(
-        r"(?<=<!\-\-START_SECTION:top\-followers\-\->)[\s\S]*(?=<!\-\-END_SECTION:top\-followers\-\->)", f"\n{html}\n", content)
+    targets = [readmePath]
+    if os.path.basename(readmePath) == "README.md":
+        chinese_readme = os.path.join(os.path.dirname(readmePath), "README_CN.md")
+        if os.path.exists(chinese_readme):
+            targets.append(chinese_readme)
 
-    with open(readmePath, "w") as readme:
-        readme.write(newContent)
+    for target in targets:
+        update_readme(target, html)
+        print(f"Updated followers in {target}")
