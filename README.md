@@ -1,6 +1,10 @@
 [![Header](https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304080529901.gif "Header")](https://github.com/hujinghaoabcd)
 
-<h1 align="center">Jinghao Hu · 胡靖昊</h1>
+<h1 align="center">
+  👨‍🎓
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&center=true&vCenter=true&width=335&height=30&lines=Hi!+I'm+Jinghao+Hu" alt="Typing SVG" /></a>
+  <img src="https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304091427639.gif" width="30px" alt="wave" />
+</h1>
 
 <p align="center">
   <strong>GIS · GeoAI · Spatial Modeling · Scientific Computing</strong><br/>
