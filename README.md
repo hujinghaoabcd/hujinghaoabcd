@@ -12,15 +12,12 @@
 </p>
 
 <p align="center">
-  <a href="README.md"><img src="https://img.shields.io/badge/English-0969DA?style=flat-square&logo=readme&logoColor=white" alt="English" /></a>
-  <a href="README_CN.md"><img src="https://img.shields.io/badge/中文-6E7781?style=flat-square&logo=readme&logoColor=white" alt="中文" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/hujinghaoabcd"><img src="https://img.shields.io/badge/GitHub-hujinghaoabcd-181717?style=flat-square&logo=github" /></a>
-  <a href="mailto:hujinghao20@mails.ucas.ac.cn"><img src="https://img.shields.io/badge/Email-UCAS-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/hujinghaoabcd/academic-homepage"><img src="https://img.shields.io/badge/Academic-Homepage-2F80ED?style=flat-square" /></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hujinghaoabcd.hujinghaoabcd" />
+  <a href="README.md"><img src="https://img.shields.io/badge/English-0969DA?style=flat-square" alt="English" /></a>
+  <a href="README_CN.md"><img src="https://img.shields.io/badge/中文-6E7781?style=flat-square" alt="中文" /></a>
+  <a href="https://github.com/hujinghaoabcd"><img src="https://img.shields.io/badge/GitHub-hujinghaoabcd-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="mailto:hujinghao20@mails.ucas.ac.cn"><img src="https://img.shields.io/badge/Email-UCAS-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/hujinghaoabcd/academic-homepage"><img src="https://img.shields.io/badge/Academic-Homepage-2F80ED?style=flat-square" alt="Academic Homepage" /></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hujinghaoabcd.hujinghaoabcd" alt="Visitors" />
 </p>
 
 ---
@@ -48,7 +45,7 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
   <kbd><img src="https://cdn.simpleicons.org/typescript/3178C6" width="28" height="28" alt="TypeScript" title="TypeScript" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="28" height="28" alt="SQL / PostgreSQL" title="SQL / PostgreSQL" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="28" height="28" alt="Bash" title="Bash" /></kbd>
-  <kbd><img src="https://cdn.simpleicons.org/powershell/5391FE" width="28" height="28" alt="PowerShell" title="PowerShell" /></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="28" height="28" alt="PowerShell" title="PowerShell" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/html5/E34F26" width="28" height="28" alt="HTML5" title="HTML5" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/css/663399" width="28" height="28" alt="CSS" title="CSS" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/markdown/000000" width="28" height="28" alt="Markdown" title="Markdown" /></kbd>
@@ -90,14 +87,14 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
 
 ## 🧭 Research & Open-source Ecosystem
 
-| Area | Projects |
-| --- | --- |
-| 🧠 **GeoAI & Spatiotemporal AI** | [DH-STGCN](https://github.com/hujinghaoabcd/DH-STGCN) · [spatialshap](https://github.com/hujinghaoabcd/spatialshap) |
-| 📐 **Spatial Statistics** | [pyGWRx](https://github.com/hujinghaoabcd/pyGWRx) · [GWRForge](https://github.com/hujinghaoabcd/GWRForge) · [pyGeoHet](https://github.com/hujinghaoabcd/pyGeoHet) · [pySTARMAx](https://github.com/hujinghaoabcd/pySTARMAx) |
-| 🗺️ **Geospatial Analysis** | [pyKDEX](https://github.com/hujinghaoabcd/pyKDEX) · [pySurveying](https://github.com/hujinghaoabcd/pySurveying) · [soil_interpolation](https://github.com/hujinghaoabcd/soil_interpolation) |
-| 🌫️ **Environmental Modeling** | [AERMODKit](https://github.com/hujinghaoabcd/AERMODKit) · [WRFDoc](https://github.com/hujinghaoabcd/WRFDoc) · [AERMODDoc](https://github.com/hujinghaoabcd/AERMODDoc) |
-| 🌐 **WebGIS & Applications** | [GeoPortalX](https://github.com/hujinghaoabcd/GeoPortalX) · [OMap](https://github.com/hujinghaoabcd/openlayers-webgis-platform) · [AirSimPortal](https://github.com/hujinghaoabcd/AirSimPortal) · [ZhiDun](https://github.com/hujinghaoabcd/zhidun-crime-analysis) |
-| 🛠️ **Developer Tools** | [StarHub](https://github.com/hujinghaoabcd/StarHub) · [RepoForge](https://github.com/hujinghaoabcd/RepoForge) · [Django Modern Admin](https://github.com/hujinghaoabcd/django-modern-admin) · [PlotLibre](https://github.com/hujinghaoabcd/PlotLibre) |
+| Area | Focus | Projects |
+| --- | --- | --- |
+| 🧠 **GeoAI & Spatiotemporal AI** | Explainability · traffic forecasting · graph learning | [DH-STGCN](https://github.com/hujinghaoabcd/DH-STGCN) · [spatialshap](https://github.com/hujinghaoabcd/spatialshap) |
+| 📐 **Spatial Statistics** | GWR · spatial heterogeneity · space-time statistics | [pyGWRx](https://github.com/hujinghaoabcd/pyGWRx) · [GWRForge](https://github.com/hujinghaoabcd/GWRForge) · [pyGeoHet](https://github.com/hujinghaoabcd/pyGeoHet) · [pySTARMAx](https://github.com/hujinghaoabcd/pySTARMAx) |
+| 🗺️ **Geospatial Analysis** | KDE · surveying · interpolation | [pyKDEX](https://github.com/hujinghaoabcd/pyKDEX) · [pySurveying](https://github.com/hujinghaoabcd/pySurveying) · [soil_interpolation](https://github.com/hujinghaoabcd/soil_interpolation) |
+| 🌫️ **Environmental Modeling** | Atmospheric dispersion · WRF/AERMOD workflows | [AERMODKit](https://github.com/hujinghaoabcd/AERMODKit) · [WRFDoc](https://github.com/hujinghaoabcd/WRFDoc) · [AERMODDoc](https://github.com/hujinghaoabcd/AERMODDoc) |
+| 🌐 **WebGIS & Applications** | Mapping platforms · domain applications | [GeoPortalX](https://github.com/hujinghaoabcd/GeoPortalX) · [OMap](https://github.com/hujinghaoabcd/openlayers-webgis-platform) · [AirSimPortal](https://github.com/hujinghaoabcd/AirSimPortal) · [ZhiDun](https://github.com/hujinghaoabcd/zhidun-crime-analysis) |
+| 🛠️ **Developer Tools** | Repository standards · project tooling · UI frameworks | [StarHub](https://github.com/hujinghaoabcd/StarHub) · [RepoForge](https://github.com/hujinghaoabcd/RepoForge) · [Django Modern Admin](https://github.com/hujinghaoabcd/django-modern-admin) · [PlotLibre](https://github.com/hujinghaoabcd/PlotLibre) |
 
 ---
 
