@@ -3,6 +3,13 @@ import json
 import sys
 import re
 import os
+import glob
+
+
+BANNER_PATTERN = re.compile(
+    r'^\[!\[(?:Header|头图)\]\([^\n]+\)\]\(https://github\.com/hujinghaoabcd\)$',
+    re.MULTILINE,
+)
 
 
 def update_readme(path, html):
@@ -17,6 +24,55 @@ def update_readme(path, html):
 
     with open(path, "w", encoding="utf-8") as readme:
         readme.write(new_content)
+
+
+def rotate_banner(targets):
+    banners = sorted(glob.glob("assets/banner*.gif"))
+    if not banners:
+        print("No assets/banner*.gif files found; banner rotation skipped")
+        return
+
+    current_banner = None
+    with open(targets[0], "r", encoding="utf-8") as readme:
+        content = readme.read()
+        match = re.search(r"assets/banner[^\s\)\"]*\.gif", content)
+        if match:
+            current_banner = match.group(0)
+
+    if current_banner in banners:
+        next_banner = banners[(banners.index(current_banner) + 1) % len(banners)]
+    else:
+        next_banner = banners[0]
+
+    for target in targets:
+        with open(target, "r", encoding="utf-8") as readme:
+            content = readme.read()
+
+        label = "头图" if os.path.basename(target) == "README_CN.md" else "Header"
+        replacement = (
+            f'[![{label}]({next_banner} "{label}")]'
+            f'(https://github.com/hujinghaoabcd)'
+        )
+
+        if BANNER_PATTERN.search(content):
+            content = BANNER_PATTERN.sub(replacement, content, count=1)
+        else:
+            lines = content.splitlines()
+            if lines:
+                lines[0] = replacement
+                content = "\n".join(lines)
+                if readme_ends_with_newline(target):
+                    content += "\n"
+
+        with open(target, "w", encoding="utf-8") as readme:
+            readme.write(content)
+        print(f"Rotated banner in {target} -> {next_banner}")
+
+
+def readme_ends_with_newline(path):
+    with open(path, "rb") as readme:
+        data = readme.read()
+    return data.endswith(b"\n")
 
 
 if __name__ == "__main__":
@@ -83,7 +139,6 @@ query {{
 
         res = response.json()["data"]["user"]["followers"]
         for follower in res["nodes"]:
-            repo_count = follower["repositories"]["totalCount"]
             login = follower["login"]
             name = follower["name"]
             user_id = follower["databaseId"]
@@ -126,6 +181,8 @@ query {{
         chinese_readme = os.path.join(os.path.dirname(readmePath), "README_CN.md")
         if os.path.exists(chinese_readme):
             targets.append(chinese_readme)
+
+    rotate_banner(targets)
 
     for target in targets:
         update_readme(target, html)
