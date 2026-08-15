@@ -11,6 +11,12 @@ BANNER_PATTERN = re.compile(
     re.MULTILINE,
 )
 
+POSTGIS_ICON_OLD = "https://cdn.simpleicons.org/postgis/336791"
+POSTGIS_ICON_NEW = (
+    "https://raw.githubusercontent.com/devicons/devicon/"
+    "master/icons/postgresql/postgresql-original.svg"
+)
+
 
 def update_readme(path, html):
     with open(path, "r", encoding="utf-8") as readme:
@@ -21,6 +27,7 @@ def update_readme(path, html):
         f"\n{html}\n",
         content,
     )
+    new_content = new_content.replace(POSTGIS_ICON_OLD, POSTGIS_ICON_NEW)
 
     with open(path, "w", encoding="utf-8") as readme:
         readme.write(new_content)
