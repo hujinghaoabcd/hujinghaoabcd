@@ -1,4 +1,4 @@
-[![Header](https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304080529901.gif "Header")](https://github.com/hujinghaoabcd)
+[![Header](assets/banner.gif "Header")](https://github.com/hujinghaoabcd)
 
 <h1 align="center">
   👨‍🎓
@@ -97,7 +97,6 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
 | 🛠️ **Developer Tools** | Repository standards · project tooling · UI frameworks | [StarHub](https://github.com/hujinghaoabcd/StarHub) · [RepoForge](https://github.com/hujinghaoabcd/RepoForge) · [Django Modern Admin](https://github.com/hujinghaoabcd/django-modern-admin) · [PlotLibre](https://github.com/hujinghaoabcd/PlotLibre) |
 
 ---
-
 ## 🚀 Featured Projects
 
 <p align="center">
