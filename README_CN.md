@@ -1,4 +1,4 @@
-[![头图](https://sdasddas.oss-cn-hangzhou.aliyuncs.com/keyan/202304080529901.gif "头图")](https://github.com/hujinghaoabcd)
+[![头图](assets/banner.gif "头图")](https://github.com/hujinghaoabcd)
 
 <h1 align="center">
   👨‍🎓
