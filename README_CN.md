@@ -60,7 +60,7 @@
   <kbd><img src="https://cdn.simpleicons.org/plotly/3F4F75" width="28" height="28" alt="Plotly" title="Plotly" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/geopandas/139C5A" width="28" height="28" alt="GeoPandas" title="GeoPandas" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/qgis/589632" width="28" height="28" alt="QGIS" title="QGIS" /></kbd>
-  <kbd><img src="https://cdn.simpleicons.org/postgis/336791" width="28" height="28" alt="PostGIS" title="PostGIS" /></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="28" height="28" alt="PostGIS" title="PostGIS" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/gdal/5CAE58" width="28" height="28" alt="GDAL" title="GDAL" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/maplibre/396CB2" width="28" height="28" alt="MapLibre" title="MapLibre" /></kbd>
   <kbd><img src="https://cdn.simpleicons.org/leaflet/199900" width="28" height="28" alt="Leaflet" title="Leaflet" /></kbd>
