@@ -5,7 +5,7 @@ import re
 import os
 
 
-SKILLS_WALL = '''<p align="center">
+SKILLS_WALL = '''<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
@@ -14,7 +14,6 @@ SKILLS_WALL = '''<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-  <br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
@@ -27,7 +26,6 @@ SKILLS_WALL = '''<p align="center">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
-  <br/>
   <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=geopandas&logoColor=white" alt="GeoPandas" />
   <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" />
   <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
@@ -35,7 +33,6 @@ SKILLS_WALL = '''<p align="center">
   <img src="https://img.shields.io/badge/MapLibre-396CB2?style=flat-square&logo=maplibre&logoColor=white" alt="MapLibre" />
   <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
   <img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white" alt="OpenLayers" />
-  <br/>
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
@@ -54,29 +51,27 @@ SKILLS_WALL = '''<p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>'''
 
-CARD_BASE = "https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned"
-
-FEATURED_CARDS = f'''<p align="center">
-  <a href="https://github.com/hujinghaoabcd/spatialshap"><img src="{CARD_BASE}/spatialshap.svg" width="49%" alt="spatialshap" /></a>
-  <a href="https://github.com/hujinghaoabcd/DH-STGCN"><img src="{CARD_BASE}/dh-stgcn.svg" width="49%" alt="DH-STGCN" /></a>
+FEATURED_SVG = '''<p align="center">
+  <a href="https://github.com/hujinghaoabcd/spatialshap"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/spatialshap.svg" width="49%" alt="spatialshap" /></a>
+  <a href="https://github.com/hujinghaoabcd/DH-STGCN"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/dh-stgcn.svg" width="49%" alt="DH-STGCN" /></a>
   <br/>
-  <a href="https://github.com/hujinghaoabcd/pyGeoHet"><img src="{CARD_BASE}/pygeohet.svg" width="49%" alt="pyGeoHet" /></a>
-  <a href="https://github.com/hujinghaoabcd/pySTARMAx"><img src="{CARD_BASE}/pystarmax.svg" width="49%" alt="pySTARMAx" /></a>
+  <a href="https://github.com/hujinghaoabcd/pyGeoHet"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/pygeohet.svg" width="49%" alt="pyGeoHet" /></a>
+  <a href="https://github.com/hujinghaoabcd/pySTARMAx"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/pystarmax.svg" width="49%" alt="pySTARMAx" /></a>
   <br/>
-  <a href="https://github.com/hujinghaoabcd/pyKDEX"><img src="{CARD_BASE}/pykdex.svg" width="49%" alt="pyKDEX" /></a>
-  <a href="https://github.com/hujinghaoabcd/pySurveying"><img src="{CARD_BASE}/pysurveying.svg" width="49%" alt="pySurveying" /></a>
+  <a href="https://github.com/hujinghaoabcd/pyKDEX"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/pykdex.svg" width="49%" alt="pyKDEX" /></a>
+  <a href="https://github.com/hujinghaoabcd/pySurveying"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/pysurveying.svg" width="49%" alt="pySurveying" /></a>
   <br/>
-  <a href="https://github.com/hujinghaoabcd/soil_interpolation"><img src="{CARD_BASE}/soil-interpolation.svg" width="49%" alt="soil_interpolation" /></a>
-  <a href="https://github.com/hujinghaoabcd/GeoPortalX"><img src="{CARD_BASE}/geoportalx.svg" width="49%" alt="GeoPortalX" /></a>
+  <a href="https://github.com/hujinghaoabcd/soil_interpolation"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/soil-interpolation.svg" width="49%" alt="soil_interpolation" /></a>
+  <a href="https://github.com/hujinghaoabcd/GeoPortalX"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/geoportalx.svg" width="49%" alt="GeoPortalX" /></a>
   <br/>
-  <a href="https://github.com/hujinghaoabcd/openlayers-webgis-platform"><img src="{CARD_BASE}/openlayers-webgis-platform.svg" width="49%" alt="OMap" /></a>
-  <a href="https://github.com/hujinghaoabcd/AirSimPortal"><img src="{CARD_BASE}/airsimportal.svg" width="49%" alt="AirSimPortal" /></a>
+  <a href="https://github.com/hujinghaoabcd/openlayers-webgis-platform"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/openlayers-webgis-platform.svg" width="49%" alt="OMap" /></a>
+  <a href="https://github.com/hujinghaoabcd/AirSimPortal"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/airsimportal.svg" width="49%" alt="AirSimPortal" /></a>
   <br/>
-  <a href="https://github.com/hujinghaoabcd/zhidun-crime-analysis"><img src="{CARD_BASE}/zhidun-crime-analysis.svg" width="49%" alt="ZhiDun" /></a>
-  <a href="https://github.com/hujinghaoabcd/StarHub"><img src="{CARD_BASE}/starhub.svg" width="49%" alt="StarHub" /></a>
+  <a href="https://github.com/hujinghaoabcd/zhidun-crime-analysis"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/zhidun-crime-analysis.svg" width="49%" alt="ZhiDun" /></a>
+  <a href="https://github.com/hujinghaoabcd/StarHub"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/starhub.svg" width="49%" alt="StarHub" /></a>
   <br/>
-  <a href="https://github.com/hujinghaoabcd/RepoForge"><img src="{CARD_BASE}/repoforge.svg" width="49%" alt="RepoForge" /></a>
-  <a href="https://github.com/hujinghaoabcd/PlotLibre"><img src="{CARD_BASE}/plotlibre.svg" width="49%" alt="PlotLibre" /></a>
+  <a href="https://github.com/hujinghaoabcd/RepoForge"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/repoforge.svg" width="49%" alt="RepoForge" /></a>
+  <a href="https://github.com/hujinghaoabcd/PlotLibre"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/plotlibre.svg" width="49%" alt="PlotLibre" /></a>
 </p>'''
 
 
@@ -86,7 +81,7 @@ def stabilize_static_sections(path):
 
     is_cn = os.path.basename(path) == "README_CN.md"
     banner_alt = "科技像素风头图" if is_cn else "Pixel technology banner"
-    banner = f'''<p align="center">
+    banner = f'''<p>
   <a href="https://github.com/hujinghaoabcd">
     <img src="assets/profile-banner-pixel.png" width="100%" alt="{banner_alt}" />
   </a>
@@ -108,7 +103,7 @@ def stabilize_static_sections(path):
         )
         content = re.sub(
             r"(## 🚀 精选项目\n\n)[\s\S]*?(\n---\n\n## 📚 文档与学习资源)",
-            lambda m: m.group(1) + FEATURED_CARDS + m.group(2),
+            lambda m: m.group(1) + FEATURED_SVG + m.group(2),
             content,
             count=1,
         )
@@ -121,7 +116,7 @@ def stabilize_static_sections(path):
         )
         content = re.sub(
             r"(## 🚀 Featured Projects\n\n)[\s\S]*?(\n---\n\n## 📚 Documentation & Learning)",
-            lambda m: m.group(1) + FEATURED_CARDS + m.group(2),
+            lambda m: m.group(1) + FEATURED_SVG + m.group(2),
             content,
             count=1,
         )
