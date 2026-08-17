@@ -41,14 +41,53 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
 
 ## 🧰 Languages, Frameworks, Tools & Skills
 
-<p>
-  <kbd>Python</kbd> <kbd>R</kbd> <kbd>C++</kbd> <kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>SQL / PostgreSQL</kbd> <kbd>Bash</kbd> <kbd>PowerShell</kbd>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
   <br/>
-  <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>Markdown</kbd> <kbd>LaTeX</kbd> <kbd>PyTorch</kbd> <kbd>NumPy</kbd> <kbd>SciPy</kbd> <kbd>Pandas</kbd> <kbd>scikit-learn</kbd> <kbd>Jupyter</kbd> <kbd>Matplotlib</kbd> <kbd>Plotly</kbd>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
   <br/>
-  <kbd>GeoPandas</kbd> <kbd>QGIS</kbd> <kbd>PostGIS</kbd> <kbd>GDAL</kbd> <kbd>MapLibre</kbd> <kbd>Leaflet</kbd> <kbd>OpenLayers</kbd>
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=geopandas&logoColor=white" alt="GeoPandas" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" />
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
+  <img src="https://img.shields.io/badge/GDAL-5CAE58?style=flat-square&logo=gdal&logoColor=white" alt="GDAL" />
+  <img src="https://img.shields.io/badge/MapLibre-396CB2?style=flat-square&logo=maplibre&logoColor=white" alt="MapLibre" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
+  <img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white" alt="OpenLayers" />
   <br/>
-  <kbd>Vue</kbd> <kbd>React</kbd> <kbd>Django</kbd> <kbd>Node.js</kbd> <kbd>Vite</kbd> <kbd>pnpm</kbd> <kbd>SQLite</kbd> <kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>Docker</kbd> <kbd>Linux</kbd> <kbd>CMake</kbd> <kbd>Qt</kbd> <kbd>Sphinx</kbd> <kbd>GitHub Actions</kbd> <kbd>VS Code</kbd>
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000" alt="Linux" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt" />
+  <img src="https://img.shields.io/badge/Sphinx-000000?style=flat-square&logo=sphinx&logoColor=white" alt="Sphinx" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 ---
 
@@ -67,15 +106,28 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
 
 ## 🚀 Featured Projects
 
-| Project | Project |
-| --- | --- |
-| **[spatialshap](https://github.com/hujinghaoabcd/spatialshap)**<br/><sub>Spatially conditioned Shapley explanations for geospatial models.</sub> | **[DH-STGCN](https://github.com/hujinghaoabcd/DH-STGCN)**<br/><sub>Dynamic hierarchical spatiotemporal graph learning for traffic forecasting.</sub> |
-| **[pyGeoHet](https://github.com/hujinghaoabcd/pyGeoHet)**<br/><sub>Spatially stratified heterogeneity analysis and GeoDetector methods.</sub> | **[pySTARMAx](https://github.com/hujinghaoabcd/pySTARMAx)**<br/><sub>STARMA / STARIMA modeling for spatiotemporal data.</sub> |
-| **[pyKDEX](https://github.com/hujinghaoabcd/pyKDEX)**<br/><sub>Kernel-density and geospatial analysis workflows in Python.</sub> | **[pySurveying](https://github.com/hujinghaoabcd/pySurveying)**<br/><sub>Surveying computation, adjustment, QC and visualization.</sub> |
-| **[soil_interpolation](https://github.com/hujinghaoabcd/soil_interpolation)**<br/><sub>Geostatistical workflows for soil spatial interpolation.</sub> | **[GeoPortalX](https://github.com/hujinghaoabcd/GeoPortalX)**<br/><sub>Lightweight geospatial data portal and web mapping platform.</sub> |
-| **[OMap](https://github.com/hujinghaoabcd/openlayers-webgis-platform)**<br/><sub>Modular OpenLayers / Vue / TypeScript WebGIS framework.</sub> | **[AirSimPortal](https://github.com/hujinghaoabcd/AirSimPortal)**<br/><sub>Atmospheric dispersion simulation and geospatial data platform.</sub> |
-| **[ZhiDun](https://github.com/hujinghaoabcd/zhidun-crime-analysis)**<br/><sub>GIS-oriented crime spatiotemporal analysis and visualization.</sub> | **[StarHub](https://github.com/hujinghaoabcd/StarHub)**<br/><sub>GitHub repository and project management utilities.</sub> |
-| **[RepoForge](https://github.com/hujinghaoabcd/RepoForge)**<br/><sub>Repository scaffolding and standardization tooling.</sub> | **[PlotLibre](https://github.com/hujinghaoabcd/PlotLibre)**<br/><sub>MapLibre-native semantic parametric plotting framework.</sub> |
+<p align="center">
+  <a href="https://github.com/hujinghaoabcd/spatialshap"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/spatialshap.svg" width="49%" alt="spatialshap" /></a>
+  <a href="https://github.com/hujinghaoabcd/DH-STGCN"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/dh-stgcn.svg" width="49%" alt="DH-STGCN" /></a>
+  <br/>
+  <a href="https://github.com/hujinghaoabcd/pyGeoHet"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/pygeohet.svg" width="49%" alt="pyGeoHet" /></a>
+  <a href="https://github.com/hujinghaoabcd/pySTARMAx"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/pystarmax.svg" width="49%" alt="pySTARMAx" /></a>
+  <br/>
+  <a href="https://github.com/hujinghaoabcd/pyKDEX"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/pykdex.svg" width="49%" alt="pyKDEX" /></a>
+  <a href="https://github.com/hujinghaoabcd/pySurveying"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/pysurveying.svg" width="49%" alt="pySurveying" /></a>
+  <br/>
+  <a href="https://github.com/hujinghaoabcd/soil_interpolation"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/soil-interpolation.svg" width="49%" alt="soil_interpolation" /></a>
+  <a href="https://github.com/hujinghaoabcd/GeoPortalX"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/geoportalx.svg" width="49%" alt="GeoPortalX" /></a>
+  <br/>
+  <a href="https://github.com/hujinghaoabcd/openlayers-webgis-platform"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/openlayers-webgis-platform.svg" width="49%" alt="OMap" /></a>
+  <a href="https://github.com/hujinghaoabcd/AirSimPortal"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/airsimportal.svg" width="49%" alt="AirSimPortal" /></a>
+  <br/>
+  <a href="https://github.com/hujinghaoabcd/zhidun-crime-analysis"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/zhidun-crime-analysis.svg" width="49%" alt="ZhiDun" /></a>
+  <a href="https://github.com/hujinghaoabcd/StarHub"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/starhub.svg" width="49%" alt="StarHub" /></a>
+  <br/>
+  <a href="https://github.com/hujinghaoabcd/RepoForge"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/repoforge.svg" width="49%" alt="RepoForge" /></a>
+  <a href="https://github.com/hujinghaoabcd/PlotLibre"><img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@master/assets/pinned/plotlibre.svg" width="49%" alt="PlotLibre" /></a>
+</p>
 ---
 
 ## 📚 Documentation & Learning
