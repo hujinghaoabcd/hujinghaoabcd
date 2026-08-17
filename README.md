@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/hujinghaoabcd">
-    <img src="https://raw.githubusercontent.com/hujinghaoabcd/hujinghaoabcd/904d9f92007de9da2ece09b6304374552edbde1a/assets/banner.gif" width="100%" alt="Pixel technology banner" />
+    <img src="assets/profile-banner-pixel.png" width="100%" alt="Pixel technology banner" />
   </a>
 </p>
 
@@ -42,51 +42,14 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
 ## 🧰 Languages, Frameworks, Tools & Skills
 
 <p>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28" alt="Python" title="Python" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="28" height="28" alt="R" title="R" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="28" height="28" alt="C++" title="C++" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript" title="JavaScript" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28" height="28" alt="TypeScript" title="TypeScript" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="28" height="28" alt="PostgreSQL" title="PostgreSQL" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="28" height="28" alt="Bash" title="Bash" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="28" height="28" alt="PowerShell" title="PowerShell" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28" height="28" alt="HTML5" title="HTML5" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28" height="28" alt="CSS3" title="CSS3" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="28" height="28" alt="Markdown" title="Markdown" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="28" height="28" alt="LaTeX" title="LaTeX" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="28" height="28" alt="PyTorch" title="PyTorch" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="28" height="28" alt="NumPy" title="NumPy" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" width="28" height="28" alt="SciPy" title="SciPy" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="28" height="28" alt="Pandas" title="Pandas" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="28" height="28" alt="scikit-learn" title="scikit-learn" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="28" height="28" alt="Jupyter" title="Jupyter" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="28" height="28" alt="Matplotlib" title="Matplotlib" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="28" height="28" alt="Vue" title="Vue" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" height="28" alt="React" title="React" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="28" height="28" alt="Django" title="Django" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28" height="28" alt="Node.js" title="Node.js" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="28" height="28" alt="SQLite" title="SQLite" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" height="28" alt="Git" title="Git" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="28" height="28" alt="GitHub" title="GitHub" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="28" height="28" alt="Docker" title="Docker" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28" height="28" alt="Linux" title="Linux" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" width="28" height="28" alt="CMake" title="CMake" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="28" height="28" alt="Qt" title="Qt" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="28" height="28" alt="VS Code" title="VS Code" /></kbd>
-  <kbd>Plotly</kbd>
-  <kbd>GeoPandas</kbd>
-  <kbd>QGIS</kbd>
-  <kbd>PostGIS</kbd>
-  <kbd>GDAL</kbd>
-  <kbd>MapLibre</kbd>
-  <kbd>Leaflet</kbd>
-  <kbd>OpenLayers</kbd>
-  <kbd>Vite</kbd>
-  <kbd>pnpm</kbd>
-  <kbd>Sphinx</kbd>
-  <kbd>GitHub Actions</kbd>
+  <kbd>Python</kbd> <kbd>R</kbd> <kbd>C++</kbd> <kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>SQL / PostgreSQL</kbd> <kbd>Bash</kbd> <kbd>PowerShell</kbd>
+  <br/>
+  <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>Markdown</kbd> <kbd>LaTeX</kbd> <kbd>PyTorch</kbd> <kbd>NumPy</kbd> <kbd>SciPy</kbd> <kbd>Pandas</kbd> <kbd>scikit-learn</kbd> <kbd>Jupyter</kbd> <kbd>Matplotlib</kbd> <kbd>Plotly</kbd>
+  <br/>
+  <kbd>GeoPandas</kbd> <kbd>QGIS</kbd> <kbd>PostGIS</kbd> <kbd>GDAL</kbd> <kbd>MapLibre</kbd> <kbd>Leaflet</kbd> <kbd>OpenLayers</kbd>
+  <br/>
+  <kbd>Vue</kbd> <kbd>React</kbd> <kbd>Django</kbd> <kbd>Node.js</kbd> <kbd>Vite</kbd> <kbd>pnpm</kbd> <kbd>SQLite</kbd> <kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>Docker</kbd> <kbd>Linux</kbd> <kbd>CMake</kbd> <kbd>Qt</kbd> <kbd>Sphinx</kbd> <kbd>GitHub Actions</kbd> <kbd>VS Code</kbd>
 </p>
-
 ---
 
 ## 🧭 Research & Open-source Ecosystem
@@ -104,29 +67,15 @@ My work focuses on connecting geographic theory, data-driven models, and reprodu
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/hujinghaoabcd/spatialshap"><img src="assets/pinned/spatialshap.svg" width="49%" alt="spatialshap" /></a>
-  <a href="https://github.com/hujinghaoabcd/DH-STGCN"><img src="assets/pinned/dh-stgcn.svg" width="49%" alt="DH-STGCN" /></a>
-  <br/>
-  <a href="https://github.com/hujinghaoabcd/pyGeoHet"><img src="assets/pinned/pygeohet.svg" width="49%" alt="pyGeoHet" /></a>
-  <a href="https://github.com/hujinghaoabcd/pySTARMAx"><img src="assets/pinned/pystarmax.svg" width="49%" alt="pySTARMAx" /></a>
-  <br/>
-  <a href="https://github.com/hujinghaoabcd/pyKDEX"><img src="assets/pinned/pykdex.svg" width="49%" alt="pyKDEX" /></a>
-  <a href="https://github.com/hujinghaoabcd/pySurveying"><img src="assets/pinned/pysurveying.svg" width="49%" alt="pySurveying" /></a>
-  <br/>
-  <a href="https://github.com/hujinghaoabcd/soil_interpolation"><img src="assets/pinned/soil-interpolation.svg" width="49%" alt="soil_interpolation" /></a>
-  <a href="https://github.com/hujinghaoabcd/GeoPortalX"><img src="assets/pinned/geoportalx.svg" width="49%" alt="GeoPortalX" /></a>
-  <br/>
-  <a href="https://github.com/hujinghaoabcd/openlayers-webgis-platform"><img src="assets/pinned/openlayers-webgis-platform.svg" width="49%" alt="openlayers-webgis-platform" /></a>
-  <a href="https://github.com/hujinghaoabcd/AirSimPortal"><img src="assets/pinned/airsimportal.svg" width="49%" alt="AirSimPortal" /></a>
-  <br/>
-  <a href="https://github.com/hujinghaoabcd/zhidun-crime-analysis"><img src="assets/pinned/zhidun-crime-analysis.svg" width="49%" alt="zhidun-crime-analysis" /></a>
-  <a href="https://github.com/hujinghaoabcd/StarHub"><img src="assets/pinned/starhub.svg" width="49%" alt="StarHub" /></a>
-  <br/>
-  <a href="https://github.com/hujinghaoabcd/RepoForge"><img src="assets/pinned/repoforge.svg" width="49%" alt="RepoForge" /></a>
-  <a href="https://github.com/hujinghaoabcd/PlotLibre"><img src="assets/pinned/plotlibre.svg" width="49%" alt="PlotLibre" /></a>
-</p>
-
+| Project | Project |
+| --- | --- |
+| **[spatialshap](https://github.com/hujinghaoabcd/spatialshap)**<br/><sub>Spatially conditioned Shapley explanations for geospatial models.</sub> | **[DH-STGCN](https://github.com/hujinghaoabcd/DH-STGCN)**<br/><sub>Dynamic hierarchical spatiotemporal graph learning for traffic forecasting.</sub> |
+| **[pyGeoHet](https://github.com/hujinghaoabcd/pyGeoHet)**<br/><sub>Spatially stratified heterogeneity analysis and GeoDetector methods.</sub> | **[pySTARMAx](https://github.com/hujinghaoabcd/pySTARMAx)**<br/><sub>STARMA / STARIMA modeling for spatiotemporal data.</sub> |
+| **[pyKDEX](https://github.com/hujinghaoabcd/pyKDEX)**<br/><sub>Kernel-density and geospatial analysis workflows in Python.</sub> | **[pySurveying](https://github.com/hujinghaoabcd/pySurveying)**<br/><sub>Surveying computation, adjustment, QC and visualization.</sub> |
+| **[soil_interpolation](https://github.com/hujinghaoabcd/soil_interpolation)**<br/><sub>Geostatistical workflows for soil spatial interpolation.</sub> | **[GeoPortalX](https://github.com/hujinghaoabcd/GeoPortalX)**<br/><sub>Lightweight geospatial data portal and web mapping platform.</sub> |
+| **[OMap](https://github.com/hujinghaoabcd/openlayers-webgis-platform)**<br/><sub>Modular OpenLayers / Vue / TypeScript WebGIS framework.</sub> | **[AirSimPortal](https://github.com/hujinghaoabcd/AirSimPortal)**<br/><sub>Atmospheric dispersion simulation and geospatial data platform.</sub> |
+| **[ZhiDun](https://github.com/hujinghaoabcd/zhidun-crime-analysis)**<br/><sub>GIS-oriented crime spatiotemporal analysis and visualization.</sub> | **[StarHub](https://github.com/hujinghaoabcd/StarHub)**<br/><sub>GitHub repository and project management utilities.</sub> |
+| **[RepoForge](https://github.com/hujinghaoabcd/RepoForge)**<br/><sub>Repository scaffolding and standardization tooling.</sub> | **[PlotLibre](https://github.com/hujinghaoabcd/PlotLibre)**<br/><sub>MapLibre-native semantic parametric plotting framework.</sub> |
 ---
 
 ## 📚 Documentation & Learning

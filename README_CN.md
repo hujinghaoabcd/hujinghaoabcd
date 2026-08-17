@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/hujinghaoabcd">
-    <img src="https://raw.githubusercontent.com/hujinghaoabcd/hujinghaoabcd/904d9f92007de9da2ece09b6304374552edbde1a/assets/banner.gif" width="100%" alt="科技像素 Banner" />
+    <img src="assets/profile-banner-pixel.png" width="100%" alt="科技像素风头图" />
   </a>
 </p>
 
@@ -42,51 +42,14 @@
 ## 🧰 语言、框架、工具和技能
 
 <p>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28" alt="Python" title="Python" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="28" height="28" alt="R" title="R" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="28" height="28" alt="C++" title="C++" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript" title="JavaScript" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28" height="28" alt="TypeScript" title="TypeScript" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="28" height="28" alt="PostgreSQL" title="PostgreSQL" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="28" height="28" alt="Bash" title="Bash" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="28" height="28" alt="PowerShell" title="PowerShell" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28" height="28" alt="HTML5" title="HTML5" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28" height="28" alt="CSS3" title="CSS3" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="28" height="28" alt="Markdown" title="Markdown" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="28" height="28" alt="LaTeX" title="LaTeX" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="28" height="28" alt="PyTorch" title="PyTorch" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="28" height="28" alt="NumPy" title="NumPy" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" width="28" height="28" alt="SciPy" title="SciPy" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="28" height="28" alt="Pandas" title="Pandas" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="28" height="28" alt="scikit-learn" title="scikit-learn" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="28" height="28" alt="Jupyter" title="Jupyter" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="28" height="28" alt="Matplotlib" title="Matplotlib" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="28" height="28" alt="Vue" title="Vue" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" height="28" alt="React" title="React" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="28" height="28" alt="Django" title="Django" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28" height="28" alt="Node.js" title="Node.js" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="28" height="28" alt="SQLite" title="SQLite" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" height="28" alt="Git" title="Git" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="28" height="28" alt="GitHub" title="GitHub" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="28" height="28" alt="Docker" title="Docker" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28" height="28" alt="Linux" title="Linux" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" width="28" height="28" alt="CMake" title="CMake" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="28" height="28" alt="Qt" title="Qt" /></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="28" height="28" alt="VS Code" title="VS Code" /></kbd>
-  <kbd>Plotly</kbd>
-  <kbd>GeoPandas</kbd>
-  <kbd>QGIS</kbd>
-  <kbd>PostGIS</kbd>
-  <kbd>GDAL</kbd>
-  <kbd>MapLibre</kbd>
-  <kbd>Leaflet</kbd>
-  <kbd>OpenLayers</kbd>
-  <kbd>Vite</kbd>
-  <kbd>pnpm</kbd>
-  <kbd>Sphinx</kbd>
-  <kbd>GitHub Actions</kbd>
+  <kbd>Python</kbd> <kbd>R</kbd> <kbd>C++</kbd> <kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>SQL / PostgreSQL</kbd> <kbd>Bash</kbd> <kbd>PowerShell</kbd>
+  <br/>
+  <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>Markdown</kbd> <kbd>LaTeX</kbd> <kbd>PyTorch</kbd> <kbd>NumPy</kbd> <kbd>SciPy</kbd> <kbd>Pandas</kbd> <kbd>scikit-learn</kbd> <kbd>Jupyter</kbd> <kbd>Matplotlib</kbd> <kbd>Plotly</kbd>
+  <br/>
+  <kbd>GeoPandas</kbd> <kbd>QGIS</kbd> <kbd>PostGIS</kbd> <kbd>GDAL</kbd> <kbd>MapLibre</kbd> <kbd>Leaflet</kbd> <kbd>OpenLayers</kbd>
+  <br/>
+  <kbd>Vue</kbd> <kbd>React</kbd> <kbd>Django</kbd> <kbd>Node.js</kbd> <kbd>Vite</kbd> <kbd>pnpm</kbd> <kbd>SQLite</kbd> <kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>Docker</kbd> <kbd>Linux</kbd> <kbd>CMake</kbd> <kbd>Qt</kbd> <kbd>Sphinx</kbd> <kbd>GitHub Actions</kbd> <kbd>VS Code</kbd>
 </p>
-
 ---
 
 ## 🧭 研究与开源生态系统
@@ -104,29 +67,15 @@
 
 ## 🚀 精选项目
 
-<p align="center">
-  <a href="https://github.com/hujinghaoabcd/spatialshap"><img src="assets/pinned/spatialshap.svg" width="49%" alt="spatialshap" /></a>
-  <a href="https://github.com/hujinghaoabcd/DH-STGCN"><img src="assets/pinned/dh-stgcn.svg" width="49%" alt="DH-STGCN" /></a>
-  <br/>
-  <a href="https://github.com/hujinghaoabcd/pyGeoHet"><img src="assets/pinned/pygeohet.svg" width="49%" alt="pyGeoHet" /></a>
-  <a href="https://github.com/hujinghaoabcd/pySTARMAx"><img src="assets/pinned/pystarmax.svg" width="49%" alt="pySTARMAx" /></a>
-  <br/>
-  <a href="https://github.com/hujinghaoabcd/pyKDEX"><img src="assets/pinned/pykdex.svg" width="49%" alt="pyKDEX" /></a>
-  <a href="https://github.com/hujinghaoabcd/pySurveying"><img src="assets/pinned/pysurveying.svg" width="49%" alt="pySurveying" /></a>
-  <br/>
-  <a href="https://github.com/hujinghaoabcd/soil_interpolation"><img src="assets/pinned/soil-interpolation.svg" width="49%" alt="soil_interpolation" /></a>
-  <a href="https://github.com/hujinghaoabcd/GeoPortalX"><img src="assets/pinned/geoportalx.svg" width="49%" alt="GeoPortalX" /></a>
-  <br/>
-  <a href="https://github.com/hujinghaoabcd/openlayers-webgis-platform"><img src="assets/pinned/openlayers-webgis-platform.svg" width="49%" alt="openlayers-webgis-platform" /></a>
-  <a href="https://github.com/hujinghaoabcd/AirSimPortal"><img src="assets/pinned/airsimportal.svg" width="49%" alt="AirSimPortal" /></a>
-  <br/>
-  <a href="https://github.com/hujinghaoabcd/zhidun-crime-analysis"><img src="assets/pinned/zhidun-crime-analysis.svg" width="49%" alt="zhidun-crime-analysis" /></a>
-  <a href="https://github.com/hujinghaoabcd/StarHub"><img src="assets/pinned/starhub.svg" width="49%" alt="StarHub" /></a>
-  <br/>
-  <a href="https://github.com/hujinghaoabcd/RepoForge"><img src="assets/pinned/repoforge.svg" width="49%" alt="RepoForge" /></a>
-  <a href="https://github.com/hujinghaoabcd/PlotLibre"><img src="assets/pinned/plotlibre.svg" width="49%" alt="PlotLibre" /></a>
-</p>
-
+| 项目 | 项目 |
+| --- | --- |
+| **[spatialshap](https://github.com/hujinghaoabcd/spatialshap)**<br/><sub>面向地理空间模型的空间条件 Shapley 可解释分析。</sub> | **[DH-STGCN](https://github.com/hujinghaoabcd/DH-STGCN)**<br/><sub>面向交通预测的动态层次时空图学习模型。</sub> |
+| **[pyGeoHet](https://github.com/hujinghaoabcd/pyGeoHet)**<br/><sub>空间分层异质性与 GeoDetector 分析工具。</sub> | **[pySTARMAx](https://github.com/hujinghaoabcd/pySTARMAx)**<br/><sub>面向时空数据的 STARMA / STARIMA 建模工具。</sub> |
+| **[pyKDEX](https://github.com/hujinghaoabcd/pyKDEX)**<br/><sub>Python 核密度与地理空间分析工作流。</sub> | **[pySurveying](https://github.com/hujinghaoabcd/pySurveying)**<br/><sub>测量计算、平差、质控与可视化工具。</sub> |
+| **[soil_interpolation](https://github.com/hujinghaoabcd/soil_interpolation)**<br/><sub>土壤空间插值与地统计分析工作流。</sub> | **[GeoPortalX](https://github.com/hujinghaoabcd/GeoPortalX)**<br/><sub>轻量级地理空间数据门户与 Web 地图平台。</sub> |
+| **[OMap](https://github.com/hujinghaoabcd/openlayers-webgis-platform)**<br/><sub>基于 OpenLayers / Vue / TypeScript 的模块化 WebGIS 框架。</sub> | **[AirSimPortal](https://github.com/hujinghaoabcd/AirSimPortal)**<br/><sub>大气污染扩散模拟与地理空间数据平台。</sub> |
+| **[ZhiDun](https://github.com/hujinghaoabcd/zhidun-crime-analysis)**<br/><sub>面向 GIS 的犯罪时空分析与可视化系统。</sub> | **[StarHub](https://github.com/hujinghaoabcd/StarHub)**<br/><sub>GitHub 仓库与项目管理工具。</sub> |
+| **[RepoForge](https://github.com/hujinghaoabcd/RepoForge)**<br/><sub>仓库脚手架与规范化工具。</sub> | **[PlotLibre](https://github.com/hujinghaoabcd/PlotLibre)**<br/><sub>MapLibre 原生语义化参数绘图框架。</sub> |
 ---
 
 ## 📚 文档与学习资源
