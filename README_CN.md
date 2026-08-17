@@ -1,6 +1,6 @@
 <p>
   <a href="https://github.com/hujinghaoabcd">
-    <img src="assets/profile-banner-pixel.png" width="100%" alt="科技像素风头图" />
+    <img src="https://cdn.jsdelivr.net/gh/hujinghaoabcd/hujinghaoabcd@904d9f92007de9da2ece09b6304374552edbde1a/assets/banner.gif" width="100%" alt="科技像素风头图" />
   </a>
 </p>
 
