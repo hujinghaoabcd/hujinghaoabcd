@@ -296,18 +296,18 @@ The goal is not only to publish models, but also to make the associated implemen
       <sub><a href="https://github.com/SathishGajendran">Sathish Gajendran</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/GISerDaiShaoqing">
-        <img src="https://avatars.githubusercontent.com/u/26642320?v=4&s=64" width="64" height="64" alt="GISerDaiShaoqing" />
-      </a>
-      <br />
-      <sub><a href="https://github.com/GISerDaiShaoqing">DaiShaoqing</a></sub>
-    </td>
-    <td align="center">
       <a href="https://github.com/enfycius">
         <img src="https://avatars.githubusercontent.com/u/34566999?v=4&s=64" width="64" height="64" alt="enfycius" />
       </a>
       <br />
       <sub><a href="https://github.com/enfycius">Kim JongHyeok</a></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GISerDaiShaoqing">
+        <img src="https://avatars.githubusercontent.com/u/26642320?v=4&s=64" width="64" height="64" alt="GISerDaiShaoqing" />
+      </a>
+      <br />
+      <sub><a href="https://github.com/GISerDaiShaoqing">DaiShaoqing</a></sub>
     </td>
     <td align="center">
       <a href="https://github.com/olavoparno">
