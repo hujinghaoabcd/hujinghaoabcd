@@ -166,13 +166,6 @@ The goal is not only to publish models, but also to make the associated implemen
       <sub><a href="https://github.com/djvelimir">Velimir Đurković</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/xcontcom">
-        <img src="https://avatars.githubusercontent.com/u/209551153?v=4&s=64" width="64" height="64" alt="xcontcom" />
-      </a>
-      <br />
-      <sub><a href="https://github.com/xcontcom">Serhii Herasymov</a></sub>
-    </td>
-    <td align="center">
       <a href="https://github.com/motanelson">
         <img src="https://avatars.githubusercontent.com/u/118323821?v=4&s=64" width="64" height="64" alt="motanelson" />
       </a>
@@ -207,8 +200,6 @@ The goal is not only to publish models, but also to make the associated implemen
       <br />
       <sub><a href="https://github.com/elhadjx">Hadj H.</a></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/chikitai">
         <img src="https://avatars.githubusercontent.com/u/153332620?v=4&s=64" width="64" height="64" alt="chikitai" />
@@ -216,6 +207,8 @@ The goal is not only to publish models, but also to make the associated implemen
       <br />
       <sub><a href="https://github.com/chikitai">Chikita Isaac </a></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/TheArtPlug">
         <img src="https://avatars.githubusercontent.com/u/79953999?v=4&s=64" width="64" height="64" alt="TheArtPlug" />
@@ -265,8 +258,6 @@ The goal is not only to publish models, but also to make the associated implemen
       <br />
       <sub><a href="https://github.com/Crypt-Guard">CryptGuard</a></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/jingsam">
         <img src="https://avatars.githubusercontent.com/u/1522494?v=4&s=64" width="64" height="64" alt="jingsam" />
@@ -274,6 +265,8 @@ The goal is not only to publish models, but also to make the associated implemen
       <br />
       <sub><a href="https://github.com/jingsam">jingsam</a></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/HelloEveryboby">
         <img src="https://avatars.githubusercontent.com/u/137047700?v=4&s=64" width="64" height="64" alt="HelloEveryboby" />
@@ -323,8 +316,6 @@ The goal is not only to publish models, but also to make the associated implemen
       <br />
       <sub><a href="https://github.com/olavoparno">Olavo Parno</a></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/sebjameswml">
         <img src="https://avatars.githubusercontent.com/u/130308?v=4&s=64" width="64" height="64" alt="sebjameswml" />
@@ -332,6 +323,8 @@ The goal is not only to publish models, but also to make the associated implemen
       <br />
       <sub><a href="https://github.com/sebjameswml">Seb James</a></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/condorheroblog">
         <img src="https://avatars.githubusercontent.com/u/47056890?v=4&s=64" width="64" height="64" alt="condorheroblog" />
@@ -380,6 +373,13 @@ The goal is not only to publish models, but also to make the associated implemen
       </a>
       <br />
       <sub><a href="https://github.com/fernando-aristizabal">Fernando Aristizabal</a></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ChanJeunlam">
+        <img src="https://avatars.githubusercontent.com/u/82876040?v=4&s=64" width="64" height="64" alt="ChanJeunlam" />
+      </a>
+      <br />
+      <sub><a href="https://github.com/ChanJeunlam">2907</a></sub>
     </td>
   </tr>
 </table>
