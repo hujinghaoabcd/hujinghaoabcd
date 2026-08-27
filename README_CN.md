@@ -217,18 +217,18 @@
       <sub><a href="https://github.com/TheArtPlug">Marcel Katz</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/anahi-hub">
-        <img src="https://avatars.githubusercontent.com/u/172525619?v=4&s=64" width="64" height="64" alt="anahi-hub" />
-      </a>
-      <br />
-      <sub><a href="https://github.com/anahi-hub">anahi-hub</a></sub>
-    </td>
-    <td align="center">
       <a href="https://github.com/prathamparmar1">
         <img src="https://avatars.githubusercontent.com/u/182216275?v=4&s=64" width="64" height="64" alt="prathamparmar1" />
       </a>
       <br />
       <sub><a href="https://github.com/prathamparmar1">Pratham Parmar</a></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anahi-hub">
+        <img src="https://avatars.githubusercontent.com/u/172525619?v=4&s=64" width="64" height="64" alt="anahi-hub" />
+      </a>
+      <br />
+      <sub><a href="https://github.com/anahi-hub">anahi-hub</a></sub>
     </td>
     <td align="center">
       <a href="https://github.com/Waledsakr">
@@ -354,18 +354,18 @@
       <sub><a href="https://github.com/poppingtonic">Brian Muhia</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/Dr-Jiemo">
-        <img src="https://avatars.githubusercontent.com/u/58060639?v=4&s=64" width="64" height="64" alt="Dr-Jiemo" />
-      </a>
-      <br />
-      <sub><a href="https://github.com/Dr-Jiemo">Theo</a></sub>
-    </td>
-    <td align="center">
       <a href="https://github.com/igormartins4">
         <img src="https://avatars.githubusercontent.com/u/23300792?v=4&s=64" width="64" height="64" alt="igormartins4" />
       </a>
       <br />
       <sub><a href="https://github.com/igormartins4">Igor Martins</a></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Dr-Jiemo">
+        <img src="https://avatars.githubusercontent.com/u/58060639?v=4&s=64" width="64" height="64" alt="Dr-Jiemo" />
+      </a>
+      <br />
+      <sub><a href="https://github.com/Dr-Jiemo">Theo</a></sub>
     </td>
     <td align="center">
       <a href="https://github.com/fernando-aristizabal">
