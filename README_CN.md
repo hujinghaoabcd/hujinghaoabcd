@@ -210,18 +210,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/TheArtPlug">
-        <img src="https://avatars.githubusercontent.com/u/79953999?v=4&s=64" width="64" height="64" alt="TheArtPlug" />
-      </a>
-      <br />
-      <sub><a href="https://github.com/TheArtPlug">Marcel Katz</a></sub>
-    </td>
-    <td align="center">
       <a href="https://github.com/prathamparmar1">
         <img src="https://avatars.githubusercontent.com/u/182216275?v=4&s=64" width="64" height="64" alt="prathamparmar1" />
       </a>
       <br />
       <sub><a href="https://github.com/prathamparmar1">Pratham Parmar</a></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TheArtPlug">
+        <img src="https://avatars.githubusercontent.com/u/79953999?v=4&s=64" width="64" height="64" alt="TheArtPlug" />
+      </a>
+      <br />
+      <sub><a href="https://github.com/TheArtPlug">Marcel Katz</a></sub>
     </td>
     <td align="center">
       <a href="https://github.com/anahi-hub">
