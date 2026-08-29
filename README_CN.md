@@ -238,18 +238,18 @@
       <sub><a href="https://github.com/Waledsakr">Waledsakr</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/businessservic">
-        <img src="https://avatars.githubusercontent.com/u/133143298?v=4&s=64" width="64" height="64" alt="businessservic" />
-      </a>
-      <br />
-      <sub><a href="https://github.com/businessservic">businessservic</a></sub>
-    </td>
-    <td align="center">
       <a href="https://github.com/lulunac27a">
         <img src="https://avatars.githubusercontent.com/u/100660343?v=4&s=64" width="64" height="64" alt="lulunac27a" />
       </a>
       <br />
       <sub><a href="https://github.com/lulunac27a">Lucas</a></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/businessservic">
+        <img src="https://avatars.githubusercontent.com/u/133143298?v=4&s=64" width="64" height="64" alt="businessservic" />
+      </a>
+      <br />
+      <sub><a href="https://github.com/businessservic">businessservic</a></sub>
     </td>
     <td align="center">
       <a href="https://github.com/Crypt-Guard">
@@ -375,11 +375,11 @@
       <sub><a href="https://github.com/fernando-aristizabal">Fernando Aristizabal</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/ChanJeunlam">
-        <img src="https://avatars.githubusercontent.com/u/82876040?v=4&s=64" width="64" height="64" alt="ChanJeunlam" />
+      <a href="https://github.com/xJayLee">
+        <img src="https://avatars.githubusercontent.com/u/3828222?v=4&s=64" width="64" height="64" alt="xJayLee" />
       </a>
       <br />
-      <sub><a href="https://github.com/ChanJeunlam">2907</a></sub>
+      <sub><a href="https://github.com/xJayLee">JayLee</a></sub>
     </td>
   </tr>
 </table>
