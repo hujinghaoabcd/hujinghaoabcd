@@ -354,18 +354,18 @@ The goal is not only to publish models, but also to make the associated implemen
       <sub><a href="https://github.com/poppingtonic">Brian Muhia</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/igormartins4">
-        <img src="https://avatars.githubusercontent.com/u/23300792?v=4&s=64" width="64" height="64" alt="igormartins4" />
-      </a>
-      <br />
-      <sub><a href="https://github.com/igormartins4">Igor Martins</a></sub>
-    </td>
-    <td align="center">
       <a href="https://github.com/Dr-Jiemo">
         <img src="https://avatars.githubusercontent.com/u/58060639?v=4&s=64" width="64" height="64" alt="Dr-Jiemo" />
       </a>
       <br />
       <sub><a href="https://github.com/Dr-Jiemo">Theo</a></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/igormartins4">
+        <img src="https://avatars.githubusercontent.com/u/23300792?v=4&s=64" width="64" height="64" alt="igormartins4" />
+      </a>
+      <br />
+      <sub><a href="https://github.com/igormartins4">Igor Martins</a></sub>
     </td>
     <td align="center">
       <a href="https://github.com/fernando-aristizabal">
