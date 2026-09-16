@@ -340,18 +340,18 @@ The goal is not only to publish models, but also to make the associated implemen
       <sub><a href="https://github.com/msakibhr">Md. Sakib Hassan Rimon</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/FlaviaLopes">
-        <img src="https://avatars.githubusercontent.com/u/27861617?v=4&s=64" width="64" height="64" alt="FlaviaLopes" />
-      </a>
-      <br />
-      <sub><a href="https://github.com/FlaviaLopes">Flávia Lopes</a></sub>
-    </td>
-    <td align="center">
       <a href="https://github.com/poppingtonic">
         <img src="https://avatars.githubusercontent.com/u/5781617?v=4&s=64" width="64" height="64" alt="poppingtonic" />
       </a>
       <br />
       <sub><a href="https://github.com/poppingtonic">Brian Muhia</a></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FlaviaLopes">
+        <img src="https://avatars.githubusercontent.com/u/27861617?v=4&s=64" width="64" height="64" alt="FlaviaLopes" />
+      </a>
+      <br />
+      <sub><a href="https://github.com/FlaviaLopes">Flávia Lopes</a></sub>
     </td>
     <td align="center">
       <a href="https://github.com/Dr-Jiemo">
