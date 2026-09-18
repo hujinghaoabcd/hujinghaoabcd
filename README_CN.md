@@ -289,6 +289,13 @@
       <sub><a href="https://github.com/Murplugg">Murplugg</a></sub>
     </td>
     <td align="center">
+      <a href="https://github.com/alfredshingai">
+        <img src="https://avatars.githubusercontent.com/u/252406987?v=4&s=64" width="64" height="64" alt="alfredshingai" />
+      </a>
+      <br />
+      <sub><a href="https://github.com/alfredshingai">Alfred Shingai</a></sub>
+    </td>
+    <td align="center">
       <a href="https://github.com/SathishGajendran">
         <img src="https://avatars.githubusercontent.com/u/11366964?v=4&s=64" width="64" height="64" alt="SathishGajendran" />
       </a>
@@ -316,6 +323,8 @@
       <br />
       <sub><a href="https://github.com/enfycius">Kim JongHyeok</a></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/olavoparno">
         <img src="https://avatars.githubusercontent.com/u/7513162?v=4&s=64" width="64" height="64" alt="olavoparno" />
@@ -323,8 +332,6 @@
       <br />
       <sub><a href="https://github.com/olavoparno">Olavo Parno</a></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/sebjameswml">
         <img src="https://avatars.githubusercontent.com/u/130308?v=4&s=64" width="64" height="64" alt="sebjameswml" />
@@ -373,13 +380,6 @@
       </a>
       <br />
       <sub><a href="https://github.com/igormartins4">Igor Martins</a></sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/fernando-aristizabal">
-        <img src="https://avatars.githubusercontent.com/u/16439785?v=4&s=64" width="64" height="64" alt="fernando-aristizabal" />
-      </a>
-      <br />
-      <sub><a href="https://github.com/fernando-aristizabal">Fernando Aristizabal</a></sub>
     </td>
   </tr>
 </table>
