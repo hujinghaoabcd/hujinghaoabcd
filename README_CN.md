@@ -275,6 +275,13 @@
       <sub><a href="https://github.com/jingsam">jingsam</a></sub>
     </td>
     <td align="center">
+      <a href="https://github.com/alfredshingai">
+        <img src="https://avatars.githubusercontent.com/u/252406987?v=4&s=64" width="64" height="64" alt="alfredshingai" />
+      </a>
+      <br />
+      <sub><a href="https://github.com/alfredshingai">Alfred Shingai</a></sub>
+    </td>
+    <td align="center">
       <a href="https://github.com/HelloEveryboby">
         <img src="https://avatars.githubusercontent.com/u/137047700?v=4&s=64" width="64" height="64" alt="HelloEveryboby" />
       </a>
@@ -287,13 +294,6 @@
       </a>
       <br />
       <sub><a href="https://github.com/Murplugg">Murplugg</a></sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/alfredshingai">
-        <img src="https://avatars.githubusercontent.com/u/252406987?v=4&s=64" width="64" height="64" alt="alfredshingai" />
-      </a>
-      <br />
-      <sub><a href="https://github.com/alfredshingai">Alfred Shingai</a></sub>
     </td>
     <td align="center">
       <a href="https://github.com/SathishGajendran">
