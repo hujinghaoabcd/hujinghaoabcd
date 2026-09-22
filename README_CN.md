@@ -268,18 +268,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/jingsam">
-        <img src="https://avatars.githubusercontent.com/u/1522494?v=4&s=64" width="64" height="64" alt="jingsam" />
-      </a>
-      <br />
-      <sub><a href="https://github.com/jingsam">jingsam</a></sub>
-    </td>
-    <td align="center">
       <a href="https://github.com/alfredshingai">
         <img src="https://avatars.githubusercontent.com/u/252406987?v=4&s=64" width="64" height="64" alt="alfredshingai" />
       </a>
       <br />
       <sub><a href="https://github.com/alfredshingai">Alfred Shingai</a></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jingsam">
+        <img src="https://avatars.githubusercontent.com/u/1522494?v=4&s=64" width="64" height="64" alt="jingsam" />
+      </a>
+      <br />
+      <sub><a href="https://github.com/jingsam">jingsam</a></sub>
     </td>
     <td align="center">
       <a href="https://github.com/HelloEveryboby">
