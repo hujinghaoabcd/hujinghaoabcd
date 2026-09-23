@@ -180,13 +180,6 @@
       <sub><a href="https://github.com/yumiaura">Olya Pi</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/Berserk-hub150">
-        <img src="https://avatars.githubusercontent.com/u/89993099?v=4&s=64" width="64" height="64" alt="Berserk-hub150" />
-      </a>
-      <br />
-      <sub><a href="https://github.com/Berserk-hub150">BerserkTime</a></sub>
-    </td>
-    <td align="center">
       <a href="https://github.com/bludnic">
         <img src="https://avatars.githubusercontent.com/u/25831507?v=4&s=64" width="64" height="64" alt="bludnic" />
       </a>
@@ -207,8 +200,6 @@
       <br />
       <sub><a href="https://github.com/elhadjx">Hadj H.</a></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/chikitai">
         <img src="https://avatars.githubusercontent.com/u/153332620?v=4&s=64" width="64" height="64" alt="chikitai" />
@@ -216,6 +207,8 @@
       <br />
       <sub><a href="https://github.com/chikitai">Chikita Isaac </a></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/prathamparmar1">
         <img src="https://avatars.githubusercontent.com/u/182216275?v=4&s=64" width="64" height="64" alt="prathamparmar1" />
@@ -259,6 +252,13 @@
       <sub><a href="https://github.com/businessservic">businessservic</a></sub>
     </td>
     <td align="center">
+      <a href="https://github.com/alfredshingai">
+        <img src="https://avatars.githubusercontent.com/u/252406987?v=4&s=64" width="64" height="64" alt="alfredshingai" />
+      </a>
+      <br />
+      <sub><a href="https://github.com/alfredshingai">Alfred Shingai</a></sub>
+    </td>
+    <td align="center">
       <a href="https://github.com/Crypt-Guard">
         <img src="https://avatars.githubusercontent.com/u/200695651?v=4&s=64" width="64" height="64" alt="Crypt-Guard" />
       </a>
@@ -267,13 +267,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/alfredshingai">
-        <img src="https://avatars.githubusercontent.com/u/252406987?v=4&s=64" width="64" height="64" alt="alfredshingai" />
-      </a>
-      <br />
-      <sub><a href="https://github.com/alfredshingai">Alfred Shingai</a></sub>
-    </td>
     <td align="center">
       <a href="https://github.com/jingsam">
         <img src="https://avatars.githubusercontent.com/u/1522494?v=4&s=64" width="64" height="64" alt="jingsam" />
@@ -323,8 +316,6 @@
       <br />
       <sub><a href="https://github.com/enfycius">Kim JongHyeok</a></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/olavoparno">
         <img src="https://avatars.githubusercontent.com/u/7513162?v=4&s=64" width="64" height="64" alt="olavoparno" />
@@ -332,6 +323,8 @@
       <br />
       <sub><a href="https://github.com/olavoparno">Olavo Parno</a></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/sebjameswml">
         <img src="https://avatars.githubusercontent.com/u/130308?v=4&s=64" width="64" height="64" alt="sebjameswml" />
@@ -380,6 +373,13 @@
       </a>
       <br />
       <sub><a href="https://github.com/igormartins4">Igor Martins</a></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fernando-aristizabal">
+        <img src="https://avatars.githubusercontent.com/u/16439785?v=4&s=64" width="64" height="64" alt="fernando-aristizabal" />
+      </a>
+      <br />
+      <sub><a href="https://github.com/fernando-aristizabal">Fernando Aristizabal</a></sub>
     </td>
   </tr>
 </table>
