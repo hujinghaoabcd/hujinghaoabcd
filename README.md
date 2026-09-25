@@ -231,6 +231,13 @@ The goal is not only to publish models, but also to make the associated implemen
       <sub><a href="https://github.com/anahi-hub">anahi-hub</a></sub>
     </td>
     <td align="center">
+      <a href="https://github.com/alfredshingai">
+        <img src="https://avatars.githubusercontent.com/u/252406987?v=4&s=64" width="64" height="64" alt="alfredshingai" />
+      </a>
+      <br />
+      <sub><a href="https://github.com/alfredshingai">Alfred Shingai</a></sub>
+    </td>
+    <td align="center">
       <a href="https://github.com/Waledsakr">
         <img src="https://avatars.githubusercontent.com/u/173066516?v=4&s=64" width="64" height="64" alt="Waledsakr" />
       </a>
@@ -250,13 +257,6 @@ The goal is not only to publish models, but also to make the associated implemen
       </a>
       <br />
       <sub><a href="https://github.com/businessservic">businessservic</a></sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/alfredshingai">
-        <img src="https://avatars.githubusercontent.com/u/252406987?v=4&s=64" width="64" height="64" alt="alfredshingai" />
-      </a>
-      <br />
-      <sub><a href="https://github.com/alfredshingai">Alfred Shingai</a></sub>
     </td>
     <td align="center">
       <a href="https://github.com/Crypt-Guard">
