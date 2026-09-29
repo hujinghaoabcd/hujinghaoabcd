@@ -217,6 +217,13 @@
       <sub><a href="https://github.com/prathamparmar1">Pratham Parmar</a></sub>
     </td>
     <td align="center">
+      <a href="https://github.com/alfredshingai">
+        <img src="https://avatars.githubusercontent.com/u/252406987?v=4&s=64" width="64" height="64" alt="alfredshingai" />
+      </a>
+      <br />
+      <sub><a href="https://github.com/alfredshingai">Alfred Shingai</a></sub>
+    </td>
+    <td align="center">
       <a href="https://github.com/TheArtPlug">
         <img src="https://avatars.githubusercontent.com/u/79953999?v=4&s=64" width="64" height="64" alt="TheArtPlug" />
       </a>
@@ -229,13 +236,6 @@
       </a>
       <br />
       <sub><a href="https://github.com/anahi-hub">anahi-hub</a></sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/alfredshingai">
-        <img src="https://avatars.githubusercontent.com/u/252406987?v=4&s=64" width="64" height="64" alt="alfredshingai" />
-      </a>
-      <br />
-      <sub><a href="https://github.com/alfredshingai">Alfred Shingai</a></sub>
     </td>
     <td align="center">
       <a href="https://github.com/Waledsakr">
