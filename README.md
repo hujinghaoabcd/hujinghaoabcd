@@ -333,18 +333,18 @@ The goal is not only to publish models, but also to make the associated implemen
       <sub><a href="https://github.com/sebjameswml">Seb James</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/condorheroblog">
-        <img src="https://avatars.githubusercontent.com/u/47056890?v=4&s=64" width="64" height="64" alt="condorheroblog" />
-      </a>
-      <br />
-      <sub><a href="https://github.com/condorheroblog">CondorHero</a></sub>
-    </td>
-    <td align="center">
       <a href="https://github.com/msakibhr">
         <img src="https://avatars.githubusercontent.com/u/35932759?v=4&s=64" width="64" height="64" alt="msakibhr" />
       </a>
       <br />
       <sub><a href="https://github.com/msakibhr">Md. Sakib Hassan Rimon</a></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/condorheroblog">
+        <img src="https://avatars.githubusercontent.com/u/47056890?v=4&s=64" width="64" height="64" alt="condorheroblog" />
+      </a>
+      <br />
+      <sub><a href="https://github.com/condorheroblog">CondorHero</a></sub>
     </td>
     <td align="center">
       <a href="https://github.com/poppingtonic">
