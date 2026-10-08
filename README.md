@@ -333,13 +333,6 @@ The goal is not only to publish models, but also to make the associated implemen
       <sub><a href="https://github.com/sebjameswml">Seb James</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/msakibhr">
-        <img src="https://avatars.githubusercontent.com/u/35932759?v=4&s=64" width="64" height="64" alt="msakibhr" />
-      </a>
-      <br />
-      <sub><a href="https://github.com/msakibhr">Md. Sakib Hassan Rimon</a></sub>
-    </td>
-    <td align="center">
       <a href="https://github.com/condorheroblog">
         <img src="https://avatars.githubusercontent.com/u/47056890?v=4&s=64" width="64" height="64" alt="condorheroblog" />
       </a>
@@ -347,11 +340,11 @@ The goal is not only to publish models, but also to make the associated implemen
       <sub><a href="https://github.com/condorheroblog">CondorHero</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/poppingtonic">
-        <img src="https://avatars.githubusercontent.com/u/5781617?v=4&s=64" width="64" height="64" alt="poppingtonic" />
+      <a href="https://github.com/msakibhr">
+        <img src="https://avatars.githubusercontent.com/u/35932759?v=4&s=64" width="64" height="64" alt="msakibhr" />
       </a>
       <br />
-      <sub><a href="https://github.com/poppingtonic">Brian Muhia</a></sub>
+      <sub><a href="https://github.com/msakibhr">Md. Sakib Hassan Rimon</a></sub>
     </td>
     <td align="center">
       <a href="https://github.com/FlaviaLopes">
@@ -359,6 +352,13 @@ The goal is not only to publish models, but also to make the associated implemen
       </a>
       <br />
       <sub><a href="https://github.com/FlaviaLopes">Flávia Lopes</a></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/poppingtonic">
+        <img src="https://avatars.githubusercontent.com/u/5781617?v=4&s=64" width="64" height="64" alt="poppingtonic" />
+      </a>
+      <br />
+      <sub><a href="https://github.com/poppingtonic">Brian Muhia</a></sub>
     </td>
     <td align="center">
       <a href="https://github.com/Dr-Jiemo">
