@@ -210,18 +210,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/prathamparmar1">
-        <img src="https://avatars.githubusercontent.com/u/182216275?v=4&s=64" width="64" height="64" alt="prathamparmar1" />
-      </a>
-      <br />
-      <sub><a href="https://github.com/prathamparmar1">Pratham Parmar</a></sub>
-    </td>
-    <td align="center">
       <a href="https://github.com/alfredshingai">
         <img src="https://avatars.githubusercontent.com/u/252406987?v=4&s=64" width="64" height="64" alt="alfredshingai" />
       </a>
       <br />
       <sub><a href="https://github.com/alfredshingai">Alfred Shingai</a></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/prathamparmar1">
+        <img src="https://avatars.githubusercontent.com/u/182216275?v=4&s=64" width="64" height="64" alt="prathamparmar1" />
+      </a>
+      <br />
+      <sub><a href="https://github.com/prathamparmar1">Pratham Parmar</a></sub>
     </td>
     <td align="center">
       <a href="https://github.com/TheArtPlug">
