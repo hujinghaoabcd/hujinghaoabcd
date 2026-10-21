@@ -210,13 +210,6 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/alfredshingai">
-        <img src="https://avatars.githubusercontent.com/u/252406987?v=4&s=64" width="64" height="64" alt="alfredshingai" />
-      </a>
-      <br />
-      <sub><a href="https://github.com/alfredshingai">Alfred Shingai</a></sub>
-    </td>
-    <td align="center">
       <a href="https://github.com/prathamparmar1">
         <img src="https://avatars.githubusercontent.com/u/182216275?v=4&s=64" width="64" height="64" alt="prathamparmar1" />
       </a>
@@ -265,8 +258,6 @@
       <br />
       <sub><a href="https://github.com/Crypt-Guard">CryptGuard</a></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/jingsam">
         <img src="https://avatars.githubusercontent.com/u/1522494?v=4&s=64" width="64" height="64" alt="jingsam" />
@@ -274,6 +265,8 @@
       <br />
       <sub><a href="https://github.com/jingsam">jingsam</a></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/HelloEveryboby">
         <img src="https://avatars.githubusercontent.com/u/137047700?v=4&s=64" width="64" height="64" alt="HelloEveryboby" />
@@ -323,8 +316,6 @@
       <br />
       <sub><a href="https://github.com/olavoparno">Olavo Parno</a></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/sebjameswml">
         <img src="https://avatars.githubusercontent.com/u/130308?v=4&s=64" width="64" height="64" alt="sebjameswml" />
@@ -332,6 +323,8 @@
       <br />
       <sub><a href="https://github.com/sebjameswml">Seb James</a></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/msakibhr">
         <img src="https://avatars.githubusercontent.com/u/35932759?v=4&s=64" width="64" height="64" alt="msakibhr" />
@@ -380,6 +373,13 @@
       </a>
       <br />
       <sub><a href="https://github.com/fernando-aristizabal">Fernando Aristizabal</a></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/xJayLee">
+        <img src="https://avatars.githubusercontent.com/u/3828222?v=4&s=64" width="64" height="64" alt="xJayLee" />
+      </a>
+      <br />
+      <sub><a href="https://github.com/xJayLee">JayLee</a></sub>
     </td>
   </tr>
 </table>
